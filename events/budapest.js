@@ -237,8 +237,8 @@ const budapestEvents = [
       en: 'The joyful Children Race is on 16 May in Városliget Park – a fun 1 km course designed for kids up to 8 years old. Expect playful obstacles, laughter, and cheering! This special event lets little ones shine while supporting good causes. All proceeds from tickets go to charities throughout Hungary.',
       ar: 'سباق الأطفال المبهج في 16 مايو في حديقة فوروشليغيت – مسار ممتع بطول 1 كم مصمم للأطفال حتى 8 سنوات. توقع عقبات مرحة، ضحكًا، وتشجيعًا! هذا الحدث الخاص يتيح للصغار التألق مع دعم القضايا النبيلة. جميع عائدات التذاكر تذهب إلى الجمعيات الخيرية في جميع أنحاء المجر.',
       es: 'La alegre Carrera Infantil es el 16 de mayo en el Parque Városliget – un divertido recorrido de 1 km diseñado para niños hasta 8 años. ¡Espera obstáculos juguetones, risas y animación! Este evento especial permite que los más pequeños brillen mientras apoyan buenas causas. Todos los ingresos de las entradas van a organizaciones benéficas en toda Hungría.',
-      de: 'Das fröhliche Kinder-Rennen findet am 16. Mai im Városliget-Park statt – ein spaßiger 1 km Kurs, der für Kinder bis 8 Jahre entwickelt wurde. Erwarten Sie spielerische Hindernisse, Lachen und Jubel! Dieses besondere Event lässt die Kleinen strahlen, während sie gute Zwecke unterstützen. Alle Einnahmen aus Tickets gehen an Wohltätigkeitsorganisationen in ganz Ungarn.',
-      hu: 'A vidám Gyermek Verseny május 16-án a Városliget Parkban – egy szórakoztató 1 km-es pálya, amely 8 év alatti gyerekeknek készült. Várjon játékos akadályokat, nevetést és tapsot! Ez a különleges esemény lehetővé teszi a kicsik számára, hogy ragyogjanak, miközben jó ügyeket támogatnak. A jegyek teljes bevételét Magyarország összes jótékonysági szervezetének adományozzák.',
+      de: 'Bald verfügbar',
+      hu: 'Részletek hamarosan',
       fr: "La joyeuse Course des Enfants a lieu le 16 mai au Parc Városliget – un parcours amusant de 1 km conçu pour les enfants jusqu'à 8 ans. Attendez-vous à des obstacles ludiques, des rires et des encouragements ! Cet événement spécial permet aux petits de briller tout en soutenant de bonnes causes. Tous les revenus des billets vont aux organisations caritatives dans toute la Hongrie.",
     },
     buttons: [
@@ -301,8 +301,8 @@ const budapestEvents = [
       en: 'Join the exciting Dogs Race event in Városliget, Budapest. Watch adorable dogs compete in a fun-filled race on May 16th at 9:00 AM. A perfect family-friendly activity during the Zayed Charity Run.',
       ar: 'انضم إلى حدث سباق الكلاب المثير في فوروشليغيت، بودابست. شاهد الكلاب الرائعة تتنافس في سباق مليء بالمرح في 16 مايو الساعة 9:00 صباحًا. نشاط مثالي للعائلة خلال سباق زايد الخيري.',
       es: 'Únete al emocionante evento de Carrera de Perros en Városliget, Budapest. Mira a adorables perros competir en una carrera llena de diversión el 16 de mayo a las 9:00 AM. Una actividad perfecta para familias durante la Carrera de Caridad Zayed.',
-      de: 'Nehmen Sie an der aufregenden Hunde-Rennen-Veranstaltung in Városliget, Budapest teil. Schauen Sie zu, wie niedliche Hunde in einem spaßigen Rennen am 16. Mai um 9:00 Uhr konkurrieren. Eine perfekte familienfreundliche Aktivität während des Zayed Charity Runs.',
-      hu: 'Csatlakozzon a izgalmas Kutyás Verseny eseményhez a Városligetben, Budapesten. Nézze meg a imádnivaló kutyák versenyeznek egy szórakoztató versenyben május 16-án 9:00-kor. Tökéletes családbarát tevékenység a Zayed Charity Run alatt.',
+      de: 'Bald verfügbar',
+      hu: 'Részletek hamarosan',
       fr: "Rejoignez l'émouvant événement Course de Chiens à Városliget, Budapest. Regardez des chiens adorables concourir dans une course remplie de plaisir le 16 mai à 9h00. Une activité parfaite pour les familles pendant la Course de Charité Zayed.",
     },
     buttons: [
@@ -365,8 +365,8 @@ const budapestEvents = [
       en: 'The Family Race on 16 May in Városliget Park is all about togetherness! One ticket covers a family group (minimum 2 people): at least one adult + child/grandchild (son, daughter, grandson, or granddaughter). No age limits. The whole group must cross the finish line together to win. A wonderful way to create family memories while helping charities across Hungary through your entry.',
       ar: 'سباق العائلة في 16 مايو في حديقة فوروشليغيت يدور حول التلاحم! تكفي تذكرة واحدة لمجموعة عائلية (حد أدنى شخصين): على الأقل بالغ واحد + طفل/حفيد (ابن، ابنة، حفيد، أو حفيدة). لا حدود عمرية. يجب على المجموعة بأكملها عبور خط النهاية معًا للفوز. طريقة رائعة لإنشاء ذكريات عائلية مع المساعدة في الجمعيات الخيرية في جميع أنحاء المجر من خلال اشتراكك.',
       es: '¡La Carrera Familiar el 16 de mayo en el Parque Városliget se trata de unión! Un boleto cubre un grupo familiar (mínimo 2 personas): al menos un adulto + niño/nieto (hijo, hija, nieto o nieta). Sin límites de edad. Todo el grupo debe cruzar la línea de meta juntos para ganar. Una maravillosa manera de crear recuerdos familiares mientras ayudas a organizaciones benéficas en toda Hungría a través de tu entrada.',
-      de: 'Das Familien-Rennen am 16. Mai im Városliget-Park dreht sich alles um Zusammenhalt! Ein Ticket deckt eine Familiengruppe ab (mindestens 2 Personen): mindestens ein Erwachsener + Kind/Enkel (Sohn, Tochter, Enkel oder Enkelin). Keine Altersbeschränkungen. Die ganze Gruppe muss gemeinsam die Ziellinie überqueren, um zu gewinnen. Eine wunderbare Möglichkeit, Familienerinnerungen zu schaffen, während Sie durch Ihren Eintritt Wohltätigkeitsorganisationen in ganz Ungarn helfen.',
-      hu: 'A Családi Verseny május 16-án a Városliget Parkban minden a összetartozásról szól! Egy jegy egy családi csoportot fed le (minimum 2 fő): legalább egy felnőtt + gyermek/unoka (fiú, lány, unoka vagy unoka). Nincs életkori korlátozás. A teljes csoportnak együtt kell átlépnie a célvonalat a győzelemhez. Csodálatos módja a családi emlékek létrehozásának, miközben belépésével segíti Magyarország összes jótékonysági szervezetét.',
+      de: 'Bald verfügbar',
+      hu: 'Részletek hamarosan',
       fr: "La Course Familiale le 16 mai au Parc Városliget est tout au sujet de l'union ! Un billet couvre un groupe familial (minimum 2 personnes) : au moins un adulte + enfant/petit-enfant (fils, fille, petit-fils ou petite-fille). Pas de limites d'âge. Tout le groupe doit franchir la ligne d'arrivée ensemble pour gagner. Une merveilleuse façon de créer des souvenirs familiaux tout en aidant les organisations caritatives dans toute la Hongrie grâce à votre inscription.",
     },
     buttons: [
@@ -399,8 +399,8 @@ const budapestEvents = [
       en: 'Join celebrities, influencers, and public figures in the Fame for Kindness event! This exclusive gathering brings together well-known personalities to champion charitable causes and inspire positive change. Experience networking opportunities with stars while supporting meaningful initiatives across Hungary.',
       ar: 'انضم إلى المشاهير والمؤثرين والشخصيات العامة في فعالية الشهرة للعون! يجمع هذا التجمع الحصري شخصيات معروفة لدعم العمل الإنساني وإلهام التغيير الإيجابي. استمتع بفرص التواصل مع النجوم مع دعم المبادرات ذات المعنى في جميع أنحاء المجر.',
       es: '¡Únete a celebridades, influencers y figuras públicas en el evento Fame for Kindness! Esta reunión exclusiva reúne a personalidades conocidas para defender causas benéficas e inspirar cambios positivos. Experimenta oportunidades de networking con estrellas mientras apoyas iniciativas significativas en toda Hungría.',
-      de: 'Treten Sie Celebrities, Influencern und öffentlichen Persönlichkeiten beim Fame for Kindness Event bei! Dieses exklusive Treffen bringt bekannte Persönlichkeiten zusammen, um wohltätige Anliegen zu fördern und positive Veränderungen zu inspirieren. Erleben Sie Networking-Möglichkeiten mit Stars, während Sie bedeutende Initiativen in ganz Ungarn unterstützen.',
-      hu: 'Csatlakozzon a hírességekhez, befolyásolókhoz és közéleti személyiségekhez a Fame for Kindness eseményen! Ez a exkluzív gyűlés jól ismert személyiségeket hoz össze a jótékonysági ügyek előmozdítása és a pozitív változás inspirálása érdekében. Tapasztalja meg a hálózati lehetőségeket a sztárokkal, miközben Magyarország összes értelmes kezdeményezését támogatja.',
+      de: 'Bald verfügbar',
+      hu: 'Részletek hamarosan',
       fr: "Rejoignez les célébrités, influenceurs et personnalités publiques à l'événement Fame for Kindness ! Ce rassemblement exclusif réunit des personnalités connues pour défendre les causes caritatives et inspirer le changement positif. Vivez des opportunités de réseautage avec les stars tout en soutenant des initiatives significatives dans toute la Hongrie.",
     },
     buttons: [
