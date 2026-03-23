@@ -127,49 +127,7 @@
     "volume": "Music Volume",
     "nowPlaying": "Playing Now",
     "duration": "Duration",
-    "original": "Original",
-    "tracks": {
-      "dar_zayed": {
-        "name": "Dar Zayed",
-        "original": "By Emirati Ensemble"
-      },
-      "emarat_almahaba": {
-        "name": "Emarat Almahaba",
-        "original": "By Hussain Al Jassmi"
-      },
-      "grund": {
-        "name": "Mi vagyunk a Grund!",
-        "original": "By A Pál utcai fiúk"
-      },
-      "hay_alshahamah": {
-        "name": "Hay Alshahamah",
-        "original": "By Hussain Al Jassmi"
-      },
-      "khams_alhawas": {
-        "name": "Khams Alhawas",
-        "original": "By Meehad Hamad"
-      },
-      "magyarorszag": {
-        "name": "Magyarország",
-        "original": "By Oláh Ibolya"
-      },
-      "az_eletem": {
-        "name": "Az Életem",
-        "original": "By T. Danny"
-      },
-      "naftakher": {
-        "name": "Naftakher",
-        "original": "By Emirates Choir"
-      },
-      "very_important": {
-        "name": "Mohem Jiddan",
-        "original": "By Hussain Al Jassmi"
-      },
-      "beethoven": {
-        "name": "Ode to Joy",
-        "original": "By Ludwig van Beethoven"
-      }
-    }
+    "original": "Original"
   },
   "navigation": {
     "home": "Home",
@@ -182,6 +140,7 @@
     "events": "Events",
     "program": "Program",
     "music": "Music",
+    "volunteer": "Volunteer",
     "changeCity": "Change City",
     "topTabs": "Top Tabs"
   },
@@ -214,5 +173,8 @@
   "tickets": {
     "tickets": "Tickets",
     "comingSoon": "Tickets feature coming soon!"
+  },
+  "volunteer": {
+    "comingSoon": "Coming Soon"
   }
 }

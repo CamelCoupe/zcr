@@ -127,49 +127,7 @@
     "volume": "مستوى الصوت",
     "nowPlaying": "قيد التشغيل الآن",
     "duration": "المدة",
-    "original": "الأغنية الأصلية من أداء",
-    "tracks": {
-      "dar_zayed": {
-        "name": "دار زايد",
-        "original": "كورال الإمارات"
-      },
-      "emarat_almahaba": {
-        "name": "إمارات المحبة",
-        "original": "حسين الجسمي"
-      },
-      "grund": {
-        "name": "مي فاجيونك أ غروند!",
-        "original": "أ بال أوتساي فيوك"
-      },
-      "hay_alshahamah": {
-        "name": "هاي الشهامة",
-        "original": "حسين الجسمي"
-      },
-      "khams_alhawas": {
-        "name": "خمس الحواس",
-        "original": "مهيد حمد"
-      },
-      "magyarorszag": {
-        "name": "المجر",
-        "original": "أولاه إيبوليا"
-      },
-      "az_eletem": {
-        "name": "أز إليتيم",
-        "original": "تي. داني"
-      },
-      "naftakher": {
-        "name": "نفتخر",
-        "original": "جوقة الإمارات"
-      },
-      "very_important": {
-        "name": "مهم جداً",
-        "original": "حسين الجسمي"
-      },
-      "beethoven": {
-        "name": "نشيد الفرح",
-        "original": "لودفيغ فان بيتهوفن"
-      }
-    }
+    "original": "الأغنية الأصلية من أداء"
   },
   "navigation": {
     "home": "الرئيسية",
@@ -183,6 +141,7 @@
     "events": "الفعاليات",
     "program": "البرنامج",
     "music": "الموسيقى",
+    "volunteer": "التطوع",
     "changeCity": "تغيير المدينة",
     "topTabs": "التبويبات العلوية"
   },
@@ -215,5 +174,8 @@
   "tickets": {
     "tickets": "التذاكر",
     "comingSoon": "ميزة التذاكر قريباً!"
+  },
+  "volunteer": {
+    "comingSoon": "قريباً"
   }
 }

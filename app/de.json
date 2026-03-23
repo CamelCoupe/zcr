@@ -127,49 +127,7 @@
     "volume": "Lautstärke",
     "nowPlaying": "Läuft gerade",
     "duration": "Dauer",
-    "original": "Original",
-    "tracks": {
-      "dar_zayed": {
-        "name": "Dar Zayed",
-        "original": "Von Emirati Ensemble"
-      },
-      "emarat_almahaba": {
-        "name": "Geliebte Emirate",
-        "original": "Von Hussain Al Jassmi"
-      },
-      "grund": {
-        "name": "Mi vagyunk a Grund!",
-        "original": "Von A Pál utcai fiúk"
-      },
-      "hay_alshahamah": {
-        "name": "Großzügigkeit",
-        "original": "Von Hussain Al Jassmi"
-      },
-      "khams_alhawas": {
-        "name": "Die fünf Sinne",
-        "original": "Von Meehad Hamad"
-      },
-      "magyarorszag": {
-        "name": "Ungarn",
-        "original": "Von Oláh Ibolya"
-      },
-      "az_eletem": {
-        "name": "Mein Leben",
-        "original": "Von T. Danny"
-      },
-      "naftakher": {
-        "name": "Wir sind stolz",
-        "original": "Von Emirates Choir"
-      },
-      "very_important": {
-        "name": "Sehr wichtig",
-        "original": "Von Hussain Al Jassmi"
-      },
-      "beethoven": {
-        "name": "Ode an die Freude",
-        "original": "Von Ludwig van Beethoven"
-      }
-    }
+    "original": "Original"
   },
   "navigation": {
     "home": "Startseite",
@@ -182,6 +140,7 @@
     "events": "Events",
     "program": "Programm",
     "music": "Musik",
+    "volunteer": "Freiwilliger",
     "changeCity": "Stadt ändern",
     "topTabs": "Obere Tabs"
   },
@@ -214,5 +173,8 @@
   "tickets": {
     "tickets": "Tickets",
     "comingSoon": "Tickets-Funktion bald verfügbar!"
+  },
+  "volunteer": {
+    "comingSoon": "Demnächst"
   }
 }

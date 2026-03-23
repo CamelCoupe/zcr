@@ -127,49 +127,7 @@
     "volume": "Volumen",
     "nowPlaying": "Reproduciendo ahora",
     "duration": "Duración",
-    "original": "Original",
-    "tracks": {
-      "dar_zayed": {
-        "name": "Dar Zayed",
-        "original": "Por Emirati Ensemble"
-      },
-      "emarat_almahaba": {
-        "name": "Emiratos Amados",
-        "original": "Por Hussain Al Jassmi"
-      },
-      "grund": {
-        "name": "Mi vagyunk a Grund!",
-        "original": "Por A Pál utcai fiúk"
-      },
-      "hay_alshahamah": {
-        "name": "Generosidad",
-        "original": "Por Hussain Al Jassmi"
-      },
-      "khams_alhawas": {
-        "name": "Los Cinco Sentidos",
-        "original": "Por Meehad Hamad"
-      },
-      "magyarorszag": {
-        "name": "Hungría",
-        "original": "Por Oláh Ibolya"
-      },
-      "az_eletem": {
-        "name": "Mi Vida",
-        "original": "Por T. Danny"
-      },
-      "naftakher": {
-        "name": "Estamos Orgullosos",
-        "original": "Por Emirates Choir"
-      },
-      "very_important": {
-        "name": "Muy importante",
-        "original": "Por Hussain Al Jassmi"
-      },
-      "beethoven": {
-        "name": "Oda a la Alegría",
-        "original": "Por Ludwig van Beethoven"
-      }
-    }
+    "original": "Original"
   },
   "navigation": {
     "home": "Inicio",
@@ -182,6 +140,7 @@
     "events": "Eventos",
     "program": "Programa",
     "music": "Música",
+    "volunteer": "Voluntario",
     "changeCity": "Cambiar ciudad",
     "topTabs": "Pestañas superiores"
   },
@@ -214,5 +173,8 @@
   "tickets": {
     "tickets": "Entradas",
     "comingSoon": "¡Próximamente!"
+  },
+  "volunteer": {
+    "comingSoon": "Próximamente"
   }
 }

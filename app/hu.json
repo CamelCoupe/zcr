@@ -128,49 +128,7 @@
     "volume": "Hangerő",
     "nowPlaying": "Most játszott",
     "duration": "Időtartam",
-    "original": "Eredeti",
-    "tracks": {
-      "dar_zayed": {
-        "name": "Dar Zayed",
-        "original": "Emirati Ensemble előadásában"
-      },
-      "emarat_almahaba": {
-        "name": "Szeretett Emírségek",
-        "original": "Hussain Al Jassmi előadásában"
-      },
-      "grund": {
-        "name": "Mi vagyunk a Grund!",
-        "original": "A Pál utcai fiúk előadásában"
-      },
-      "hay_alshahamah": {
-        "name": "Nagylelkűség",
-        "original": "Hussain Al Jassmi előadásában"
-      },
-      "khams_alhawas": {
-        "name": "Az Öt Érzék",
-        "original": "Meehad Hamad előadásában"
-      },
-      "magyarorszag": {
-        "name": "Magyarország",
-        "original": "Oláh Ibolya előadásában"
-      },
-      "az_eletem": {
-        "name": "Az Életem",
-        "original": "T. Danny előadásában"
-      },
-      "naftakher": {
-        "name": "Büszkék Vagyunk",
-        "original": "Emirates Choir előadásában"
-      },
-      "very_important": {
-        "name": "Nagyon fontos",
-        "original": "Hussain Al Jassmi előadásában"
-      },
-      "beethoven": {
-        "name": "Örömóda",
-        "original": "Ludwig van Beethoven előadásában"
-      }
-    }
+    "original": "Eredeti"
   },
   "navigation": {
     "home": "Kezdőlap",
@@ -183,6 +141,7 @@
     "events": "Események",
     "program": "Program",
     "music": "Zene",
+    "volunteer": "Önkéntes",
     "changeCity": "Város váltása",
     "topTabs": "Menüpontok"
   },
@@ -215,5 +174,8 @@
   "tickets": {
     "tickets": "Jegyek",
     "comingSoon": "Jegyek hamarosan!"
+  },
+  "volunteer": {
+    "comingSoon": "Hamarosan"
   }
 }

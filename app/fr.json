@@ -127,49 +127,7 @@
     "volume": "Volume",
     "nowPlaying": "En cours de lecture",
     "duration": "Durée",
-    "original": "Original",
-    "tracks": {
-      "dar_zayed": {
-        "name": "Dar Zayed",
-        "original": "Par Emirati Ensemble"
-      },
-      "emarat_almahaba": {
-        "name": "Émirats Bien-Aimés",
-        "original": "Par Hussain Al Jassmi"
-      },
-      "grund": {
-        "name": "Mi vagyunk a Grund!",
-        "original": "Par A Pál utcai fiúk"
-      },
-      "hay_alshahamah": {
-        "name": "Générosité",
-        "original": "Par Hussain Al Jassmi"
-      },
-      "khams_alhawas": {
-        "name": "Les Cinq Sens",
-        "original": "Par Meehad Hamad"
-      },
-      "magyarorszag": {
-        "name": "Hongrie",
-        "original": "Par Oláh Ibolya"
-      },
-      "az_eletem": {
-        "name": "Ma Vie",
-        "original": "Par T. Danny"
-      },
-      "naftakher": {
-        "name": "Nous Sommes Fiers",
-        "original": "Par Emirates Choir"
-      },
-      "very_important": {
-        "name": "Très important",
-        "original": "Par Hussain Al Jassmi"
-      },
-      "beethoven": {
-        "name": "Ode à la Joie",
-        "original": "Par Ludwig van Beethoven"
-      }
-    }
+    "original": "Original"
   },
   "navigation": {
     "home": "Accueil",
@@ -182,6 +140,7 @@
     "events": "Événements",
     "program": "Programme",
     "music": "Musique",
+    "volunteer": "Bénévole",
     "changeCity": "Changer de ville",
     "topTabs": "Onglets supérieurs"
   },
@@ -214,5 +173,8 @@
   "tickets": {
     "tickets": "Billets",
     "comingSoon": "Fonction billets bientôt disponible !"
+  },
+  "volunteer": {
+    "comingSoon": "Bientôt disponible"
   }
 }
