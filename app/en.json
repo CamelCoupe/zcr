@@ -1,0 +1,218 @@
+{
+  "app": {
+    "name": "Zayed Charity Run"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username"
+  },
+  "charity": {
+    "donate": "Donate",
+    "totalRaised": "Total Raised",
+    "goal": "Goal",
+    "supporters": "Supporters",
+    "impact": "Impact",
+    "revenue": "Revenue So Far ...",
+    "ticketsPurchased": "Tickets Purchased",
+    "totalIncome": "Total Income"
+  },
+  "cities": {
+    "miami": {
+      "name": "Miami",
+      "tagline": "Run for Kindness",
+      "description": "The Zayed Charity Run, known in the United States as the UAE Healthy Kidney Run, first expanded to New York in 2005, where it has since remained one of the city's most popular charitable runs. Organized in partnership with the National Kidney Foundation and the UAE Embassy in Washington, D.C., all proceeds from the event are dedicated to supporting kidney research. Now, the \"kindest run in the world\" is returning to the United States, taking place in Miami, Florida, on 31 January 2026. This meaningful charity event continues to reflect the enduring friendship between the UAE and the USA, as well as the UAE's steadfast commitment to humanitarian and health causes worldwide."
+    },
+    "budapest": {
+      "name": "Budapest",
+      "tagline": "Run for Kindness",
+      "description": "The Zayed Charity Run comes to Budapest from May 16 to 17, 2026, uniting runners and families in a celebration of fitness, community, and philanthropy. Featuring competitive races including a scenic 10K urban course through the city's historic heart, a 5K and 3K through the beautiful Városliget Park, and a special children's race, the event also offers unique experiences like hot air balloon rides providing breathtaking views of Budapest. All proceeds from ticket sales support charities across Hungary, embodying the run's commitment to generosity and making a positive impact in communities worldwide."
+    },
+    "abudhabi": {
+      "name": "Abu Dhabi",
+      "tagline": "Run for Kindness",
+      "description": "Join us on Saturday, 29 November 2025, at Wahat Al Karama for the new edition of the Zayed Charity Run, an event that celebrates fitness, generosity, and the essence of human values. Whether you're a casual runner or a professional athlete, you can choose from 3 km, 5 km, or 10 km distances. The run kicks off at 7:00 am from Wahat Al Karama and finishes at Erth Abu Dhabi. This Year, proceeds from the run will support three pioneering research programs at the Abu Dhabi Stem Cell Center (ADSCC): advancing personalized cancer therapy through Tumour Infiltrating Lymphocytes (TILs), developing a Bioinformatics and AI platform to drive precision medicine for conditions such as multiple sclerosis and type 1 diabetes, and the Perinatal Project, which transforms donated placental tissue into innovative treatments for skin care and wound healing, emphasizing the runs mission to promote health, innovation, and community impact."
+    },
+    "cairo": {
+      "name": "Cairo",
+      "tagline": "Run for Kindness",
+      "description": "The Zayed Charity Run returns to Egypt on Friday, 26 December 2025, continuing its humanitarian journey that celebrates the enduring bond between the United Arab Emirates and Egypt. Organized in collaboration with the UAE Embassy in Egypt and the Egyptian Ministry of Youth and Sports, this year's edition will once again bring together thousands of participants to run for a noble cause. All proceeds from the event will go toward supporting life-saving treatments and medical research for young patients. The Zayed Charity Run continues to embody the values of generosity, unity, and hope, inspired by the timeless legacy of the UAE's Founding Father, the late Sheikh Zayed bin Sultan Al Nahyan."
+    },
+    "beijing": {
+      "name": "Beijing",
+      "tagline": "Run for Kindness",
+      "description": "Uniting the UAE and China in a historic celebration of sport, culture, and humanity, this landmark initiative brings together two nations through a unique blend of athletics and cultural exchange. The event will be held from 20 to 22 September 2025, across three iconic venues in Beijing: Huairou Jinyu Xingfa Science Park, Huairou District, and the Great Wall – Mutianyu Section. Donations will go to the Huairou District Women's Federation, the Huairou District Disabled Persons' Federation, the Red Cross Society in Beijing Huairou, and the Children's Welfare Institute in Huairou. This reflects the authentic values of the run and embodies its ongoing commitment to making a tangible difference in the lives of those most in need."
+    },
+    "riodejaneiro": {
+      "name": "Rio de Janeiro",
+      "tagline": "Run for Kindness",
+      "description": "On 5 October 2025, the Zayed Charity Run will arrive in Latin America for the very first time, hosted at the iconic Copacabana Beach in Rio de Janeiro. Launched in Abu Dhabi to honor the legacy of the late Sheikh Zayed bin Sultan Al Nahyan, the Run has grown into a global movement uniting sport, community, and philanthropy, with memorable editions in cities such as Cairo, New York, and Miami. Now, this legacy continues in Brazil, with its first edition hosted in Rio de Janeiro. Proceeds from the Rio edition will support Rio Solidário, a respected nonprofit that partners with government and community organizations to promote social inclusion and provide vital support to vulnerable groups, including children, women, and families in need."
+    },
+    "ethiopia": {
+      "name": "Ethiopia",
+      "tagline": "Run for Kindness",
+      "description": "The Zayed Charity Run arrives in Ethiopia, uniting communities in a celebration of health, unity, and philanthropy. This inaugural event features a scenic 10K course through Addis Ababa's historic landmarks, a 5K family-friendly route, and a 3K fun run for children. All proceeds support local charities and initiatives promoting education and healthcare in Ethiopia, embodying the run's global mission of kindness and positive change."
+    }
+  },
+  "common": {
+    "appName": "Zayed Charity Run",
+    "welcome": "Welcome",
+    "selectCity": "Select Your City",
+    "chooseRaceVersion": "Choose your race version",
+    "select": "Select",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "english": "English",
+    "arabic": "Arabic",
+    "hungarian": "Hungarian",
+    "spanish": "Spanish",
+    "german": "German",
+    "french": "French",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "countdownToStart": "Get ready...",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "comingSoon": "Coming Soon"
+  },
+  "events": {
+    "comingSoon": "Events feature coming soon!",
+    "buyTickets": "Buy Tickets",
+    "saveToCalendar": "Save to Calendar",
+    "viewOnMap": "View on Map",
+    "bookNow": "Book Now",
+    "10KRace": "10K Race",
+    "5KRace": "5K Race",
+    "3KRace": "3K Race",
+    "ChildrenRace": "Children's Race",
+    "DogsRace": "Dogs Race",
+    "FamilyRace": "Family Race",
+    "FameForKindness": "Fame for Kindness"
+  },
+  "loading": {
+    "initializing": "Initializing...",
+    "loadingCity": "Loading city...",
+    "fetchingRevenue": "Fetching revenue...",
+    "loadingPreferences": "Loading preferences...",
+    "ready": "Ready!"
+  },
+  "map": {
+    "comingSoon": "Map feature coming soon!",
+    "satellite": "Satellite",
+    "standard": "Standard",
+    "pointOfInterest": "Point of Interest",
+    "eventLocation": "Event Location",
+    "pathShown": "Route path shown",
+    "pathHidden": "Route path hidden"
+  },
+  "music": {
+    "title": "Music",
+    "volume": "Music Volume",
+    "nowPlaying": "Playing Now",
+    "duration": "Duration",
+    "original": "Original",
+    "tracks": {
+      "dar_zayed": {
+        "name": "Dar Zayed",
+        "original": "By Emirati Ensemble"
+      },
+      "emarat_almahaba": {
+        "name": "Emarat Almahaba",
+        "original": "By Hussain Al Jassmi"
+      },
+      "grund": {
+        "name": "Mi vagyunk a Grund!",
+        "original": "By A Pál utcai fiúk"
+      },
+      "hay_alshahamah": {
+        "name": "Hay Alshahamah",
+        "original": "By Hussain Al Jassmi"
+      },
+      "khams_alhawas": {
+        "name": "Khams Alhawas",
+        "original": "By Meehad Hamad"
+      },
+      "magyarorszag": {
+        "name": "Magyarország",
+        "original": "By Oláh Ibolya"
+      },
+      "az_eletem": {
+        "name": "Az Életem",
+        "original": "By T. Danny"
+      },
+      "naftakher": {
+        "name": "Naftakher",
+        "original": "By Emirates Choir"
+      },
+      "very_important": {
+        "name": "Mohem Jiddan",
+        "original": "By Hussain Al Jassmi"
+      },
+      "beethoven": {
+        "name": "Ode to Joy",
+        "original": "By Ludwig van Beethoven"
+      }
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "settings": "Settings",
+    "about": "About",
+    "map": "Map",
+    "mapList": "Points of Interest",
+    "tickets": "Tickets",
+    "events": "Events",
+    "program": "Program",
+    "music": "Music",
+    "changeCity": "Change City",
+    "topTabs": "Top Tabs"
+  },
+  "run": {
+    "startRun": "Start Run",
+    "stopRun": "Stop Run",
+    "pauseRun": "Pause Run",
+    "resumeRun": "Resume Run",
+    "distance": "Distance",
+    "duration": "Duration",
+    "pace": "Pace",
+    "calories": "Calories",
+    "steps": "Steps"
+  },
+  "settings": {
+    "language": "Language",
+    "city": "City",
+    "cityDescription": "Current:",
+    "changeCity": "Change City",
+    "musicVolume": "Music Volume",
+    "version": "Version",
+    "versionNumber": "0.0.1",
+    "tabPosition": {
+      "label": "Tab Position",
+      "top": "Top",
+      "bottom": "Bottom"
+    },
+    "saveAndExit": "Save and Exit"
+  },
+  "tickets": {
+    "tickets": "Tickets",
+    "comingSoon": "Tickets feature coming soon!"
+  }
+}

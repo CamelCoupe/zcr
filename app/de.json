@@ -1,0 +1,218 @@
+{
+  "app": {
+    "name": "Zayed Wohltätigkeitslauf"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "register": "Registrieren",
+    "forgotPassword": "Passwort vergessen?",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "username": "Benutzername"
+  },
+  "charity": {
+    "donate": "Spenden",
+    "totalRaised": "Gesamteinnahmen",
+    "goal": "Ziel",
+    "supporters": "Unterstützer",
+    "impact": "Auswirkung",
+    "revenue": "Bisherige Einnahmen ...",
+    "ticketsPurchased": "Gekaufte Tickets",
+    "totalIncome": "Gesamteinnahmen"
+  },
+  "cities": {
+    "miami": {
+      "name": "Miami",
+      "tagline": "Lauf für Freundlichkeit",
+      "description": "Der Zayed Charity Run, in den Vereinigten Staaten als UAE Healthy Kidney Run bekannt, kam 2005 erstmals nach New York und wurde dort schnell zu einem der beliebtesten Wohltätigkeitsläufe der Stadt. Organisiert in Partnerschaft mit der National Kidney Foundation und der UAE-Botschaft in Washington, D.C., wurden alle Einnahmen der Unterstützung der Nierenforschung gewidmet. Nach mehreren erfolgreichen Ausgaben kehrte der Lauf 2026 in die USA zurück, diesmal mit einem neuen Austragungsort: Miami, Florida, wo die Veranstaltung am 31. Januar stattfand. Diese bedeutende Wohltätigkeitsveranstaltung spiegelte die dauerhafte Freundschaft zwischen den UAE und den USA sowie das Engagement der UAE für humanitäre und Gesundheitsprojekte weltweit wider."
+    },
+    "budapest": {
+      "name": "Budapest",
+      "tagline": "Lauf für Freundlichkeit",
+      "description": "Der Zayed Charity Run kommt vom 16. bis 17. Mai 2026 nach Budapest und vereint Läufer und Familien in einer Feier des Fitness, der Gemeinschaft und der Philanthropie. Mit wettbewerbsfähigen Rennen, einschließlich eines malerischen 10K-Stadtkurses durch das historische Herz der Stadt, einem 5K und 3K durch den wunderschönen Városliget-Park und einem speziellen Kinderlauf bietet die Veranstaltung auch einzigartige Erlebnisse wie Heißluftballonfahrten, die atemberaubende Ausblicke auf Budapest bieten. Alle Einnahmen aus dem Ticketverkauf unterstützen Wohltätigkeitsorganisationen in ganz Ungarn und verkörpern das Engagement des Laufs für Großzügigkeit und positive Auswirkungen auf Gemeinschaften weltweit."
+    },
+    "abudhabi": {
+      "name": "Abu Dhabi",
+      "tagline": "Lauf für Freundlichkeit",
+      "description": "Der Zayed Charity Run wurde am Samstag, den 29. November 2025, in Wahat Al Karama ausgetragen, einer Veranstaltung, die Fitness, Großzügigkeit und menschliche Werte feiert. Die Teilnehmer konnten zwischen 3 km, 5 km oder 10 km Distanzen wählen. Der Lauf begann um 7:00 Uhr in Wahat Al Karama und endete in Erth Abu Dhabi. Die Einnahmen unterstützten drei bahnbrechende Forschungsprogramme am Abu Dhabi Stem Cell Center (ADSCC): die Förderung personalisierter Krebsbehandlungen durch Tumor-infiltrierende Lymphozyten (TIL), die Entwicklung einer Bioinformatik- und KI-Plattform für Präzisionsmedizin bei Erkrankungen wie Multipler Sklerose und Typ-1-Diabetes sowie das Perinatal-Projekt, das gespendetes Plazentagewebe in innovative Behandlungen für Hautpflege und Wundheilung umwandelt. Damit unterstrich der Lauf seine Mission, Gesundheit, Innovation und gesellschaftliche Wirkung zu fördern."
+    },
+    "cairo": {
+      "name": "Kairo",
+      "tagline": "Lauf für Freundlichkeit",
+      "description": "Der Zayed Charity Run fand am Freitag, den 26. Dezember 2025, in Ägypten statt und setzte seine humanitäre Reise fort, die die enge Verbindung zwischen den UAE und Ägypten feierte. Organisiert mit der UAE-Botschaft in Ägypten und dem ägyptischen Ministerium für Jugend und Sport brachte die Veranstaltung Tausende von Teilnehmern zusammen, um für einen guten Zweck zu laufen. Alle Einnahmen unterstützten lebensrettende Behandlungen und medizinische Forschung für junge Patienten. Der Lauf verkörperte die Werte von Großzügigkeit, Einheit und Hoffnung und wurde vom Erbe des verstorbenen Sheikh Zayed bin Sultan Al Nahyan inspiriert."
+    },
+    "beijing": {
+      "name": "Beijing",
+      "tagline": "Lauf für Freundlichkeit",
+      "description": "Der Zayed Charity Run fand vom 20. bis 22. September 2025 in China statt, an drei ikonischen Orten in Peking: Huairou Jinyu Xingfa Science Park, Huairou District und die Große Mauer – Mutianyu-Sektion. Die Spenden gingen an die Frauenvereinigung des Huairou-Bezirks, die Vereinigung behinderter Personen des Bezirks, die Rotkreuzgesellschaft in Beijing Huairou und das Kinderwohlfahrtsinstitut in Huairou. Die Veranstaltung spiegelte die Werte des Laufs wider und zeigte das kontinuierliche Engagement, einen positiven Unterschied im Leben Bedürftiger zu machen."
+    },
+    "riodejaneiro": {
+      "name": "Rio de Janeiro",
+      "tagline": "Lauf für Freundlichkeit",
+      "description": "Der Zayed Charity Run kam am 5. Oktober 2025 erstmals nach Lateinamerika und wurde am ikonischen Copacabana-Strand in Rio de Janeiro ausgerichtet. Gestartet in Abu Dhabi zur Ehrung des Erbes des verstorbenen Sheikh Zayed bin Sultan Al Nahyan, hatte sich der Lauf zu einer globalen Bewegung entwickelt, die Sport, Gemeinschaft und Philanthropie vereinte. Die Einnahmen unterstützten Rio Solidário, eine angesehene Non-Profit-Organisation, die mit lokalen Regierungs- und Gemeinschaftsorganisationen zusammenarbeitet, um soziale Inklusion zu fördern und vulnerable Gruppen wie Kinder, Frauen und bedürftige Familien zu unterstützen."
+    },
+    "ethiopia": {
+      "name": "Äthiopien",
+      "tagline": "Lauf für Freundlichkeit",
+      "description": "Der Zayed Charity Run wird nach Äthiopien kommen und dort Gemeinschaften in einer Feier von Gesundheit, Einheit und Philanthropie zusammenbringen. Die Erstveranstaltung bietet einen malerischen 10K-Kurs durch die historischen Sehenswürdigkeiten von Addis Abeba, eine familienfreundliche 5K-Route und einen 3K-Spaßlauf für Kinder. Alle Einnahmen werden lokale Wohltätigkeitsorganisationen und Initiativen zur Förderung von Bildung und Gesundheitsversorgung unterstützen und die globale Mission des Laufs für Güte und positive Veränderung verkörpern."
+    }
+  },
+  "common": {
+    "appName": "Zayed Charity Run",
+    "welcome": "Willkommen",
+    "selectCity": "Stadt auswählen",
+    "chooseRaceVersion": "Ihr Rennen wählen",
+    "select": "Auswählen",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "retry": "Wiederholen",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "save": "Speichern",
+    "english": "Englisch",
+    "arabic": "Arabisch",
+    "hungarian": "Ungarisch",
+    "spanish": "Spanisch",
+    "german": "Deutsch",
+    "french": "Französisch",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Vorherige",
+    "close": "Schließen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "countdownToStart": "Countdown bis zum Start...",
+    "days": "Tage",
+    "hours": "Stunden",
+    "minutes": "Minuten",
+    "seconds": "Sekunden",
+    "comingSoon": "Bald verfügbar"
+  },
+  "events": {
+    "comingSoon": "Event-Funktion bald verfügbar!",
+    "buyTickets": "Tickets kaufen",
+    "saveToCalendar": "Im Kalender speichern",
+    "viewOnMap": "Auf der Karte anzeigen",
+    "bookNow": "Jetzt buchen",
+    "10KRace": "10K Lauf",
+    "5KRace": "5K Lauf",
+    "3KRace": "3K Lauf",
+    "ChildrenRace": "Kinderlauf",
+    "DogsRace": "Hundelauf",
+    "FamilyRace": "Familienlauf",
+    "FameForKindness": "Ruhm für Güte"
+  },
+  "loading": {
+    "initializing": "Initialisierung...",
+    "loadingCity": "Stadt laden...",
+    "fetchingRevenue": "Einnahmen abrufen...",
+    "loadingPreferences": "Einstellungen laden...",
+    "ready": "Bereit!"
+  },
+  "map": {
+    "comingSoon": "Kartenfunktion bald verfügbar!",
+    "satellite": "Satellit",
+    "standard": "Standard",
+    "pointOfInterest": "Orte von Interesse",
+    "eventLocation": "Veranstaltungsort",
+    "pathShown": "Route angezeigt",
+    "pathHidden": "Route ausgeblendet"
+  },
+  "music": {
+    "title": "Musik",
+    "volume": "Lautstärke",
+    "nowPlaying": "Läuft gerade",
+    "duration": "Dauer",
+    "original": "Original",
+    "tracks": {
+      "dar_zayed": {
+        "name": "Dar Zayed",
+        "original": "Von Emirati Ensemble"
+      },
+      "emarat_almahaba": {
+        "name": "Geliebte Emirate",
+        "original": "Von Hussain Al Jassmi"
+      },
+      "grund": {
+        "name": "Mi vagyunk a Grund!",
+        "original": "Von A Pál utcai fiúk"
+      },
+      "hay_alshahamah": {
+        "name": "Großzügigkeit",
+        "original": "Von Hussain Al Jassmi"
+      },
+      "khams_alhawas": {
+        "name": "Die fünf Sinne",
+        "original": "Von Meehad Hamad"
+      },
+      "magyarorszag": {
+        "name": "Ungarn",
+        "original": "Von Oláh Ibolya"
+      },
+      "az_eletem": {
+        "name": "Mein Leben",
+        "original": "Von T. Danny"
+      },
+      "naftakher": {
+        "name": "Wir sind stolz",
+        "original": "Von Emirates Choir"
+      },
+      "very_important": {
+        "name": "Sehr wichtig",
+        "original": "Von Hussain Al Jassmi"
+      },
+      "beethoven": {
+        "name": "Ode an die Freude",
+        "original": "Von Ludwig van Beethoven"
+      }
+    }
+  },
+  "navigation": {
+    "home": "Startseite",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "about": "Über uns",
+    "map": "Karte",
+    "mapList": "Standorte",
+    "tickets": "Tickets",
+    "events": "Events",
+    "program": "Programm",
+    "music": "Musik",
+    "changeCity": "Stadt ändern",
+    "topTabs": "Obere Tabs"
+  },
+  "run": {
+    "startRun": "Lauf starten",
+    "stopRun": "Lauf stoppen",
+    "pauseRun": "Lauf pausieren",
+    "resumeRun": "Lauf fortsetzen",
+    "distance": "Distanz",
+    "duration": "Dauer",
+    "pace": "Tempo",
+    "calories": "Kalorien",
+    "steps": "Schritte"
+  },
+  "settings": {
+    "language": "Sprache",
+    "city": "Stadt",
+    "cityDescription": "Aktuell:",
+    "changeCity": "Stadt ändern",
+    "musicVolume": "Musiklautstärke",
+    "version": "Version",
+    "versionNumber": "0.0.1",
+    "tabPosition": {
+      "label": "Tab-Position",
+      "top": "Oben",
+      "bottom": "Unten"
+    },
+    "saveAndExit": "Speichern und beenden"
+  },
+  "tickets": {
+    "tickets": "Tickets",
+    "comingSoon": "Tickets-Funktion bald verfügbar!"
+  }
+}
