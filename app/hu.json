@@ -19,7 +19,7 @@
     "supporters": "Támogatók",
     "impact": "Elért hatás",
     "revenue": "Értékesítési bevétel ...",
-    "ticketsPurchased": "Vásárolt jegyek összege",
+    "ticketsPurchased": "Vásárolt jegyek száma",
     "totalIncome": "Összes bevétel"
   },
   "cities": {
@@ -31,7 +31,7 @@
     "budapest": {
       "name": "Budapest",
       "tagline": "Futás a Kedvességért",
-      "description": "Der Zayed Charity Run wird am 16. und 17. Mai 2026 nach Budapest kommen. Der mittlerweile 25 Jahre alte Wohltätigkeitslauf wird damit erstmals in Europa stattfinden. Unter dem Motto Gemeinschaft und Philanthropie wird die Veranstaltung den teilnehmenden Läufern und ihren Familien ein unvergessliches Erlebnis bieten. Die Veranstaltung wird ein vielfältiges Programm bieten: Am 16. Mai werden die 3 km- und 5 km-Strecken im Városliget mit kulturellen und familienfreundlichen Programmen stattfinden. Das Highlight am 17. Mai wird die 10 km-Strecke sein, die durch die schönsten Punkte Budapests führt. Für die jüngsten Teilnehmer und ihre unterstützenden Familien wird ein eigener Kinderlauf angeboten. Besondere Attraktionen im Városliget werden das Sportereignis noch einzigartiger machen, darunter Heißluftballon-Erlebnisse mit atemberaubendem Blick über Budapest. Die gesamten Einnahmen aus den Startgebühren werden ungarische Wohltätigkeitsorganisationen unterstützen und damit die positive Wirkung des Laufs auf die Gemeinschaften sowohl in Ungarn als auch weltweit fördern."
+      "description": "A Zayed Jótékonysági Futás 2026. május 16–17-én Budapestre érkezik, és ezzel egy különleges mérföldkőhöz ér: a több mint 25 éves múltra visszatekintő jótékonysági futóversenyt története során most először rendezik meg Európában. A közösségi összetartás és a jótékonyság szellemében a rendezvény felejthetetlen élményt ígér a futóknak és az őket kísérő családtagoknak. A Városligetben sokszínű program várja a futókat és a látogatókat egyaránt. Május 16-án a Városliget ad otthont a családi futásnak, a legfiatalabb résztvevők számára pedig gyermekfutamot rendeznek a városligeti KRESZ-pályán, emellett egy különleges kutyás futásra is sor kerül. Május 17-én kerülnek megrendezésre az időmérő futamok 3 és 5 km-es távokon a Városligetben, míg a főesemény, a 10 km-es futam Budapest legszebb pontjain vezeti végig a versenyzőket. A Városligetben számos kulturális és gasztronómiai élmény várja a versenyzőket és a látogatókat. Az emírségi ízek és hagyományok izgalmasan keverednek a magyar konyha és kultúra legjobb elemeivel, miközben magyar sporthírességek és influenszerek gondoskodnak a hangulatról és az inspirációról. A programok között látványos hőlégballonos élmények is szerepelnek, ahonnan egészen új szemszögből csodálható meg a város. A nevezési díjak teljes összegét magyar jótékonysági szervezetek támogatására fordítják, így a rendezvény nemcsak élményt nyújt, hanem valódi értéket is teremt, erősítve a közösségek pozitív fejlődését Magyarországon és világszerte egyaránt."
     },
     "abudhabi": {
       "name": "Abu Dhabi",
@@ -103,7 +103,7 @@
     "5KRace": "5K futás",
     "3KRace": "3K futás",
     "ChildrenRace": "Gyermekfutás",
-    "DogsRace": "Kutyafutás",
+    "DogsRace": "Kutyás futás",
     "FamilyRace": "Családi futás",
     "FameForKindness": "Hírnév a kedvességért"
   },
