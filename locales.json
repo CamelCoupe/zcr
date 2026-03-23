@@ -1,0 +1,1410 @@
+{
+  "locales": {
+    "en": {
+      "app": {
+        "name": "Zayed Charity Run"
+      },
+      "auth": {
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register",
+        "forgotPassword": "Forgot Password?",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "username": "Username"
+      },
+      "charity": {
+        "donate": "Donate",
+        "totalRaised": "Total Raised",
+        "goal": "Goal",
+        "supporters": "Supporters",
+        "impact": "Impact",
+        "revenue": "Revenue So Far ...",
+        "ticketsPurchased": "Tickets Purchased",
+        "totalIncome": "Total Income"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run, known in the United States as the UAE Healthy Kidney Run, first expanded to New York in 2005, where it has since remained one of the city's most popular charitable runs. Organized in partnership with the National Kidney Foundation and the UAE Embassy in Washington, D.C., all proceeds from the event are dedicated to supporting kidney research. Now, the \"kindest run in the world\" is returning to the United States, taking place in Miami, Florida, on 31 January 2026. This meaningful charity event continues to reflect the enduring friendship between the UAE and the USA, as well as the UAE's steadfast commitment to humanitarian and health causes worldwide."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run comes to Budapest from May 16 to 17, 2026, uniting runners and families in a celebration of fitness, community, and philanthropy. Featuring competitive races including a scenic 10K urban course through the city's historic heart, a 5K and 3K through the beautiful Városliget Park, and a special children's race, the event also offers unique experiences like hot air balloon rides providing breathtaking views of Budapest. All proceeds from ticket sales support charities across Hungary, embodying the run's commitment to generosity and making a positive impact in communities worldwide."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Run for Kindness",
+          "description": "Join us on Saturday, 29 November 2025, at Wahat Al Karama for the new edition of the Zayed Charity Run, an event that celebrates fitness, generosity, and the essence of human values. Whether you're a casual runner or a professional athlete, you can choose from 3 km, 5 km, or 10 km distances. The run kicks off at 7:00 am from Wahat Al Karama and finishes at Erth Abu Dhabi. This Year, proceeds from the run will support three pioneering research programs at the Abu Dhabi Stem Cell Center (ADSCC): advancing personalized cancer therapy through Tumour Infiltrating Lymphocytes (TILs), developing a Bioinformatics and AI platform to drive precision medicine for conditions such as multiple sclerosis and type 1 diabetes, and the Perinatal Project, which transforms donated placental tissue into innovative treatments for skin care and wound healing, emphasizing the runs mission to promote health, innovation, and community impact."
+        },
+        "cairo": {
+          "name": "Cairo",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run returns to Egypt on Friday, 26 December 2025, continuing its humanitarian journey that celebrates the enduring bond between the United Arab Emirates and Egypt. Organized in collaboration with the UAE Embassy in Egypt and the Egyptian Ministry of Youth and Sports, this year's edition will once again bring together thousands of participants to run for a noble cause. All proceeds from the event will go toward supporting life-saving treatments and medical research for young patients. The Zayed Charity Run continues to embody the values of generosity, unity, and hope, inspired by the timeless legacy of the UAE's Founding Father, the late Sheikh Zayed bin Sultan Al Nahyan."
+        },
+        "beijing": {
+          "name": "Beijing",
+          "tagline": "Run for Kindness",
+          "description": "Uniting the UAE and China in a historic celebration of sport, culture, and humanity, this landmark initiative brings together two nations through a unique blend of athletics and cultural exchange. The event will be held from 20 to 22 September 2025, across three iconic venues in Beijing: Huairou Jinyu Xingfa Science Park, Huairou District, and the Great Wall – Mutianyu Section. Donations will go to the Huairou District Women's Federation, the Huairou District Disabled Persons' Federation, the Red Cross Society in Beijing Huairou, and the Children's Welfare Institute in Huairou. This reflects the authentic values of the run and embodies its ongoing commitment to making a tangible difference in the lives of those most in need."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Run for Kindness",
+          "description": "On 5 October 2025, the Zayed Charity Run will arrive in Latin America for the very first time, hosted at the iconic Copacabana Beach in Rio de Janeiro. Launched in Abu Dhabi to honor the legacy of the late Sheikh Zayed bin Sultan Al Nahyan, the Run has grown into a global movement uniting sport, community, and philanthropy, with memorable editions in cities such as Cairo, New York, and Miami. Now, this legacy continues in Brazil, with its first edition hosted in Rio de Janeiro. Proceeds from the Rio edition will support Rio Solidário, a respected nonprofit that partners with government and community organizations to promote social inclusion and provide vital support to vulnerable groups, including children, women, and families in need."
+        },
+        "ethiopia": {
+          "name": "Ethiopia",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run arrives in Ethiopia, uniting communities in a celebration of health, unity, and philanthropy. This inaugural event features a scenic 10K course through Addis Ababa's historic landmarks, a 5K family-friendly route, and a 3K fun run for children. All proceeds support local charities and initiatives promoting education and healthcare in Ethiopia, embodying the run's global mission of kindness and positive change."
+        }
+      },
+      "common": {
+        "appName": "Zayed Charity RSSSSSSun",
+        "welcome": "Welcome",
+        "selectCity": "Select Your City",
+        "chooseRaceVersion": "Choose your race version",
+        "select": "Select",
+        "loading": "Loading...",
+        "error": "Error",
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "save": "Save",
+        "english": "English",
+        "arabic": "Arabic",
+        "hungarian": "Hungarian",
+        "spanish": "Spanish",
+        "german": "German",
+        "french": "French",
+        "delete": "Delete",
+        "edit": "Edit",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "close": "Close",
+        "search": "Search",
+        "filter": "Filter",
+        "countdownToStart": "Get ready...",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "comingSoon": "Coming Soon"
+      },
+      "events": {
+        "comingSoon": "Events feature coming soon!",
+        "buyTickets": "Buy Tickets",
+        "saveToCalendar": "Save to Calendar",
+        "viewOnMap": "View on Map",
+        "bookNow": "Book Now",
+        "10KRace": "10K Race",
+        "5KRace": "5K Race",
+        "3KRace": "3K Race",
+        "ChildrenRace": "Children's Race",
+        "DogsRace": "Dogs Race",
+        "FamilyRace": "Family Race",
+        "FameForKindness": "Fame for Kindness"
+      },
+      "loading": {
+        "initializing": "Initializing...",
+        "loadingCity": "Loading city...",
+        "fetchingRevenue": "Fetching revenue...",
+        "loadingPreferences": "Loading preferences...",
+        "ready": "Ready!"
+      },
+      "map": {
+        "comingSoon": "Map feature coming soon!",
+        "satellite": "Satellite",
+        "standard": "Standard",
+        "pointOfInterest": "Point of Interest",
+        "eventLocation": "Event Location",
+        "pathShown": "Route path shown",
+        "pathHidden": "Route path hidden"
+      },
+      "music": {
+        "title": "Music",
+        "volume": "Music Volume",
+        "nowPlaying": "Playing Now",
+        "duration": "Duration",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Home",
+        "profile": "Profile",
+        "settings": "Settings",
+        "about": "About",
+        "map": "Map",
+        "mapList": "Points of Interest",
+        "tickets": "Tickets",
+        "events": "Events",
+        "program": "Program",
+        "music": "Music",
+        "volunteer": "Volunteer",
+        "changeCity": "Change City",
+        "topTabs": "Top Tabs"
+      },
+      "run": {
+        "startRun": "Start Run",
+        "stopRun": "Stop Run",
+        "pauseRun": "Pause Run",
+        "resumeRun": "Resume Run",
+        "distance": "Distance",
+        "duration": "Duration",
+        "pace": "Pace",
+        "calories": "Calories",
+        "steps": "Steps"
+      },
+      "settings": {
+        "language": "Language",
+        "city": "City",
+        "cityDescription": "Current:",
+        "changeCity": "Change City",
+        "musicVolume": "Music Volume",
+        "version": "Version",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Tab Position",
+          "top": "Top",
+          "bottom": "Bottom"
+        },
+        "saveAndExit": "Save and Exit"
+      },
+      "tickets": {
+        "tickets": "Tickets",
+        "comingSoon": "Tickets feature coming soon!"
+      },
+      "volunteer": {
+        "comingSoon": "Coming Soon",
+        "volunteerDescription": "Join our team of dedicated volunteers and help make the Zayed Charity Run a success!",
+        "registrationForm": "Volunteer Registration Form",
+        "personalDetails": "Personal Details",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "emailAddress": "Email Address",
+        "mobileNumber": "Mobile Number",
+        "dateOfBirth": "Date of Birth",
+        "ageNote": "Volunteers must be 21 years old and above.",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "timeCommitmentLabel": "Time Commitment (Select all that apply)",
+        "timeCommitmentNote": "* At least one full day commitment is required",
+        "timeCommitmentRequired": "Please select at least one day commitment",
+        "languagesSpoken": "Languages Spoken",
+        "languagesRequired": "Please select at least one language",
+        "desiredRoles": "Desired Roles (Select all that interest you)",
+        "otherRoles": "Other Roles (please specify)",
+        "otherRolesPlaceholder": "e.g., Event coordination, Social media management, etc.",
+        "socialMedia": "Social Media Handles",
+        "twitter": "Twitter Handle",
+        "instagram": "Instagram Handle",
+        "facebook": "Facebook Profile",
+        "linkedin": "LinkedIn Profile",
+        "tiktok": "TikTok Handle",
+        "agreement": "Agreement and Acknowledgement",
+        "agreeToTerms": "I agree to the",
+        "termsAndConditions": "terms and conditions",
+        "agreeToGDPR": "I agree to the",
+        "privacyPolicy": "privacy policy",
+        "andGDPR": "and GDPR compliance",
+        "termsRequired": "You must agree to the terms and conditions",
+        "gdprRequired": "You must agree to the privacy policy",
+        "photo": "Photo",
+        "photoUpload": "Upload Photo",
+        "photoUploadMessage": "Choose how to add your photo",
+        "takePhoto": "Take Photo",
+        "chooseFromGallery": "Choose from Gallery",
+        "uploadPhoto": "Upload Photo",
+        "changePhoto": "Change Photo",
+        "photoOptional": "Optional - Max 5MB",
+        "genderRequired": "Please select your gender",
+        "emailInvalid": "Please enter a valid email address",
+        "dateOfBirthRequired": "Please select your date of birth",
+        "photoUploadErrorTitle": "Upload Failed",
+        "photoUploadError": "Failed to upload photo. Please try again.",
+        "submitApplication": "Submit Volunteer Application",
+        "emailExistsTitle": "Application Exists",
+        "emailExists": "An application with this email already exists.",
+        "successTitle": "Application Submitted",
+        "applicationSubmitted": "Thank you! Your volunteer application has been submitted successfully.",
+        "errorTitle": "Submission Error",
+        "submissionError": "There was an error submitting your application. Please try again."
+      }
+    },
+    "ar": {
+      "app": {
+        "name": "سباق زايد الخيري"
+      },
+      "auth": {
+        "login": "تسجيل الدخول",
+        "logout": "تسجيل الخروج",
+        "register": "إنشاء حساب",
+        "forgotPassword": "نسيت كلمة المرور؟",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "username": "اسم المستخدم"
+      },
+      "charity": {
+        "donate": "تبرع",
+        "totalRaised": "إجمالي المبلغ المجموع",
+        "goal": "الهدف",
+        "supporters": "الداعمون",
+        "impact": "التأثير",
+        "revenue": "الإيرادات حتى الآن ...",
+        "ticketsPurchased": "التذاكر المشتراة",
+        "totalIncome": "إجمالي الدخل"
+      },
+      "cities": {
+        "miami": {
+          "name": "ميامي",
+          "tagline": "نجري للعون",
+          "description": "سباق زايد الخيري، المعروف في الولايات المتحدة باسم سباق الكلى الصحية لدولة الإمارات العربية المتحدة، توسع أولاً إلى نيويورك في عام 2005، حيث ظل منذ ذلك الحين أحد أكثر السباقات الخيرية شعبية في المدينة. منظم بالشراكة مع المؤسسة الوطنية للكلى وسفارة الإمارات العربية المتحدة في واشنطن العاصمة، ويتم تخصيص جميع عائدات الحدث لدعم أبحاث الكلى. الآن، \"أكرم سباق في العالم\" يعود إلى الولايات المتحدة، ويقام في ميامي، فلوريدا، في 31 يناير 2026. يستمر هذا الحدث الخيري المعنوي في عكس الصداقة الدائمة بين الإمارات العربية المتحدة والولايات المتحدة الأمريكية، بالإضافة إلى التزام الإمارات العربية المتحدة الثابت بالقضايا الإنسانية والصحية في جميع أنحاء العالم."
+        },
+        "budapest": {
+          "name": "بودابست",
+          "tagline": "نجري للعون",
+          "description": "يصل سباق زايد الخيري إلى بودابست من 16 إلى 17 مايو 2026، موحدًا بين الرجال والعائلات في احتفال باللياقة البدنية والمجتمع والعمل الخيري. يتميز بسباقات تنافسية تشمل مسارًا حضريًا خلابًا لـ10 كم عبر قلب المدينة التاريخي، و5 كم و3 كم عبر حديقة فوروشليغيت الجميلة، وسباقًا خاصًا للأطفال، كما يقدم تجارب فريدة مثل رحلات البالون الجوي الساخن التي توفر إطلالات خلابة على بودابست. جميع عائدات بيع التذاكر تدعم الجمعيات الخيرية في جميع أنحاء المجر، مما يجسد التزام السباق بالكرم وإحداث تأثير إيجابي في المجتمعات حول العالم."
+        },
+        "abudhabi": {
+          "name": "أبوظبي",
+          "tagline": "نجري للعون",
+          "description": "انضم إلينا يوم السبت، 29 نوفمبر 2025، في وهة الكرامة للنسخة الجديدة من سباق زايد الخيري، حدث يحتفل باللياقة البدنية والكرم وجوهر القيم الإنسانية. سواء كنت عداءًا عاديًا أو رياضيًا محترفًا، يمكنك الاختيار من مسافات 3 كم، 5 كم، أو 10 كم. يبدأ السباق في الساعة 7:00 صباحًا من وهة الكرامة وينتهي في إيرث أبوظبي. هذا العام، ستدعم عائدات السباق ثلاث برامج بحثية رائدة في مركز أبوظبي للخلايا الجذعية (ADSCC): تقدم العلاج الشخصي للسرطان من خلال الخلايا الليمفاوية المتسللة للورم (TILs)، تطوير منصة البايوإنفورماتيكس والذكاء الاصطناعي لدفع الطب الدقيق للحالات مثل التصلب المتعدد وداء السكري من النوع 1، ومشروع ما قبل الولادة، الذي يحول الأنسجة المشيمية المتبرع بها إلى علاجات مبتكرة للعناية بالجلد والشفاء من الجروح، مع التركيز على مهمة السباق في تعزيز الصحة والابتكار والتأثير المجتمعي."
+        },
+        "cairo": {
+          "name": "القاهرة",
+          "tagline": "نجري للعون",
+          "description": "يعود سباق زايد الخيري إلى مصر يوم الجمعة، 26 ديسمبر 2025، مستمرًا في رحلته الإنسانية التي تحتفل بالرابطة الدائمة بين دولة الإمارات العربية المتحدة ومصر. منظم بالتعاون مع سفارة الإمارات العربية المتحدة في مصر ووزارة الشباب والرياضة المصرية، ستجمع نسخة هذا العام مرة أخرى آلاف المشاركين للجري من أجل قضية نبيلة. ستذهب جميع عائدات الحدث نحو دعم العلاجات المنقذة للحياة والبحوث الطبية للمرضى الشباب. يستمر سباق زايد الخيري في تجسيد قيم الكرم والوحدة والأمل، مستوحى من الإرث الخالد لمؤسس دولة الإمارات العربية المتحدة، الشيخ زايد بن سلطان آل نهيان الراحل."
+        },
+        "beijing": {
+          "name": "بكين",
+          "tagline": "نجري للعون",
+          "description": "توحيد الإمارات العربية المتحدة والصين في احتفال تاريخي بالرياضة والثقافة والإنسانية، يجمع هذا المبادرة التاريخية بين دولتين من خلال مزيج فريد من الرياضة والتبادل الثقافي. سيقام الحدث من 20 إلى 22 سبتمبر 2025، عبر ثلاثة أماكن أيقونية في بكين: حديقة العلوم هويرو جينيو شينغفا، منطقة هويرو، وسور الصين العظيم – قسم موتيانيو. ستذهب التبرعات إلى اتحاد نساء منطقة هويرو، اتحاد المعاقين في منطقة هويرو، جمعية الصليب الأحمر في بكين هويرو، ومعهد رعاية الأطفال في هويرو. يعكس هذا القيم الأصيلة للسباق ويجسد التزامه المستمر بإحداث فرق ملموس في حياة أولئك الأكثر احتياجًا."
+        },
+        "riodejaneiro": {
+          "name": "ريو دي جانيرو",
+          "tagline": "نجري للعون",
+          "description": "في 5 أكتوبر 2025، سيصل سباق زايد الخيري إلى أمريكا اللاتينية لأول مرة، مستضافًا على شاطئ كوباكابانا الأيقوني في ريو دي جانيرو. أطلق في أبوظبي لتكريم إرث الشيخ زايد بن سلطان آل نهيان الراحل، نمى السباق إلى حركة عالمية توحد الرياضة والمجتمع والعمل الخيري، مع نسخ لا تُنسى في مدن مثل القاهرة ونيويورك وميامي. الآن، يستمر هذا الإرث في البرازيل، مع نسخته الأولى المستضافة في ريو دي جانيرو. ستدعم عائدات نسخة ريو ريو سوليداريو، منظمة غير ربحية محترمة تتعاون مع الحكومة والمنظمات المجتمعية لتعزيز الاندماج الاجتماعي وتقديم دعم حيوي للمجموعات الضعيفة، بما في ذلك الأطفال والنساء والعائلات المحتاجة."
+        },
+        "ethiopia": {
+          "name": "إثيوبيا",
+          "tagline": "نجري للعون",
+          "description": "يصل سباق زايد الخيري إلى إثيوبيا، موحدًا المجتمعات في احتفال بالصحة والوحدة والعمل الخيري. يتميز هذا الحدث الأول بمسار خلاب لـ10 كم عبر معالم أديس أبابا التاريخية، ومسار 5 كم مناسب للعائلات، وسباق 3 كم ممتع للأطفال. جميع العائدات تدعم الجمعيات الخيرية المحلية والمبادرات التي تعزز التعليم والرعاية الصحية في إثيوبيا، مما يجسد مهمة السباق العالمية في اللطف والتغيير الإيجابي."
+        }
+      },
+      "common": {
+        "appName": "سباق زايد الخيري",
+        "welcome": "مرحباً",
+        "selectCity": "اختر المدينة",
+        "chooseRaceVersion": "اختر مدينة السباق ",
+        "select": "اختر",
+        "loading": "جارٍ التحميل...",
+        "error": "خطأ",
+        "retry": "إعادة المحاولة",
+        "cancel": "إلغاء",
+        "confirm": "تأكيد",
+        "save": "حفظ",
+        "english": "الإنجليزية",
+        "arabic": "العربية",
+        "hungarian": "المجرية",
+        "spanish": "الإسبانية",
+        "german": "الألمانية",
+        "french": "الفرنسية",
+        "delete": "حذف",
+        "edit": "تعديل",
+        "back": "رجوع",
+        "next": "التالي",
+        "previous": "السابق",
+        "close": "إغلاق",
+        "search": "بحث",
+        "filter": "تصفية",
+        "countdownToStart": "كن مستعدا ...  ",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني",
+        "comingSoon": "قريباً"
+      },
+      "events": {
+        "comingSoon": "هذه الخاصية غير متوفرة حاليا!",
+        "buyTickets": "شراء التذاكر",
+        "saveToCalendar": "حفظ في التقويم",
+        "viewOnMap": "عرض على الخريطة",
+        "bookNow": "احجز الآن",
+        "10KRace": "سباق 10 كم",
+        "5KRace": "سباق 5 كم",
+        "3KRace": "سباق 3 كم",
+        "ChildrenRace": "سباق الأطفال",
+        "DogsRace": "سباق الكلاب",
+        "FamilyRace": "سباق العائلة",
+        "FameForKindness": "الشهرة من أجل اللطف"
+      },
+      "loading": {
+        "initializing": "جاري التهيئة...",
+        "loadingCity": "تحميل المدينة...",
+        "fetchingRevenue": "جاري جلب الإيرادات...",
+        "loadingPreferences": "تحميل التفضيلات...",
+        "ready": "جاهز!"
+      },
+      "map": {
+        "comingSoon": "هذه الخاصية غير متوفرة حاليا!",
+        "eventLocation": "موقع الحدث",
+        "pointOfInterest": "نقطة اهتمام",
+        "satellite": "صور القمر الصناعي",
+        "standard": "عادي",
+        "pathShown": "تم عرض مسار الطريق",
+        "pathHidden": "تم إخفاء مسار الطريق"
+      },
+      "music": {
+        "title": "الموسيقى",
+        "volume": "مستوى الصوت",
+        "nowPlaying": "قيد التشغيل الآن",
+        "duration": "المدة",
+        "original": "الأغنية الأصلية من أداء"
+      },
+      "navigation": {
+        "home": "الرئيسية",
+        "main": "الرئيسية",
+        "profile": "الملف الشخصي",
+        "settings": "الإعدادات",
+        "about": "الحدث",
+        "map": "الخريطة",
+        "mapList": "نقاط الاهتمام",
+        "tickets": "التذاكر",
+        "events": "الفعاليات",
+        "program": "البرنامج",
+        "music": "الموسيقى",
+        "volunteer": "التطوع",
+        "changeCity": "تغيير المدينة",
+        "topTabs": "التبويبات العلوية"
+      },
+      "run": {
+        "startRun": "بدء الجري",
+        "stopRun": "إيقاف الجري",
+        "pauseRun": "إيقاف مؤقت",
+        "resumeRun": "استئناف الجري",
+        "distance": "المسافة",
+        "duration": "المدة الزمنية",
+        "pace": "السرعة",
+        "calories": "السعرات الحرارية",
+        "steps": "الخطوات"
+      },
+      "settings": {
+        "language": "اللغة",
+        "city": "المدينة",
+        "cityDescription": "المدينة الحالية:",
+        "changeCity": "تغيير المدينة",
+        "musicVolume": "مستوى الصوت",
+        "version": "الإصدار",
+        "versionNumber": "0.2",
+        "tabPosition": {
+          "label": "موقع علامات التبويب",
+          "top": "أعلى",
+          "bottom": "أسفل"
+        },
+        "saveAndExit": "حفظ والخروج"
+      },
+      "tickets": {
+        "tickets": "التذاكر",
+        "comingSoon": "ميزة التذاكر قريباً!"
+      },
+      "volunteer": {
+        "comingSoon": "قريباً",
+        "volunteerDescription": "انضم إلى فريقنا من المتطوعين المتفانين وساعد في جعل سباق زايد الخيري نجاحاً!",
+        "registrationForm": "نموذج تسجيل المتطوعين",
+        "personalDetails": "التفاصيل الشخصية",
+        "firstName": "الاسم الأول",
+        "lastName": "اسم العائلة",
+        "emailAddress": "عنوان البريد الإلكتروني",
+        "mobileNumber": "رقم الهاتف المحمول",
+        "dateOfBirth": "تاريخ الميلاد",
+        "ageNote": "يجب أن يكون المتطوعون 21 عاماً فما فوق.",
+        "gender": "الجنس",
+        "male": "ذكر",
+        "female": "أنثى",
+        "timeCommitmentLabel": "الالتزام الزمني (اختر كل ما ينطبق)",
+        "timeCommitmentNote": "* مطلوب التزام يوم كامل واحد على الأقل",
+        "timeCommitmentRequired": "يرجى اختيار التزام يوم واحد على الأقل",
+        "languagesSpoken": "اللغات المحكية",
+        "languagesRequired": "يرجى اختيار لغة واحدة على الأقل",
+        "desiredRoles": "الأدوار المرغوبة (اختر كل ما يثير اهتمامك)",
+        "otherRoles": "أدوار أخرى (يرجى التحديد)",
+        "otherRolesPlaceholder": "مثال: تنسيق الفعاليات، إدارة وسائل التواصل الاجتماعي، إلخ.",
+        "socialMedia": "حسابات وسائل التواصل الاجتماعي",
+        "twitter": "حساب تويتر",
+        "instagram": "حساب إنستغرام",
+        "facebook": "ملف فيسبوك",
+        "linkedin": "ملف لينكدإن",
+        "tiktok": "حساب تيك توك",
+        "agreement": "الاتفاق والإقرار",
+        "agreeToTerms": "أوافق على",
+        "termsAndConditions": "الشروط والأحكام",
+        "agreeToGDPR": "أوافق على",
+        "privacyPolicy": "سياسة الخصوصية",
+        "andGDPR": "وامتثال GDPR",
+        "termsRequired": "يجب أن توافق على الشروط والأحكام",
+        "gdprRequired": "يجب أن توافق على سياسة الخصوصية",
+        "photo": "صورة",
+        "photoUpload": "رفع الصورة",
+        "photoUploadMessage": "اختر كيفية إضافة صورتك",
+        "takePhoto": "التقاط صورة",
+        "chooseFromGallery": "اختيار من المعرض",
+        "uploadPhoto": "رفع الصورة",
+        "changePhoto": "تغيير الصورة",
+        "photoOptional": "اختياري - حد أقصى 5 ميجابايت",
+        "genderRequired": "يرجى تحديد الجنس",
+        "emailInvalid": "يرجى إدخال عنوان بريد إلكتروني صالح",
+        "dateOfBirthRequired": "يرجى تحديد تاريخ ميلادك",
+        "photoUploadErrorTitle": "فشل الرفع",
+        "photoUploadError": "فشل في رفع الصورة. يرجى المحاولة مرة أخرى.",
+        "submitApplication": "إرسال طلب التطوع",
+        "emailExistsTitle": "الطلب موجود",
+        "emailExists": "يوجد طلب بهذا البريد الإلكتروني بالفعل.",
+        "successTitle": "تم إرسال الطلب",
+        "applicationSubmitted": "شكراً لك! تم إرسال طلب التطوع الخاص بك بنجاح.",
+        "errorTitle": "خطأ في الإرسال",
+        "submissionError": "حدث خطأ في إرسال طلبك. يرجى المحاولة مرة أخرى."
+      }
+    },
+    "de": {
+      "app": {
+        "name": "Zayed Wohltätigkeitslauf"
+      },
+      "auth": {
+        "login": "Anmelden",
+        "logout": "Abmelden",
+        "register": "Registrieren",
+        "forgotPassword": "Passwort vergessen?",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "confirmPassword": "Passwort bestätigen",
+        "username": "Benutzername"
+      },
+      "charity": {
+        "donate": "Spenden",
+        "totalRaised": "Gesamteinnahmen",
+        "goal": "Ziel",
+        "supporters": "Unterstützer",
+        "impact": "Auswirkung",
+        "revenue": "Bisherige Einnahmen ...",
+        "ticketsPurchased": "Gekaufte Tickets",
+        "totalIncome": "Gesamteinnahmen"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run, in den Vereinigten Staaten als UAE Healthy Kidney Run bekannt, kam 2005 erstmals nach New York und wurde dort schnell zu einem der beliebtesten Wohltätigkeitsläufe der Stadt. Organisiert in Partnerschaft mit der National Kidney Foundation und der UAE-Botschaft in Washington, D.C., wurden alle Einnahmen der Unterstützung der Nierenforschung gewidmet. Nach mehreren erfolgreichen Ausgaben kehrte der Lauf 2026 in die USA zurück, diesmal mit einem neuen Austragungsort: Miami, Florida, wo die Veranstaltung am 31. Januar stattfand. Diese bedeutende Wohltätigkeitsveranstaltung spiegelte die dauerhafte Freundschaft zwischen den UAE und den USA sowie das Engagement der UAE für humanitäre und Gesundheitsprojekte weltweit wider."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run kommt vom 16. bis 17. Mai 2026 nach Budapest und vereint Läufer und Familien in einer Feier des Fitness, der Gemeinschaft und der Philanthropie. Mit wettbewerbsfähigen Rennen, einschließlich eines malerischen 10K-Stadtkurses durch das historische Herz der Stadt, einem 5K und 3K durch den wunderschönen Városliget-Park und einem speziellen Kinderlauf bietet die Veranstaltung auch einzigartige Erlebnisse wie Heißluftballonfahrten, die atemberaubende Ausblicke auf Budapest bieten. Alle Einnahmen aus dem Ticketverkauf unterstützen Wohltätigkeitsorganisationen in ganz Ungarn und verkörpern das Engagement des Laufs für Großzügigkeit und positive Auswirkungen auf Gemeinschaften weltweit."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run wurde am Samstag, den 29. November 2025, in Wahat Al Karama ausgetragen, einer Veranstaltung, die Fitness, Großzügigkeit und menschliche Werte feiert. Die Teilnehmer konnten zwischen 3 km, 5 km oder 10 km Distanzen wählen. Der Lauf begann um 7:00 Uhr in Wahat Al Karama und endete in Erth Abu Dhabi. Die Einnahmen unterstützten drei bahnbrechende Forschungsprogramme am Abu Dhabi Stem Cell Center (ADSCC): die Förderung personalisierter Krebsbehandlungen durch Tumor-infiltrierende Lymphozyten (TIL), die Entwicklung einer Bioinformatik- und KI-Plattform für Präzisionsmedizin bei Erkrankungen wie Multipler Sklerose und Typ-1-Diabetes sowie das Perinatal-Projekt, das gespendetes Plazentagewebe in innovative Behandlungen für Hautpflege und Wundheilung umwandelt. Damit unterstrich der Lauf seine Mission, Gesundheit, Innovation und gesellschaftliche Wirkung zu fördern."
+        },
+        "cairo": {
+          "name": "Kairo",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run fand am Freitag, den 26. Dezember 2025, in Ägypten statt und setzte seine humanitäre Reise fort, die die enge Verbindung zwischen den UAE und Ägypten feierte. Organisiert mit der UAE-Botschaft in Ägypten und dem ägyptischen Ministerium für Jugend und Sport brachte die Veranstaltung Tausende von Teilnehmern zusammen, um für einen guten Zweck zu laufen. Alle Einnahmen unterstützten lebensrettende Behandlungen und medizinische Forschung für junge Patienten. Der Lauf verkörperte die Werte von Großzügigkeit, Einheit und Hoffnung und wurde vom Erbe des verstorbenen Sheikh Zayed bin Sultan Al Nahyan inspiriert."
+        },
+        "beijing": {
+          "name": "Beijing",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run fand vom 20. bis 22. September 2025 in China statt, an drei ikonischen Orten in Peking: Huairou Jinyu Xingfa Science Park, Huairou District und die Große Mauer – Mutianyu-Sektion. Die Spenden gingen an die Frauenvereinigung des Huairou-Bezirks, die Vereinigung behinderter Personen des Bezirks, die Rotkreuzgesellschaft in Beijing Huairou und das Kinderwohlfahrtsinstitut in Huairou. Die Veranstaltung spiegelte die Werte des Laufs wider und zeigte das kontinuierliche Engagement, einen positiven Unterschied im Leben Bedürftiger zu machen."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run kam am 5. Oktober 2025 erstmals nach Lateinamerika und wurde am ikonischen Copacabana-Strand in Rio de Janeiro ausgerichtet. Gestartet in Abu Dhabi zur Ehrung des Erbes des verstorbenen Sheikh Zayed bin Sultan Al Nahyan, hatte sich der Lauf zu einer globalen Bewegung entwickelt, die Sport, Gemeinschaft und Philanthropie vereinte. Die Einnahmen unterstützten Rio Solidário, eine angesehene Non-Profit-Organisation, die mit lokalen Regierungs- und Gemeinschaftsorganisationen zusammenarbeitet, um soziale Inklusion zu fördern und vulnerable Gruppen wie Kinder, Frauen und bedürftige Familien zu unterstützen."
+        },
+        "ethiopia": {
+          "name": "Äthiopien",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run wird nach Äthiopien kommen und dort Gemeinschaften in einer Feier von Gesundheit, Einheit und Philanthropie zusammenbringen. Die Erstveranstaltung bietet einen malerischen 10K-Kurs durch die historischen Sehenswürdigkeiten von Addis Abeba, eine familienfreundliche 5K-Route und einen 3K-Spaßlauf für Kinder. Alle Einnahmen werden lokale Wohltätigkeitsorganisationen und Initiativen zur Förderung von Bildung und Gesundheitsversorgung unterstützen und die globale Mission des Laufs für Güte und positive Veränderung verkörpern."
+        }
+      },
+      "common": {
+        "appName": "Zayed Charity Run",
+        "welcome": "Willkommen",
+        "selectCity": "Stadt auswählen",
+        "chooseRaceVersion": "Ihr Rennen wählen",
+        "select": "Auswählen",
+        "loading": "Laden...",
+        "error": "Fehler",
+        "retry": "Wiederholen",
+        "cancel": "Abbrechen",
+        "confirm": "Bestätigen",
+        "save": "Speichern",
+        "english": "Englisch",
+        "arabic": "Arabisch",
+        "hungarian": "Ungarisch",
+        "spanish": "Spanisch",
+        "german": "Deutsch",
+        "french": "Französisch",
+        "delete": "Löschen",
+        "edit": "Bearbeiten",
+        "back": "Zurück",
+        "next": "Weiter",
+        "previous": "Vorherige",
+        "close": "Schließen",
+        "search": "Suchen",
+        "filter": "Filtern",
+        "countdownToStart": "Countdown bis zum Start...",
+        "days": "Tage",
+        "hours": "Stunden",
+        "minutes": "Minuten",
+        "seconds": "Sekunden",
+        "comingSoon": "Bald verfügbar"
+      },
+      "events": {
+        "comingSoon": "Event-Funktion bald verfügbar!",
+        "buyTickets": "Tickets kaufen",
+        "saveToCalendar": "Im Kalender speichern",
+        "viewOnMap": "Auf der Karte anzeigen",
+        "bookNow": "Jetzt buchen",
+        "10KRace": "10K Lauf",
+        "5KRace": "5K Lauf",
+        "3KRace": "3K Lauf",
+        "ChildrenRace": "Kinderlauf",
+        "DogsRace": "Hundelauf",
+        "FamilyRace": "Familienlauf",
+        "FameForKindness": "Ruhm für Güte"
+      },
+      "loading": {
+        "initializing": "Initialisierung...",
+        "loadingCity": "Stadt laden...",
+        "fetchingRevenue": "Einnahmen abrufen...",
+        "loadingPreferences": "Einstellungen laden...",
+        "ready": "Bereit!"
+      },
+      "map": {
+        "comingSoon": "Kartenfunktion bald verfügbar!",
+        "satellite": "Satellit",
+        "standard": "Standard",
+        "pointOfInterest": "Orte von Interesse",
+        "eventLocation": "Veranstaltungsort",
+        "pathShown": "Route angezeigt",
+        "pathHidden": "Route ausgeblendet"
+      },
+      "music": {
+        "title": "Musik",
+        "volume": "Lautstärke",
+        "nowPlaying": "Läuft gerade",
+        "duration": "Dauer",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Startseite",
+        "profile": "Profil",
+        "settings": "Einstellungen",
+        "about": "Über uns",
+        "map": "Karte",
+        "mapList": "Standorte",
+        "tickets": "Tickets",
+        "events": "Events",
+        "program": "Programm",
+        "music": "Musik",
+        "volunteer": "Freiwilliger",
+        "changeCity": "Stadt ändern",
+        "topTabs": "Obere Tabs"
+      },
+      "run": {
+        "startRun": "Lauf starten",
+        "stopRun": "Lauf stoppen",
+        "pauseRun": "Lauf pausieren",
+        "resumeRun": "Lauf fortsetzen",
+        "distance": "Distanz",
+        "duration": "Dauer",
+        "pace": "Tempo",
+        "calories": "Kalorien",
+        "steps": "Schritte"
+      },
+      "settings": {
+        "language": "Sprache",
+        "city": "Stadt",
+        "cityDescription": "Aktuell:",
+        "changeCity": "Stadt ändern",
+        "musicVolume": "Musiklautstärke",
+        "version": "Version",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Tab-Position",
+          "top": "Oben",
+          "bottom": "Unten"
+        },
+        "saveAndExit": "Speichern und beenden"
+      },
+      "tickets": {
+        "tickets": "Tickets",
+        "comingSoon": "Tickets-Funktion bald verfügbar!"
+      },
+      "volunteer": {
+        "comingSoon": "Demnächst",
+        "volunteerDescription": "Treten Sie unserem Team engagierter Freiwilliger bei und helfen Sie dabei, den Zayed Charity Run zu einem Erfolg zu machen!",
+        "registrationForm": "Freiwilligen-Registrierungsformular",
+        "personalDetails": "Persönliche Daten",
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "photo": "Foto",
+        "emailAddress": "E-Mail-Adresse",
+        "mobileNumber": "Handynummer",
+        "dateOfBirth": "Geburtsdatum",
+        "ageNote": "Freiwillige müssen 21 Jahre und älter sein.",
+        "gender": "Geschlecht",
+        "male": "Männlich",
+        "female": "Weiblich",
+        "timeCommitmentLabel": "Zeitliches Engagement (Wählen Sie alle zutreffenden aus)",
+        "timeCommitmentNote": "* Mindestens ein ganztägiges Engagement ist erforderlich",
+        "timeCommitmentRequired": "Bitte wählen Sie mindestens ein Tagesengagement aus",
+        "languagesSpoken": "Gesprochene Sprachen",
+        "languagesRequired": "Bitte wählen Sie mindestens eine Sprache aus",
+        "desiredRoles": "Gewünschte Rollen (Wählen Sie alle interessanten aus)",
+        "otherRoles": "Andere Rollen (bitte angeben)",
+        "otherRolesPlaceholder": "z.B. Eventkoordination, Social-Media-Management, etc.",
+        "socialMedia": "Social-Media-Handles",
+        "twitter": "Twitter-Handle",
+        "instagram": "Instagram-Handle",
+        "facebook": "Facebook-Profil",
+        "linkedin": "LinkedIn-Profil",
+        "tiktok": "TikTok-Handle",
+        "agreement": "Vereinbarung und Bestätigung",
+        "agreeToTerms": "Ich stimme zu",
+        "termsAndConditions": "den Nutzungsbedingungen",
+        "agreeToGDPR": "Ich stimme zu",
+        "privacyPolicy": "der Datenschutzrichtlinie",
+        "andGDPR": "und DSGVO-Konformität",
+        "termsRequired": "Sie müssen den Nutzungsbedingungen zustimmen",
+        "gdprRequired": "Sie müssen der Datenschutzrichtlinie zustimmen",
+        "photoUpload": "Foto Hochladen",
+        "photoUploadMessage": "Wählen Sie aus, wie Sie Ihr Foto hinzufügen möchten",
+        "takePhoto": "Foto Aufnehmen",
+        "chooseFromGallery": "Aus Galerie Wählen",
+        "uploadPhoto": "Foto Hochladen",
+        "changePhoto": "Foto Ändern",
+        "photoOptional": "Optional - Max. 5 MB",
+        "genderRequired": "Bitte wählen Sie Ihr Geschlecht aus",
+        "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+        "dateOfBirthRequired": "Bitte wählen Sie Ihr Geburtsdatum aus",
+        "photoUploadErrorTitle": "Upload fehlgeschlagen",
+        "photoUploadError": "Foto konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut.",
+        "submitApplication": "Freiwilligenbewerbung einreichen",
+        "emailExistsTitle": "Bewerbung existiert",
+        "emailExists": "Eine Bewerbung mit dieser E-Mail existiert bereits.",
+        "successTitle": "Bewerbung eingereicht",
+        "applicationSubmitted": "Vielen Dank! Ihre Freiwilligenbewerbung wurde erfolgreich eingereicht.",
+        "errorTitle": "Einreichungsfehler",
+        "submissionError": "Beim Einreichen Ihrer Bewerbung ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+      }
+    },
+    "es": {
+      "app": {
+        "name": "Carrera de Caridad Zayed"
+      },
+      "auth": {
+        "login": "Iniciar Sesión",
+        "logout": "Cerrar Sesión",
+        "register": "Registrar",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "email": "Correo Electrónico",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar Contraseña",
+        "username": "Nombre de Usuario"
+      },
+      "charity": {
+        "donate": "Donar",
+        "totalRaised": "Donación Total",
+        "goal": "Meta de donación",
+        "supporters": "Colaboradores",
+        "impact": "Impacto",
+        "revenue": "Ingresos Hasta Ahora ...",
+        "ticketsPurchased": "Entradas Comprados",
+        "totalIncome": "Ingresos Totales"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed, conocida en Estados Unidos como la Carrera por la Salud Renal de los Emiratos Árabes Unidos, se celebró por primera vez en Nueva York en 2005, donde desde entonces se ha consolidado como una de las carreras benéficas más populares de la ciudad. Organizada en colaboración con la Fundación Nacional del Riñón y la Embajada de los Emiratos Árabes Unidos en Washington, D. C., todos los ingresos del evento se destinan a apoyar la investigación renal. Ahora, la 'carrera más amable del mundo' regresa a Estados Unidos y tendrá lugar en Miami, Florida, el 31 de enero de 2026. Este importante evento benéfico continúa reflejando la duradera amistad entre los Emiratos Árabes Unidos y Estados Unidos, así como el firme compromiso del país con las causas humanitarias y de salud en todo el mundo."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed llega a Budapest del 16 al 17 de mayo de 2026, reuniendo a corredores y familias en una celebración de deporte, comunidad y solidaridad. El evento incluye carreras competitivas como un recorrido urbano panorámico de 10K por el centro histórico, así como pruebas de 5K y 3K en el hermoso Parque Városliget, además de una carrera especial para niños. También ofrece experiencias únicas, como paseos en globo aerostático con vistas impresionantes de la ciudad. Todos los ingresos de las entradas se destinan a apoyar organizaciones benéficas en Hungría, reflejando el compromiso del evento con la generosidad y el impacto positivo en las comunidades en todo el mundo."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Corre por la Bondad",
+          "description": "Únete a nosotros el sábado 29 de noviembre de 2025 en Wahat Al Karama para una nueva edición de la Carrera de Caridad Zayed, un evento que celebra el deporte, la generosidad y los valores humanos. Los participantes pueden elegir entre distancias de 3 km, 5 km o 10 km. La carrera comienza a las 7:00 desde Wahat Al Karama y finaliza en Erth Abu Dhabi. Este año, los fondos recaudados apoyarán tres programas de investigación pioneros en el Centro de Células Madre de Abu Dhabi (ADSCC): el avance de terapias personalizadas contra el cáncer mediante Linfocitos Infiltrantes de Tumor (TIL), el desarrollo de una plataforma de Bioinformática e Inteligencia Artificial para impulsar la medicina de precisión en enfermedades como la esclerosis múltiple y la diabetes tipo 1, y el Proyecto Perinatal, que transforma tejidos placentarios donados en tratamientos innovadores para el cuidado de la piel y la cicatrización de heridas, destacando la misión de la carrera de promover la salud, la innovación y el impacto comunitario."
+        },
+        "cairo": {
+          "name": "El Cairo",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed regresa a Egipto el viernes 26 de diciembre de 2025, continuando su labor humanitaria que celebra el vínculo duradero entre los Emiratos Árabes Unidos y Egipto. Organizada en colaboración con la Embajada de los Emiratos Árabes Unidos en Egipto y el Ministerio de Juventud y Deportes de Egipto, la edición de este año volverá a reunir a miles de participantes para correr por una causa noble. Todos los fondos recaudados del evento se destinarán a apoyar tratamientos médicos que salvan vidas y la investigación médica para pacientes jóvenes. La Carrera de Caridad Zayed continúa encarnando los valores de generosidad, unidad y esperanza, inspirada en el legado atemporal del Padre Fundador de los Emiratos Árabes Unidos, el difunto Sheikh Zayed bin Sultan Al Nahyan."
+        },
+        "beijing": {
+          "name": "Beijing",
+          "tagline": "Corre por la Bondad",
+          "description": "Uniendo a los Emiratos Árabes Unidos y China en una celebración histórica del deporte, la cultura y la solidaridad, esta iniciativa emblemática reúne a ambas naciones a través de una combinación única de atletismo e intercambio cultural. El evento se llevará a cabo del 20 al 22 de septiembre de 2025 en tres lugares emblemáticos de Pekín: el Parque Científico Huairou Jinyu Xingfa, el distrito de Huairou y la Gran Muralla (sección Mutianyu). Las donaciones se destinarán a la Federación de Mujeres del distrito de Huairou, la Federación de Personas con Discapacidad del distrito de Huairou, la Sociedad de la Cruz Roja de Pekín en Huairou y el Instituto de Bienestar Infantil de Huairou. Esto refleja los valores fundamentales de la carrera y encarna su compromiso continuo de generar un impacto tangible en la vida de quienes más lo necesitan."
+        },
+        "riodejaneiro": {
+          "name": "Río de Janeiro",
+          "tagline": "Corre por la Bondad",
+          "description": "El 5 de octubre de 2025, la Carrera de Caridad Zayed llegará a América Latina por primera vez, celebrándose en la icónica playa de Copacabana, Río de Janeiro. Lanzada en Abu Dabi para honrar el legado del difunto Sheikh Zayed bin Sultan Al Nahyan, la carrera ha crecido hasta convertirse en un movimiento global que une el deporte, la comunidad y la filantropía, con ediciones memorables en ciudades como El Cairo, Nueva York y Miami. Ahora, este legado continúa en Brasil con su primera edición en Río de Janeiro. Los fondos recaudados en esta edición se destinarán a Rio Solidário, una reconocida organización sin fines de lucro que colabora con entidades gubernamentales y comunitarias para promover la inclusión social y brindar apoyo esencial a grupos vulnerables, incluidos niños, mujeres y familias en situación de necesidad."
+        },
+        "ethiopia": {
+          "name": "Etiopía",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed llega a Etiopía, uniendo a las comunidades en una celebración de la salud, la unidad y la filantropía. Este evento inaugural presenta un recorrido escénico de 10K a través de los lugares históricos de Adís Abeba, así como una ruta familiar de 5K y una carrera recreativa de 3K para niños. Todos los fondos recaudados apoyan a organizaciones benéficas locales e iniciativas que promueven la educación y la atención médica en Etiopía, encarnando la misión global de la carrera de fomentar la bondad y el cambio positivo."
+        }
+      },
+      "common": {
+        "appName": "Carrera de Caridad Zayed",
+        "welcome": "Bienvenido",
+        "selectCity": "Selecciona tu ciudad",
+        "chooseRaceVersion": "Elige tu modalidad de carrera",
+        "select": "Seleccionar",
+        "loading": "Cargando...",
+        "error": "Error",
+        "retry": "Reintentar",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "save": "Guardar",
+        "english": "Inglés",
+        "arabic": "Árabe",
+        "hungarian": "Húngaro",
+        "spanish": "Español",
+        "german": "Alemán",
+        "french": "Francés",
+        "delete": "Eliminar",
+        "edit": "Editar",
+        "back": "Atrás",
+        "next": "Siguiente",
+        "previous": "Anterior",
+        "close": "Cerrar",
+        "search": "Buscar",
+        "filter": "Filtrar",
+        "countdownToStart": "Cuenta atrás",
+        "days": "Días",
+        "hours": "Horas",
+        "minutes": "Minutos",
+        "seconds": "Segundos",
+        "comingSoon": "Próximamente"
+      },
+      "events": {
+        "comingSoon": "¡Próximamente!",
+        "buyTickets": "Comprar entradas",
+        "saveToCalendar": "Guardar en el calendario",
+        "viewOnMap": "Ver en el mapa",
+        "bookNow": "Reservar ahora",
+        "10KRace": "Carrera 10K",
+        "5KRace": "Carrera 5K",
+        "3KRace": "Carrera 3K",
+        "ChildrenRace": "Carrera infantil",
+        "DogsRace": "Carrera de perros",
+        "FamilyRace": "Carrera familiar",
+        "FameForKindness": "Fama por bondad"
+      },
+      "loading": {
+        "initializing": "Inicializando...",
+        "loadingCity": "Cargando ciudad...",
+        "fetchingRevenue": "Obteniendo ingresos...",
+        "loadingPreferences": "Cargando preferencias...",
+        "ready": "¡Listo!"
+      },
+      "map": {
+        "comingSoon": "¡Próximamente!",
+        "satellite": "Satélite",
+        "standard": "Estándar",
+        "pointOfInterest": "Punto de interés",
+        "eventLocation": "Ubicación del evento",
+        "pathShown": "Ruta visible",
+        "pathHidden": "Ruta oculta"
+      },
+      "music": {
+        "title": "Música",
+        "volume": "Volumen",
+        "nowPlaying": "Reproduciendo ahora",
+        "duration": "Duración",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Inicio",
+        "profile": "Perfil",
+        "settings": "Configuración",
+        "about": "Información",
+        "map": "Mapa",
+        "mapList": "Puntos de interés",
+        "tickets": "Entradas",
+        "events": "Eventos",
+        "program": "Programa",
+        "music": "Música",
+        "volunteer": "Voluntario",
+        "changeCity": "Cambiar ciudad",
+        "topTabs": "Pestañas superiores"
+      },
+      "run": {
+        "startRun": "Iniciar carrera",
+        "stopRun": "Detener carrera",
+        "pauseRun": "Pausar carrera",
+        "resumeRun": "Reanudar carrera",
+        "distance": "Distancia",
+        "duration": "Duración",
+        "pace": "Ritmo",
+        "calories": "Calorías",
+        "steps": "Pasos"
+      },
+      "settings": {
+        "language": "Idioma",
+        "city": "Ciudad",
+        "cityDescription": "Información de la ciudad:",
+        "changeCity": "Cambiar ciudad",
+        "musicVolume": "Volumen de música",
+        "version": "Versión",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Pestañas superiores",
+          "top": "Arriba",
+          "bottom": "Abajo"
+        },
+        "saveAndExit": "Guardar y salir"
+      },
+      "tickets": {
+        "tickets": "Entradas",
+        "comingSoon": "¡Próximamente!"
+      },
+      "volunteer": {
+        "comingSoon": "Próximamente",
+        "volunteerDescription": "¡Únete a nuestro equipo de voluntarios dedicados y ayuda a hacer que la Carrera de Caridad Zayed sea un éxito!",
+        "registrationForm": "Formulario de Registro de Voluntarios",
+        "personalDetails": "Datos Personales",
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "emailAddress": "Dirección de Correo Electrónico",
+        "mobileNumber": "Número de Teléfono Móvil",
+        "dateOfBirth": "Fecha de Nacimiento",
+        "ageNote": "Los voluntarios deben tener 21 años o más.",
+        "gender": "Género",
+        "male": "Masculino",
+        "female": "Femenino",
+        "timeCommitmentLabel": "Compromiso de Tiempo (Seleccione todos los aplicables)",
+        "timeCommitmentNote": "* Se requiere al menos un compromiso de día completo",
+        "timeCommitmentRequired": "Por favor seleccione al menos un compromiso diario",
+        "languagesSpoken": "Idiomas Hablados",
+        "languagesRequired": "Por favor seleccione al menos un idioma",
+        "desiredRoles": "Roles Deseados (Seleccione todos los que le interesen)",
+        "otherRoles": "Otros Roles (por favor especifique)",
+        "otherRolesPlaceholder": "ej. Coordinación de eventos, Gestión de redes sociales, etc.",
+        "socialMedia": "Cuentas de Redes Sociales",
+        "twitter": "Usuario de Twitter",
+        "instagram": "Usuario de Instagram",
+        "facebook": "Perfil de Facebook",
+        "linkedin": "Perfil de LinkedIn",
+        "tiktok": "Usuario de TikTok",
+        "agreement": "Acuerdo y Reconocimiento",
+        "agreeToTerms": "Estoy de acuerdo con",
+        "termsAndConditions": "los términos y condiciones",
+        "agreeToGDPR": "Estoy de acuerdo con",
+        "privacyPolicy": "la política de privacidad",
+        "andGDPR": "y el cumplimiento de GDPR",
+        "termsRequired": "Debe aceptar los términos y condiciones",
+        "gdprRequired": "Debe aceptar la política de privacidad",
+        "photo": "Foto",
+        "photoUpload": "Subir Foto",
+        "photoUploadMessage": "Elija cómo agregar su foto",
+        "takePhoto": "Tomar Foto",
+        "chooseFromGallery": "Elegir de la Galería",
+        "uploadPhoto": "Subir Foto",
+        "changePhoto": "Cambiar Foto",
+        "photoOptional": "Opcional - Máx. 5 MB",
+        "genderRequired": "Por favor seleccione su género",
+        "emailInvalid": "Por favor ingrese una dirección de correo electrónico válida",
+        "dateOfBirthRequired": "Por favor seleccione su fecha de nacimiento",
+        "photoUploadErrorTitle": "Error de carga",
+        "photoUploadError": "Error al subir la foto. Por favor inténtelo de nuevo.",
+        "submitApplication": "Enviar Solicitud de Voluntariado",
+        "emailExistsTitle": "Solicitud Existe",
+        "emailExists": "Ya existe una solicitud con este correo electrónico.",
+        "successTitle": "Solicitud Enviada",
+        "applicationSubmitted": "¡Gracias! Su solicitud de voluntariado ha sido enviada exitosamente.",
+        "errorTitle": "Error de Envío",
+        "submissionError": "Hubo un error al enviar su solicitud. Por favor inténtelo de nuevo."
+      }
+    },
+    "fr": {
+      "app": {
+        "name": "Course de Charité Zayed"
+      },
+      "auth": {
+        "login": "Connexion",
+        "logout": "Déconnexion",
+        "register": "S'inscrire",
+        "forgotPassword": "Mot de passe oublié ?",
+        "email": "Email",
+        "password": "Mot de passe",
+        "confirmPassword": "Confirmer le mot de passe",
+        "username": "Nom d'utilisateur"
+      },
+      "charity": {
+        "donate": "Faire un don",
+        "totalRaised": "Total collecté",
+        "goal": "Objectif",
+        "supporters": "Supporters",
+        "impact": "Impact",
+        "revenue": "Revenus jusqu'à présent...",
+        "ticketsPurchased": "Billets achetés",
+        "totalIncome": "Revenus totaux"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run, connu aux États-Unis sous le nom de UAE Healthy Kidney Run, s'est d'abord étendu à New York en 2005, où il reste l'un des runs caritatifs les plus populaires de la ville. Organisé en partenariat avec la National Kidney Foundation et l'Ambassade des Émirats Arabes Unis à Washington, D.C., tous les bénéfices de l'événement sont dédiés au soutien de la recherche sur les reins. Maintenant, le \"run le plus gentil du monde\" revient aux États-Unis, se déroulant à Miami, en Floride, le 31 janvier 2026. Cet événement caritatif significatif continue de refléter l'amitié durable entre les Émirats Arabes Unis et les États-Unis, ainsi que l'engagement inébranlable des Émirats Arabes Unis envers les causes humanitaires et de santé dans le monde entier."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run arrive à Budapest du 16 au 17 mai 2026, unissant coureurs et familles dans une célébration du fitness, de la communauté et de la philanthropie. Présentant des courses compétitives incluant un parcours urbain pittoresque de 10K à travers le cœur historique de la ville, un 5K et 3K à travers le beau parc Városliget, et une course spéciale pour enfants, l'événement offre également des expériences uniques comme des montgolfières offrant des vues à couper le souffle de Budapest. Tous les bénéfices des ventes de billets soutiennent des œuvres caritatives à travers la Hongrie, incarnant l'engagement du run envers la générosité et l'impact positif dans les communautés du monde entier."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Rejoignez-nous le samedi 29 novembre 2025 à Wahat Al Karama pour la nouvelle édition du Zayed Charity Run, un événement qui célèbre le fitness, la générosité et l'essence des valeurs humaines. Que vous soyez un coureur occasionnel ou un athlète professionnel, vous pouvez choisir parmi 3 km, 5 km ou 10 km. Le run commence à 7h00 depuis Wahat Al Karama et se termine à Erth Abu Dhabi. Cette année, les bénéfices du run soutiendront trois programmes de recherche pionniers au Abu Dhabi Stem Cell Center (ADSCC) : l'avancement de la thérapie personnalisée du cancer grâce aux lymphocytes infiltrant la tumeur (TIL), le développement d'une plateforme bioinformatique et IA pour promouvoir la médecine de précision pour des conditions telles que la sclérose en plaques et le diabète de type 1, et le Projet périnatal, qui transforme le tissu placentaire donné en traitements innovants pour les soins de la peau et la cicatrisation des plaies, soulignant la mission du run de promouvoir la santé, l'innovation et l'impact communautaire."
+        },
+        "cairo": {
+          "name": "Le Caire",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run revient en Égypte le vendredi 26 décembre 2025, continuant son voyage humanitaire qui célèbre le lien durable entre les Émirats Arabes Unis et l'Égypte. Organisé en collaboration avec l'Ambassade des Émirats Arabes Unis en Égypte et le Ministère égyptien de la Jeunesse et des Sports, cette édition rassemblera une fois de plus des milliers de participants pour courir pour une noble cause. Tous les bénéfices de l'événement iront au soutien des traitements salvateurs et de la recherche médicale pour les jeunes patients. Le Zayed Charity Run continue d'incarner les valeurs de générosité, d'unité et d'espoir, inspiré par l'héritage intemporel du Père fondateur des Émirats Arabes Unis, feu Cheikh Zayed bin Sultan Al Nahyan."
+        },
+        "beijing": {
+          "name": "Pékin",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Unissant les Émirats Arabes Unis et la Chine dans une célébration historique du sport, de la culture et de l'humanité, cette initiative historique rassemble deux nations à travers un mélange unique d'athlétisme et d'échange culturel. L'événement se tiendra du 20 au 22 septembre 2025, dans trois lieux emblématiques de Pékin : Huairou Jinyu Xingfa Science Park, district de Huairou, et la Grande Muraille - section Mutianyu. Les dons iront à la Fédération des femmes du district de Huairou, la Fédération des personnes handicapées du district de Huairou, la Société de la Croix-Rouge de Beijing Huairou, et l'Institut du bien-être des enfants de Huairou. Cela reflète les valeurs authentiques du run et incarne son engagement continu à faire une différence tangible dans la vie de ceux qui en ont le plus besoin."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le 5 octobre 2025, le Zayed Charity Run arrivera en Amérique latine pour la toute première fois, accueilli sur la plage emblématique de Copacabana à Rio de Janeiro. Lancé à Abu Dhabi pour honorer l'héritage de feu Cheikh Zayed bin Sultan Al Nahyan, le Run est devenu un mouvement mondial unissant sport, communauté et philanthropie, avec des éditions mémorables dans des villes comme Le Caire, New York et Miami. Maintenant, cet héritage se poursuit au Brésil, avec sa première édition accueillie à Rio de Janeiro. Les bénéfices de l'édition de Rio soutiendront Rio Solidário, une organisation à but non lucratif respectée qui s'associe au gouvernement et aux organisations communautaires pour promouvoir l'inclusion sociale et fournir un soutien vital aux groupes vulnérables, y compris les enfants, les femmes et les familles dans le besoin."
+        },
+        "ethiopia": {
+          "name": "Éthiopie",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run arrive en Éthiopie, unissant les communautés dans une célébration de la santé, de l'unité et de la philanthropie. Cet événement inaugural présente un parcours pittoresque de 10K à travers les monuments historiques d'Addis-Abeba, un parcours familial de 5K et un run amusant de 3K pour les enfants. Tous les bénéfices soutiennent les œuvres caritatives locales et les initiatives promouvant l'éducation et les soins de santé en Éthiopie, incarnant la mission mondiale du run de gentillesse et de changement positif."
+        }
+      },
+      "common": {
+        "appName": "Zayed Charity Run",
+        "welcome": "Bienvenue",
+        "selectCity": "Sélectionnez votre ville",
+        "chooseRaceVersion": "Choisissez votre version de course",
+        "select": "Sélectionner",
+        "loading": "Chargement...",
+        "error": "Erreur",
+        "retry": "Réessayer",
+        "cancel": "Annuler",
+        "confirm": "Confirmer",
+        "save": "Sauvegarder",
+        "english": "Anglais",
+        "arabic": "Arabe",
+        "hungarian": "Hongrois",
+        "spanish": "Espagnol",
+        "german": "Allemand",
+        "french": "Français",
+        "delete": "Supprimer",
+        "edit": "Modifier",
+        "back": "Retour",
+        "next": "Suivant",
+        "previous": "Précédent",
+        "close": "Fermer",
+        "search": "Rechercher",
+        "filter": "Filtrer",
+        "countdownToStart": "Préparez-vous...",
+        "days": "Jours",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes",
+        "comingSoon": "Bientôt disponible"
+      },
+      "events": {
+        "comingSoon": "Fonction événements bientôt disponible !",
+        "buyTickets": "Acheter des billets",
+        "saveToCalendar": "Sauvegarder dans le calendrier",
+        "viewOnMap": "Voir sur la carte",
+        "bookNow": "Réserver maintenant",
+        "10KRace": "Course 10K",
+        "5KRace": "Course 5K",
+        "3KRace": "Course 3K",
+        "ChildrenRace": "Course enfants",
+        "DogsRace": "Course chiens",
+        "FamilyRace": "Course familiale",
+        "FameForKindness": "Célébrité pour la gentillesse"
+      },
+      "loading": {
+        "initializing": "Initialisation...",
+        "loadingCity": "Chargement de la ville...",
+        "fetchingRevenue": "Récupération des revenus...",
+        "loadingPreferences": "Chargement des préférences...",
+        "ready": "Prêt !"
+      },
+      "map": {
+        "comingSoon": "Fonction carte bientôt disponible !",
+        "satellite": "Satellite",
+        "standard": "Standard",
+        "pointOfInterest": "Point d'intérêt",
+        "eventLocation": "Lieu de l'événement",
+        "pathShown": "Chemin affiché",
+        "pathHidden": "Chemin masqué"
+      },
+      "music": {
+        "title": "Musique",
+        "volume": "Volume",
+        "nowPlaying": "En cours de lecture",
+        "duration": "Durée",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Accueil",
+        "profile": "Profil",
+        "settings": "Paramètres",
+        "about": "À propos",
+        "map": "Carte",
+        "mapList": "Points d'intérêt",
+        "tickets": "Billets",
+        "events": "Événements",
+        "program": "Programme",
+        "music": "Musique",
+        "volunteer": "Bénévole",
+        "changeCity": "Changer de ville",
+        "topTabs": "Onglets supérieurs"
+      },
+      "run": {
+        "startRun": "Commencer la course",
+        "stopRun": "Arrêter la course",
+        "pauseRun": "Pause",
+        "resumeRun": "Reprendre",
+        "distance": "Distance",
+        "duration": "Durée",
+        "pace": "Rythme",
+        "calories": "Calories",
+        "steps": "Pas"
+      },
+      "settings": {
+        "language": "Langue",
+        "city": "Ville",
+        "cityDescription": "Actuelle :",
+        "changeCity": "Changer de ville",
+        "musicVolume": "Volume de la musique",
+        "version": "Version",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Position des onglets",
+          "top": "Haut",
+          "bottom": "Bas"
+        },
+        "saveAndExit": "Sauvegarder et quitter"
+      },
+      "tickets": {
+        "tickets": "Billets",
+        "comingSoon": "Fonction billets bientôt disponible !"
+      },
+      "volunteer": {
+        "comingSoon": "Bientôt disponible",
+        "volunteerDescription": "Rejoignez notre équipe de bénévoles dévoués et aidez à faire de la Course de Charité Zayed un succès !",
+        "registrationForm": "Formulaire d'Inscription des Bénévoles",
+        "personalDetails": "Détails Personnels",
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "emailAddress": "Adresse E-mail",
+        "mobileNumber": "Numéro de Téléphone Mobile",
+        "dateOfBirth": "Date de Naissance",
+        "ageNote": "Les bénévoles doivent avoir 21 ans et plus.",
+        "gender": "Genre",
+        "male": "Masculin",
+        "female": "Féminin",
+        "timeCommitmentLabel": "Engagement Temporel (Sélectionnez tous ceux qui s'appliquent)",
+        "timeCommitmentNote": "* Au moins un engagement d'une journée complète est requis",
+        "timeCommitmentRequired": "Veuillez sélectionner au moins un engagement quotidien",
+        "languagesSpoken": "Langues Parlées",
+        "languagesRequired": "Veuillez sélectionner au moins une langue",
+        "desiredRoles": "Rôles Souhaités (Sélectionnez tous ceux qui vous intéressent)",
+        "otherRoles": "Autres Rôles (veuillez préciser)",
+        "otherRolesPlaceholder": "ex. Coordination d'événements, Gestion des réseaux sociaux, etc.",
+        "socialMedia": "Comptes de Réseaux Sociaux",
+        "twitter": "Nom d'utilisateur Twitter",
+        "instagram": "Nom d'utilisateur Instagram",
+        "facebook": "Profil Facebook",
+        "linkedin": "Profil LinkedIn",
+        "tiktok": "Nom d'utilisateur TikTok",
+        "agreement": "Accord et Reconnaissance",
+        "agreeToTerms": "J'accepte",
+        "termsAndConditions": "les termes et conditions",
+        "agreeToGDPR": "J'accepte",
+        "privacyPolicy": "la politique de confidentialité",
+        "andGDPR": "et la conformité RGPD",
+        "termsRequired": "Vous devez accepter les termes et conditions",
+        "gdprRequired": "Vous devez accepter la politique de confidentialité",
+        "photo": "Photo",
+        "photoUpload": "Télécharger une Photo",
+        "photoUploadMessage": "Choisissez comment ajouter votre photo",
+        "takePhoto": "Prendre une Photo",
+        "chooseFromGallery": "Choisir dans la Galerie",
+        "uploadPhoto": "Télécharger une Photo",
+        "changePhoto": "Changer la Photo",
+        "photoOptional": "Optionnel - Max. 5 Mo",
+        "genderRequired": "Veuillez sélectionner votre genre",
+        "emailInvalid": "Veuillez saisir une adresse e-mail valide",
+        "dateOfBirthRequired": "Veuillez sélectionner votre date de naissance",
+        "photoUploadErrorTitle": "Échec du téléchargement",
+        "photoUploadError": "Échec du téléchargement de la photo. Veuillez réessayer.",
+        "submitApplication": "Soumettre la Demande de Bénévolat",
+        "emailExistsTitle": "Demande Existe",
+        "emailExists": "Une demande avec cet e-mail existe déjà.",
+        "successTitle": "Demande Soumise",
+        "applicationSubmitted": "Merci ! Votre demande de bénévolat a été soumise avec succès.",
+        "errorTitle": "Erreur de Soumission",
+        "submissionError": "Une erreur s'est produite lors de la soumission de votre demande. Veuillez réessayer."
+      }
+    },
+    "hu": {
+      "app": {
+        "name": "Zayed Jótékonysági Futás"
+      },
+      "auth": {
+        "login": "Bejelentkezés",
+        "logout": "Kijelentkezés",
+        "register": "Regisztráció",
+        "forgotPassword": "Elfelejtett jelszó?",
+        "email": "E-mail",
+        "password": "Jelszó",
+        "confirmPassword": "Jelszó megerősítése",
+        "username": "Felhasználónév"
+      },
+      "charity": {
+        "donate": "Adakozás",
+        "totalRaised": "Összesen befolyt adomány",
+        "goal": "Célösszeg",
+        "supporters": "Támogatók",
+        "impact": "Elért hatás",
+        "revenue": "Értékesítési bevétel ...",
+        "ticketsPurchased": "Vásárolt jegyek összege",
+        "totalIncome": "Összes bevétel"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás, amely az Egyesült Államokban UAE Healthy Kidney Run néven ismert, 2005-ben érkezett először New Yorkba, ahol azóta is a város egyik legnépszerűbb jótékonysági futóeseménye maradt. A Nemzeti Vesealapítvánnyal és az Egyesült Arab Emírségek washingtoni nagykövetségével együttműködésben szervezett rendezvény teljes bevételét a vesekutatás támogatására fordították. A „világ legkedvesebb futásaként\" is emlegetett esemény 2026. január 31-én Miamiban, Floridában került megrendezésre. Ez a jelentős kezdeményezés tovább erősítette az Egyesült Arab Emírségek és az Egyesült Államok közötti tartós kapcsolatot, valamint az Emirátusok globális humanitárius és egészségügyi elkötelezettségét."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Futás a Kedvességért",
+          "description": "Der Zayed Charity Run wird am 16. und 17. Mai 2026 nach Budapest kommen. Der mittlerweile 25 Jahre alte Wohltätigkeitslauf wird damit erstmals in Europa stattfinden. Unter dem Motto Gemeinschaft und Philanthropie wird die Veranstaltung den teilnehmenden Läufern und ihren Familien ein unvergessliches Erlebnis bieten. Die Veranstaltung wird ein vielfältiges Programm bieten: Am 16. Mai werden die 3 km- und 5 km-Strecken im Városliget mit kulturellen und familienfreundlichen Programmen stattfinden. Das Highlight am 17. Mai wird die 10 km-Strecke sein, die durch die schönsten Punkte Budapests führt. Für die jüngsten Teilnehmer und ihre unterstützenden Familien wird ein eigener Kinderlauf angeboten. Besondere Attraktionen im Városliget werden das Sportereignis noch einzigartiger machen, darunter Heißluftballon-Erlebnisse mit atemberaubendem Blick über Budapest. Die gesamten Einnahmen aus den Startgebühren werden ungarische Wohltätigkeitsorganisationen unterstützen und damit die positive Wirkung des Laufs auf die Gemeinschaften sowohl in Ungarn als auch weltweit fördern."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás 2025. november 29-én, szombaton került megrendezésre az abu-dzabi Wahat Al Karama emlékhelynél, ahol a sport, a nagylelkűség és az emberi értékek álltak a középpontban. A résztvevők 3 km-es, 5 km-es vagy 10 km-es távok közül választhattak, a rajt 7:00-kor indult, a cél pedig az Erth Abu Dhabinál volt. Az esemény bevétele három kiemelkedő kutatási programot támogatott az Abu Dhabi Stem Cell Centerben (ADSCC), többek között a személyre szabott rákterápiát, a precíziós orvoslást segítő bioinformatikai és mesterséges intelligencia alapú fejlesztéseket, valamint innovatív perinatális gyógyászati projekteket. Mindez jól tükrözte a kezdeményezés elkötelezettségét az egészségügyi innováció és a társadalmi hatás iránt."
+        },
+        "cairo": {
+          "name": "Kairó",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás 2025. december 26-án tért vissza Egyiptomba, folytatva azt a humanitárius küldetést, amely az Egyesült Arab Emírségek és Egyiptom közötti szoros kapcsolatot is jelképezte. Az eseményt az Emirátusok egyiptomi nagykövetségével és az Egyiptomi Ifjúsági és Sportminisztériummal együttműködésben szervezték, és résztvevők ezreit vonzotta egy közös, nemes cél érdekében. A bevételeket életmentő kezelésekre és fiatal betegek orvosi kutatására fordították, miközben a futás továbbra is a nagylelkűség, az egység és a remény értékeit képviselte."
+        },
+        "beijing": {
+          "name": "Peking",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás Kínában is megrendezésre került, ahol a sport, a kultúra és a közösség értékei álltak a középpontban. Az esemény 2025. szeptember 20–22. között zajlott Peking három ikonikus helyszínén, köztük a Huairou Jinyu Xingfa Tudományos Parkban, a Huairou kerületben, valamint a Nagy Fal mutianyui szakaszán. A befolyt adományok a Huairou kerületi Nők Szövetségéhez, a Fogyatékkal Élők Szövetségéhez, a Peking Huairou Vöröskereszthez és a Gyermekjóléti Intézethez kerültek, erősítve a futás autentikus értékeit és a nemzetközi közösség iránti elkötelezettségét."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás 2025. október 5-én érkezett Latin-Amerikába, ahol a Rio de Janeiró-i Copacabana strandon rendezték meg az eseményt. A kezdeményezés addigra globális mozgalommá vált, amely a sportot, a közösséget és a filantrópiát egyesítette. A bevételből a Rio Solidário nonprofit szervezet munkáját támogatták, amely együttműködve a helyi kormányzattal és közösségi szervezetekkel elősegítette a társadalmi befogadást és létfontosságú támogatást nyújtott a rászoruló gyermekeknek, nőknek és családoknak."
+        },
+        "ethiopia": {
+          "name": "Etiópia",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás Etiópiába is elérkezik, ahol a közösséget, az egészséget és a filantrópiát ünnepli majd. A program része lesz egy 10 km-es útvonal Addis Abeba történelmi látnivalóin keresztül, egy 5 km-es családi futás és egy 3 km-es gyermekverseny. A bevétel a helyi jótékonysági szervezeteket, valamint az oktatás és egészségügy előmozdítását támogatja majd, megtestesítve a futás globális küldetését a kedvesség és a pozitív változás előmozdításában."
+        }
+      },
+      "common": {
+        "appName": "Zayed Jótékonysági Futás",
+        "welcome": "Üdvözöljük",
+        "selectCity": "Válassza ki a futóverseny városát",
+        "chooseRaceVersion": "Válassza ki a verseny verzióját",
+        "select": "Kiválasztás",
+        "loading": "Betöltés...",
+        "error": "Hiba",
+        "retry": "Újra",
+        "cancel": "Mégse",
+        "confirm": "Megerősítés",
+        "save": "Mentés",
+        "english": "Angol",
+        "arabic": "Arab",
+        "hungarian": "Magyar",
+        "spanish": "Spanyol",
+        "german": "Német",
+        "french": "Francia",
+        "delete": "Törlés",
+        "edit": "Szerkesztés",
+        "back": "Vissza",
+        "next": "Következő",
+        "previous": "Előző",
+        "close": "Bezárás",
+        "search": "Keresés",
+        "filter": "Szűrő",
+        "countdownToStart": "Visszaszámlálás a rajtig...",
+        "days": "Nap",
+        "hours": "Óra",
+        "minutes": "Perc",
+        "seconds": "Másodperc",
+        "comingSoon": "Hamarosan"
+      },
+      "events": {
+        "comingSoon": "Hamarosan elérhető!",
+        "buyTickets": "Jegyek vásárlása",
+        "saveToCalendar": "Naptárba mentés",
+        "viewOnMap": "Megtekintés térképen",
+        "bookNow": "Foglalj jegyeket most",
+        "10KRace": "10K futás",
+        "5KRace": "5K futás",
+        "3KRace": "3K futás",
+        "ChildrenRace": "Gyermekfutás",
+        "DogsRace": "Kutyafutás",
+        "FamilyRace": "Családi futás",
+        "FameForKindness": "Hírnév a kedvességért"
+      },
+      "loading": {
+        "initializing": "Inicializálás...",
+        "loadingCity": "Város betöltése...",
+        "fetchingRevenue": "Bevételek lekérése...",
+        "loadingPreferences": "Beállítások betöltése...",
+        "ready": "Kész!"
+      },
+      "map": {
+        "comingSoon": "Hamarosan térkép funkcióval!",
+        "satellite": "Műhold",
+        "standard": "Normál",
+        "pointOfInterest": "Fontos helyszínek",
+        "eventLocation": "Esemény helyszíne",
+        "pathShown": "Útvonal megjelenítve",
+        "pathHidden": "Útvonal elrejtve"
+      },
+      "music": {
+        "title": "Zene",
+        "volume": "Hangerő",
+        "nowPlaying": "Most játszott",
+        "duration": "Időtartam",
+        "original": "Eredeti"
+      },
+      "navigation": {
+        "home": "Kezdőlap",
+        "profile": "Profil",
+        "settings": "Beállítások",
+        "about": "Rólunk",
+        "map": "Térkép",
+        "mapList": "Látnivalók",
+        "tickets": "Jegyek",
+        "events": "Események",
+        "program": "Program",
+        "music": "Zene",
+        "volunteer": "Önkéntes",
+        "changeCity": "Város váltása",
+        "topTabs": "Menüpontok"
+      },
+      "run": {
+        "startRun": "Futás indítása",
+        "stopRun": "Futás leállítása",
+        "pauseRun": "Futás szüneteltetése",
+        "resumeRun": "Futás folytatása",
+        "distance": "Távolság",
+        "duration": "Időtartam",
+        "pace": "Tempó",
+        "calories": "Kalória",
+        "steps": "Lépések"
+      },
+      "settings": {
+        "language": "Nyelv",
+        "city": "Város",
+        "cityDescription": "Jelenlegi:",
+        "changeCity": "Város váltása",
+        "musicVolume": "Zene hangerő",
+        "version": "Verzió",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Menüfül",
+          "top": "Fent",
+          "bottom": "Lent"
+        },
+        "saveAndExit": "Mentés és kilépés"
+      },
+      "tickets": {
+        "tickets": "Jegyek",
+        "comingSoon": "Jegyek hamarosan!"
+      },
+      "volunteer": {
+        "comingSoon": "Hamarosan",
+        "volunteerDescription": "Csatlakozzon elkötelezett önkénteseink csapatához, és segítsen sikeressé tenni a Zayed Jótékonysági Futást!",
+        "registrationForm": "Önkéntes Regisztrációs Űrlap",
+        "personalDetails": "Személyes Adatok",
+        "firstName": "Keresztnév",
+        "lastName": "Vezetéknév",
+        "emailAddress": "E-mail cím",
+        "mobileNumber": "Mobiltelefonszám",
+        "dateOfBirth": "Születési Dátum",
+        "ageNote": "Az önkénteseknek 21 évesnek vagy idősebbnek kell lenniük.",
+        "gender": "Nem",
+        "male": "Férfi",
+        "female": "Nő",
+        "timeCommitmentLabel": "Időbeli Elkötelezettség (Válasszon minden alkalmazandót)",
+        "timeCommitmentNote": "* Legalább egy teljes napos elkötelezettség szükséges",
+        "timeCommitmentRequired": "Kérjük, válasszon legalább egy napi elkötelezettséget",
+        "languagesSpoken": "Beszélt Nyelvek",
+        "languagesRequired": "Kérjük, válasszon legalább egy nyelvet",
+        "desiredRoles": "Kívánt Szerepek (Válasszon minden érdekeset)",
+        "otherRoles": "Egyéb Szerepek (kérjük, adja meg)",
+        "otherRolesPlaceholder": "pl. Eseménykoordináció, Közösségi média kezelés, stb.",
+        "socialMedia": "Közösségi Média Fiókok",
+        "twitter": "Twitter Felhasználónév",
+        "instagram": "Instagram Felhasználónév",
+        "facebook": "Facebook Profil",
+        "linkedin": "LinkedIn Profil",
+        "tiktok": "TikTok Felhasználónév",
+        "agreement": "Megállapodás és Elismerés",
+        "agreeToTerms": "Elfogadom",
+        "termsAndConditions": "a felhasználási feltételeket",
+        "agreeToGDPR": "Elfogadom",
+        "privacyPolicy": "az adatvédelmi irányelveket",
+        "andGDPR": "és a GDPR megfelelőséget",
+        "termsRequired": "El kell fogadnia a felhasználási feltételeket",
+        "gdprRequired": "El kell fogadnia az adatvédelmi irányelveket",
+        "photo": "Fotó",
+        "photoUpload": "Fotó Feltöltése",
+        "photoUploadMessage": "Válassza ki, hogyan szeretné hozzáadni a fényképét",
+        "takePhoto": "Fotó Készítése",
+        "chooseFromGallery": "Kiválasztás Galériából",
+        "uploadPhoto": "Fotó Feltöltése",
+        "changePhoto": "Fotó Módosítása",
+        "photoOptional": "Opcionális - Max. 5 MB",
+        "genderRequired": "Kérjük, válassza ki a nemét",
+        "emailInvalid": "Kérjük, érvényes e-mail címet adjon meg",
+        "dateOfBirthRequired": "Kérjük, válassza ki a születési dátumát",
+        "photoUploadErrorTitle": "Feltöltés sikertelen",
+        "photoUploadError": "A fénykép feltöltése sikertelen. Kérjük, próbálja újra.",
+        "submitApplication": "Önkéntes Jelentkezés Beküldése",
+        "emailExistsTitle": "Jelentkezés Létezik",
+        "emailExists": "Már létezik jelentkezés ezzel az e-mail címmel.",
+        "successTitle": "Jelentkezés Elküldve",
+        "applicationSubmitted": "Köszönjük! Önkéntes jelentkezését sikeresen elküldtük.",
+        "errorTitle": "Beküldési Hiba",
+        "submissionError": "Hiba történt a jelentkezés beküldésekor. Kérjük, próbálja újra."
+      }
+    }
+  },
+  "version": 5
+}
