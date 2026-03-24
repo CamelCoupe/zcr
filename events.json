@@ -1,0 +1,371 @@
+[
+  {
+    "name": "events.10KRace",
+    "sortOrder": 10,
+    "image": "require('../../assets/images/events/10k_race.png')",
+    "date": "May 17, 2026",
+    "path": true,
+    "time": "8:00 AM",
+    "map": true,
+    "coordinates": {
+      "latitude": 47.5148,
+      "longitude": 19.0777
+    },
+    "pathCoordinates": [
+      { "latitude": 47.51471, "longitude": 19.0773 },
+      { "latitude": 47.514477, "longitude": 19.077086 },
+      { "latitude": 47.499245, "longitude": 19.054225 },
+      { "latitude": 47.498724, "longitude": 19.048237 },
+      { "latitude": 47.499413, "longitude": 19.047752 },
+      { "latitude": 47.500474, "longitude": 19.047296 },
+      { "latitude": 47.500561, "longitude": 19.046837 },
+      { "latitude": 47.500347, "longitude": 19.046561 },
+      { "latitude": 47.499726, "longitude": 19.046729 },
+      { "latitude": 47.499531, "longitude": 19.046458 },
+      { "latitude": 47.498455, "longitude": 19.040901 },
+      { "latitude": 47.498534, "longitude": 19.040421 },
+      { "latitude": 47.498259, "longitude": 19.040181 },
+      { "latitude": 47.498127, "longitude": 19.040587 },
+      { "latitude": 47.498406, "longitude": 19.040976 },
+      { "latitude": 47.499481, "longitude": 19.046528 },
+      { "latitude": 47.499325, "longitude": 19.046995 },
+      { "latitude": 47.498468, "longitude": 19.047304 },
+      { "latitude": 47.49835, "longitude": 19.047124 },
+      { "latitude": 47.498374, "longitude": 19.046912 },
+      { "latitude": 47.498916, "longitude": 19.046768 },
+      { "latitude": 47.499543, "longitude": 19.046805 },
+      { "latitude": 47.499825, "longitude": 19.046569 },
+      { "latitude": 47.500315, "longitude": 19.046167 },
+      { "latitude": 47.500744, "longitude": 19.045931 },
+      { "latitude": 47.504241, "longitude": 19.044917 },
+      { "latitude": 47.505641, "longitude": 19.044757 },
+      { "latitude": 47.506696, "longitude": 19.04485 },
+      { "latitude": 47.508664, "longitude": 19.045268 },
+      { "latitude": 47.50866, "longitude": 19.045212 },
+      { "latitude": 47.506819, "longitude": 19.044821 },
+      { "latitude": 47.505578, "longitude": 19.044711 },
+      { "latitude": 47.504278, "longitude": 19.04485 },
+      { "latitude": 47.500742, "longitude": 19.045838 },
+      { "latitude": 47.499529, "longitude": 19.04667 },
+      { "latitude": 47.498922, "longitude": 19.046659 },
+      { "latitude": 47.498068, "longitude": 19.046786 },
+      { "latitude": 47.498317, "longitude": 19.047111 },
+      { "latitude": 47.49858, "longitude": 19.047811 },
+      { "latitude": 47.498615, "longitude": 19.048267 },
+      { "latitude": 47.49918, "longitude": 19.054249 },
+      { "latitude": 47.5144, "longitude": 19.077161 },
+      { "latitude": 47.51451, "longitude": 19.077551 }
+    ],
+    "aboutKey": "events.10KRaceAbout",
+    "buttons": [
+      {
+        "text": "events.buyTickets",
+        "actionType": "navigate",
+        "navigateTo": "Tickets",
+        "raceId": "e5a8d3e1-b812-44c8-9fc4-ebdcad5fa679"
+      },
+      {
+        "text": "events.saveToCalendar",
+        "actionType": "calendar"
+      }
+    ],
+    "provider": "Zayed Charity Run"
+  },
+  {
+    "name": "events.5KRace",
+    "sortOrder": 12,
+    "image": "require('../../assets/images/events/5k_race.png')",
+    "date": "May 17, 2026",
+    "path": true,
+    "time": "11:00 AM",
+    "map": true,
+    "coordinates": {
+      "latitude": 47.5158,
+      "longitude": 19.0777
+    },
+    "pathCoordinates": [
+      { "latitude": 47.516744, "longitude": 19.083603 },
+      { "latitude": 47.516581, "longitude": 19.086306 },
+      { "latitude": 47.516561, "longitude": 19.086432 },
+      { "latitude": 47.51554, "longitude": 19.089654 },
+      { "latitude": 47.515187, "longitude": 19.090195 },
+      { "latitude": 47.513049, "longitude": 19.092458 },
+      { "latitude": 47.512588, "longitude": 19.092467 },
+      { "latitude": 47.512033, "longitude": 19.09207 },
+      { "latitude": 47.51161, "longitude": 19.091536 },
+      { "latitude": 47.510475, "longitude": 19.089701 },
+      { "latitude": 47.50975, "longitude": 19.0888 },
+      { "latitude": 47.508045, "longitude": 19.086774 },
+      { "latitude": 47.507885, "longitude": 19.085827 },
+      { "latitude": 47.50828, "longitude": 19.08523 },
+      { "latitude": 47.509651, "longitude": 19.084084 },
+      { "latitude": 47.510359, "longitude": 19.084177 },
+      { "latitude": 47.510684, "longitude": 19.08482 },
+      { "latitude": 47.51174, "longitude": 19.084736 },
+      { "latitude": 47.512204, "longitude": 19.08504 },
+      { "latitude": 47.512516, "longitude": 19.085056 },
+      { "latitude": 47.513903, "longitude": 19.083892 },
+      { "latitude": 47.514244, "longitude": 19.08386 },
+      { "latitude": 47.514909, "longitude": 19.084132 },
+      { "latitude": 47.516048, "longitude": 19.084009 },
+      { "latitude": 47.516549, "longitude": 19.08378 }
+    ],
+    "aboutKey": "events.5KRaceAbout",
+    "buttons": [
+      {
+        "text": "events.buyTickets",
+        "actionType": "navigate",
+        "navigateTo": "Tickets",
+        "raceId": "b92c6794-b9f4-4c28-be8e-e75b154b7894"
+      },
+      {
+        "text": "events.saveToCalendar",
+        "actionType": "calendar"
+      }
+    ],
+    "provider": "Zayed Charity Run"
+  },
+  {
+    "name": "events.3KRace",
+    "sortOrder": 13,
+    "image": "require('../../assets/images/events/3k_race.png')",
+    "date": "May 17, 2026",
+    "path": true,
+    "time": "1:00 PM",
+    "map": true,
+    "coordinates": {
+      "latitude": 47.5168,
+      "longitude": 19.0777
+    },
+    "pathCoordinates": [
+      { "latitude": 47.516744, "longitude": 19.083603 },
+      { "latitude": 47.516581, "longitude": 19.086306 },
+      { "latitude": 47.516561, "longitude": 19.086432 },
+      { "latitude": 47.51554, "longitude": 19.089654 },
+      { "latitude": 47.515187, "longitude": 19.090195 },
+      { "latitude": 47.513049, "longitude": 19.092458 },
+      { "latitude": 47.512588, "longitude": 19.092467 },
+      { "latitude": 47.512033, "longitude": 19.09207 },
+      { "latitude": 47.51161, "longitude": 19.091536 },
+      { "latitude": 47.510475, "longitude": 19.089701 },
+      { "latitude": 47.50975, "longitude": 19.0888 },
+      { "latitude": 47.508045, "longitude": 19.086774 },
+      { "latitude": 47.507885, "longitude": 19.085827 },
+      { "latitude": 47.50828, "longitude": 19.08523 },
+      { "latitude": 47.509651, "longitude": 19.084084 },
+      { "latitude": 47.510359, "longitude": 19.084177 },
+      { "latitude": 47.510684, "longitude": 19.08482 },
+      { "latitude": 47.512204, "longitude": 19.08504 },
+      { "latitude": 47.512671, "longitude": 19.083375 },
+      { "latitude": 47.513686, "longitude": 19.08062 },
+      { "latitude": 47.513708, "longitude": 19.080662 },
+      { "latitude": 47.513672, "longitude": 19.081088 },
+      { "latitude": 47.513417, "longitude": 19.082127 },
+      { "latitude": 47.513903, "longitude": 19.083892 },
+      { "latitude": 47.514244, "longitude": 19.08386 },
+      { "latitude": 47.514909, "longitude": 19.084132 },
+      { "latitude": 47.516048, "longitude": 19.084009 },
+      { "latitude": 47.516549, "longitude": 19.08378 }
+    ],
+    "aboutKey": "events.3KRaceAbout",
+    "buttons": [
+      {
+        "text": "events.buyTickets",
+        "actionType": "navigate",
+        "navigateTo": "Tickets",
+        "raceId": "f75a3874-3f04-4ee7-aabc-d4dd72c27802"
+      },
+      {
+        "text": "events.saveToCalendar",
+        "actionType": "calendar"
+      }
+    ],
+    "provider": "Zayed Charity Run"
+  },
+  {
+    "name": "events.ChildrenRace",
+    "sortOrder": 23,
+    "image": "require('../../assets/images/events/children_race.png')",
+    "date": "May 16, 2026",
+    "path": true,
+    "time": "1:00 PM",
+    "map": true,
+    "coordinates": {
+      "latitude": 47.5178,
+      "longitude": 19.0777
+    },
+    "pathCoordinates": [
+      { "latitude": 47.514157, "longitude": 19.090465 },
+      { "latitude": 47.51386, "longitude": 19.09069 },
+      { "latitude": 47.513646, "longitude": 19.09092 },
+      { "latitude": 47.513599, "longitude": 19.09074 },
+      { "latitude": 47.513481, "longitude": 19.090768 },
+      { "latitude": 47.5134, "longitude": 19.090575 },
+      { "latitude": 47.513443, "longitude": 19.090419 },
+      { "latitude": 47.513362, "longitude": 19.090004 },
+      { "latitude": 47.513448, "longitude": 19.089244 },
+      { "latitude": 47.513599, "longitude": 19.089138 },
+      { "latitude": 47.51395, "longitude": 19.089462 },
+      { "latitude": 47.514098, "longitude": 19.089962 },
+      { "latitude": 47.514328, "longitude": 19.089839 },
+      { "latitude": 47.514436, "longitude": 19.090008 },
+      { "latitude": 47.514419, "longitude": 19.090245 },
+      { "latitude": 47.514166, "longitude": 19.090454 }
+    ],
+    "aboutKey": "events.ChildrenRaceAbout",
+    "buttons": [
+      {
+        "text": "events.buyTickets",
+        "actionType": "navigate",
+        "navigateTo": "Tickets",
+        "raceId": "a05bdea3-2486-4976-a85f-4c96583c9520"
+      },
+      {
+        "text": "events.saveToCalendar",
+        "actionType": "calendar"
+      }
+    ],
+    "provider": "Zayed Charity Run"
+  },
+  {
+    "name": "events.DogsRace",
+    "sortOrder": 24,
+    "image": "require('../../assets/images/events/dogs_race.png')",
+    "date": "May 16, 2026",
+    "path": true,
+    "time": "9:00 AM",
+    "map": true,
+    "coordinates": {
+      "latitude": 47.5188,
+      "longitude": 19.0777
+    },
+    "pathCoordinates": [
+      { "latitude": 47.516744, "longitude": 19.083603 },
+      { "latitude": 47.516581, "longitude": 19.086306 },
+      { "latitude": 47.516561, "longitude": 19.086432 },
+      { "latitude": 47.51554, "longitude": 19.089654 },
+      { "latitude": 47.515187, "longitude": 19.090195 },
+      { "latitude": 47.513049, "longitude": 19.092458 },
+      { "latitude": 47.512588, "longitude": 19.092467 },
+      { "latitude": 47.512033, "longitude": 19.09207 },
+      { "latitude": 47.51161, "longitude": 19.091536 },
+      { "latitude": 47.510475, "longitude": 19.089701 },
+      { "latitude": 47.50975, "longitude": 19.0888 },
+      { "latitude": 47.508045, "longitude": 19.086774 },
+      { "latitude": 47.507885, "longitude": 19.085827 },
+      { "latitude": 47.50828, "longitude": 19.08523 },
+      { "latitude": 47.509651, "longitude": 19.084084 },
+      { "latitude": 47.510359, "longitude": 19.084177 },
+      { "latitude": 47.510684, "longitude": 19.08482 },
+      { "latitude": 47.512204, "longitude": 19.08504 },
+      { "latitude": 47.512671, "longitude": 19.083375 },
+      { "latitude": 47.513686, "longitude": 19.08062 },
+      { "latitude": 47.513708, "longitude": 19.080662 },
+      { "latitude": 47.513672, "longitude": 19.081088 },
+      { "latitude": 47.513417, "longitude": 19.082127 },
+      { "latitude": 47.513903, "longitude": 19.083892 },
+      { "latitude": 47.514244, "longitude": 19.08386 },
+      { "latitude": 47.514909, "longitude": 19.084132 },
+      { "latitude": 47.516048, "longitude": 19.084009 },
+      { "latitude": 47.516549, "longitude": 19.08378 }
+    ],
+    "aboutKey": "events.DogsRaceAbout",
+    "buttons": [
+      {
+        "text": "events.buyTickets",
+        "actionType": "navigate",
+        "navigateTo": "Tickets",
+        "raceId": "61c3a10e-b573-42cd-8300-905fae7ffba0"
+      },
+      {
+        "text": "events.saveToCalendar",
+        "actionType": "calendar"
+      }
+    ],
+    "provider": "Zayed Charity Run"
+  },
+  {
+    "name": "events.FamilyRace",
+    "sortOrder": 25,
+    "image": "require('../../assets/images/events/family_race.png')",
+    "date": "May 16, 2026",
+    "path": true,
+    "time": "10:00 AM",
+    "map": false,
+    "coordinates": {
+      "latitude": 47.5198,
+      "longitude": 19.0777
+    },
+    "pathCoordinates": [
+      { "latitude": 47.516744, "longitude": 19.083603 },
+      { "latitude": 47.516581, "longitude": 19.086306 },
+      { "latitude": 47.516561, "longitude": 19.086432 },
+      { "latitude": 47.51554, "longitude": 19.089654 },
+      { "latitude": 47.515187, "longitude": 19.090195 },
+      { "latitude": 47.513049, "longitude": 19.092458 },
+      { "latitude": 47.512588, "longitude": 19.092467 },
+      { "latitude": 47.512033, "longitude": 19.09207 },
+      { "latitude": 47.51161, "longitude": 19.091536 },
+      { "latitude": 47.510475, "longitude": 19.089701 },
+      { "latitude": 47.50975, "longitude": 19.0888 },
+      { "latitude": 47.508045, "longitude": 19.086774 },
+      { "latitude": 47.507885, "longitude": 19.085827 },
+      { "latitude": 47.50828, "longitude": 19.08523 },
+      { "latitude": 47.509651, "longitude": 19.084084 },
+      { "latitude": 47.510359, "longitude": 19.084177 },
+      { "latitude": 47.510684, "longitude": 19.08482 },
+      { "latitude": 47.512204, "longitude": 19.08504 },
+      { "latitude": 47.512671, "longitude": 19.083375 },
+      { "latitude": 47.513686, "longitude": 19.08062 },
+      { "latitude": 47.513708, "longitude": 19.080662 },
+      { "latitude": 47.513672, "longitude": 19.081088 },
+      { "latitude": 47.513417, "longitude": 19.082127 },
+      { "latitude": 47.513903, "longitude": 19.083892 },
+      { "latitude": 47.514244, "longitude": 19.08386 },
+      { "latitude": 47.514909, "longitude": 19.084132 },
+      { "latitude": 47.516048, "longitude": 19.084009 },
+      { "latitude": 47.516549, "longitude": 19.08378 }
+    ],
+    "aboutKey": "events.FamilyRaceAbout",
+    "buttons": [
+      {
+        "text": "events.buyTickets",
+        "actionType": "navigate",
+        "navigateTo": "Tickets",
+        "raceId": "c9d27e3c-a216-4713-85ee-979678fb5b5a"
+      },
+      {
+        "text": "events.saveToCalendar",
+        "actionType": "calendar"
+      }
+    ],
+    "provider": "Zayed Charity Run"
+  },
+  {
+    "name": "events.FameForKindness",
+    "sortOrder": 26,
+    "image": "require('../../assets/images/events/fame.png')",
+    "date": "May 17, 2026",
+    "path": false,
+    "time": "12:00 PM - 2:00 PM",
+    "map": true,
+    "coordinates": {
+      "latitude": 47.513054,
+      "longitude": 19.083341
+    },
+    "aboutKey": "events.FameForKindnessAbout",
+    "buttons": [
+      {
+        "text": "events.buyTickets",
+        "actionType": "navigate",
+        "navigateTo": "Tickets",
+        "raceId": "62cfbae6-ce3d-443a-956c-f3182c8c6236"
+      },
+      {
+        "text": "events.saveToCalendar",
+        "actionType": "calendar"
+      }
+    ],
+    "provider": "Zayed Charity Run"
+  }
+]
