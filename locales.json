@@ -1,0 +1,1128 @@
+{
+  "locales": {
+    "en": {
+      "app": {
+        "name": "Zayed Charity Run"
+      },
+      "auth": {
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register",
+        "forgotPassword": "Forgot Password?",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "username": "Username"
+      },
+      "charity": {
+        "donate": "Donate",
+        "totalRaised": "Total Raised",
+        "goal": "Goal",
+        "supporters": "Supporters",
+        "impact": "Impact",
+        "revenue": "Revenue So Far ...",
+        "ticketsPurchased": "Tickets Purchased",
+        "totalIncome": "Total Income"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run, known in the United States as the UAE Healthy Kidney Run, first expanded to New York in 2005, where it has since remained one of the city's most popular charitable runs. Organized in partnership with the National Kidney Foundation and the UAE Embassy in Washington, D.C., all proceeds from the event are dedicated to supporting kidney research. Now, the \"kindest run in the world\" is returning to the United States, taking place in Miami, Florida, on 31 January 2026. This meaningful charity event continues to reflect the enduring friendship between the UAE and the USA, as well as the UAE's steadfast commitment to humanitarian and health causes worldwide."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run comes to Budapest from May 16 to 17, 2026, uniting runners and families in a celebration of fitness, community, and philanthropy. Featuring competitive races including a scenic 10K urban course through the city's historic heart, a 5K and 3K through the beautiful Városliget Park, and a special children's race, the event also offers unique experiences like hot air balloon rides providing breathtaking views of Budapest. All proceeds from ticket sales support charities across Hungary, embodying the run's commitment to generosity and making a positive impact in communities worldwide."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Run for Kindness",
+          "description": "Join us on Saturday, 29 November 2025, at Wahat Al Karama for the new edition of the Zayed Charity Run, an event that celebrates fitness, generosity, and the essence of human values. Whether you're a casual runner or a professional athlete, you can choose from 3 km, 5 km, or 10 km distances. The run kicks off at 7:00 am from Wahat Al Karama and finishes at Erth Abu Dhabi. This Year, proceeds from the run will support three pioneering research programs at the Abu Dhabi Stem Cell Center (ADSCC): advancing personalized cancer therapy through Tumour Infiltrating Lymphocytes (TILs), developing a Bioinformatics and AI platform to drive precision medicine for conditions such as multiple sclerosis and type 1 diabetes, and the Perinatal Project, which transforms donated placental tissue into innovative treatments for skin care and wound healing, emphasizing the runs mission to promote health, innovation, and community impact."
+        },
+        "cairo": {
+          "name": "Cairo",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run returns to Egypt on Friday, 26 December 2025, continuing its humanitarian journey that celebrates the enduring bond between the United Arab Emirates and Egypt. Organized in collaboration with the UAE Embassy in Egypt and the Egyptian Ministry of Youth and Sports, this year's edition will once again bring together thousands of participants to run for a noble cause. All proceeds from the event will go toward supporting life-saving treatments and medical research for young patients. The Zayed Charity Run continues to embody the values of generosity, unity, and hope, inspired by the timeless legacy of the UAE's Founding Father, the late Sheikh Zayed bin Sultan Al Nahyan."
+        },
+        "beijing": {
+          "name": "Beijing",
+          "tagline": "Run for Kindness",
+          "description": "Uniting the UAE and China in a historic celebration of sport, culture, and humanity, this landmark initiative brings together two nations through a unique blend of athletics and cultural exchange. The event will be held from 20 to 22 September 2025, across three iconic venues in Beijing: Huairou Jinyu Xingfa Science Park, Huairou District, and the Great Wall – Mutianyu Section. Donations will go to the Huairou District Women's Federation, the Huairou District Disabled Persons' Federation, the Red Cross Society in Beijing Huairou, and the Children's Welfare Institute in Huairou. This reflects the authentic values of the run and embodies its ongoing commitment to making a tangible difference in the lives of those most in need."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Run for Kindness",
+          "description": "On 5 October 2025, the Zayed Charity Run will arrive in Latin America for the very first time, hosted at the iconic Copacabana Beach in Rio de Janeiro. Launched in Abu Dhabi to honor the legacy of the late Sheikh Zayed bin Sultan Al Nahyan, the Run has grown into a global movement uniting sport, community, and philanthropy, with memorable editions in cities such as Cairo, New York, and Miami. Now, this legacy continues in Brazil, with its first edition hosted in Rio de Janeiro. Proceeds from the Rio edition will support Rio Solidário, a respected nonprofit that partners with government and community organizations to promote social inclusion and provide vital support to vulnerable groups, including children, women, and families in need."
+        },
+        "ethiopia": {
+          "name": "Ethiopia",
+          "tagline": "Run for Kindness",
+          "description": "The Zayed Charity Run arrives in Ethiopia, uniting communities in a celebration of health, unity, and philanthropy. This inaugural event features a scenic 10K course through Addis Ababa's historic landmarks, a 5K family-friendly route, and a 3K fun run for children. All proceeds support local charities and initiatives promoting education and healthcare in Ethiopia, embodying the run's global mission of kindness and positive change."
+        }
+      },
+      "common": {
+        "appName": "Zayed Charity Run",
+        "welcome": "Welcome",
+        "selectCity": "Select Your City",
+        "chooseRaceVersion": "Choose your race version",
+        "select": "Select",
+        "loading": "Loading...",
+        "error": "Error",
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "save": "Save",
+        "english": "English",
+        "arabic": "Arabic",
+        "hungarian": "Hungarian",
+        "spanish": "Spanish",
+        "german": "German",
+        "french": "French",
+        "delete": "Delete",
+        "edit": "Edit",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "close": "Close",
+        "search": "Search",
+        "filter": "Filter",
+        "countdownToStart": "Get ready...",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "comingSoon": "Coming Soon"
+      },
+      "events": {
+        "comingSoon": "Events feature coming soon!",
+        "buyTickets": "Buy Tickets",
+        "saveToCalendar": "Save to Calendar",
+        "viewOnMap": "View on Map",
+        "bookNow": "Book Now",
+        "10KRace": "10K Race",
+        "5KRace": "5K Race",
+        "3KRace": "3K Race",
+        "ChildrenRace": "Children's Race",
+        "DogsRace": "Dogs Race",
+        "FamilyRace": "Family Race",
+        "FameForKindness": "Fame for Kindness",
+        "10KRaceAbout": "The Zayed Charity Run 10K is the main competitive highlight on 17 May. The scenic urban course starts at Heroes’ Square and leads along the elegant Andrássy Avenue into the city centre, reaching Deák Ferenc Square. From there, it continues along József Attila Street and Széchenyi István Square, then over the historic Széchenyi Chain Bridge to Clark Ádám Square, where the first turnaround is located. Runners then cross the Széchenyi Chain Bridge again, pass Széchenyi István Square, and follow the riverbank road along the Danube, directly past the iconic Hungarian Parliament Building, to the next turnaround near Margaret Bridge. The course returns along the Danube to Széchenyi István Square, continues through Deák Ferenc Square, and leads onto the final stretch along Andrássy Avenue to a triumphant finish at Heroes’ Square. Ideal for runners seeking a varied yet challenging route through the heart of Budapest, while participation also supports a meaningful cause, with all ticket revenue going towards charities across Hungary.",
+        "5KRaceAbout": "The Zayed Charity 5km Run offers an ideal competitive distance on May 17. The entire race takes place within the beautiful City Park (Városliget), and this fast and picturesque course is ideal for runners of all levels looking for a challenging but enjoyable race, while participation also supports a meaningful cause, with all ticket revenue going towards charities across Hungary",
+        "3KRaceAbout": "The Zayed Charity Run 3K is an ideal entry-level competitive race on 17 May. Taking place entirely within the green surroundings of City Park (Városliget), this shorter distance is perfect for beginners, juniors, seniors, and anyone looking for a fun, fast run. Every participant supports a meaningful cause, with all ticket revenue going towards charities across Hungary.",
+        "ChildrenRaceAbout": "The joyful Children Race is on 16 May in Városliget Park – a fun 1 km course designed for kids up to 8 years old. Expect playful obstacles, laughter, and cheering! This special event lets little ones shine while supporting good causes. All proceeds from tickets go to charities throughout Hungary.",
+        "DogsRaceAbout": "Join the exciting Dogs Race event in Városliget, Budapest. Watch adorable dogs compete in a fun-filled race on May 16th at 9:00 AM. A perfect family-friendly activity during the Zayed Charity Run.",
+        "FamilyRaceAbout": "The Family Race on 16 May in Városliget Park is all about togetherness! One ticket covers a family group (minimum 2 people): at least one adult + child/grandchild (son, daughter, grandson, or granddaughter). No age limits. The whole group must cross the finish line together to win. A wonderful way to create family memories while helping charities across Hungary through your entry.",
+        "FameForKindnessAbout": "Join celebrities, influencers, and public figures in the Fame for Kindness event! This exclusive gathering brings together well-known personalities to champion charitable causes and inspire positive change. Experience networking opportunities with stars while supporting meaningful initiatives across Hungary."
+      },
+      "loading": {
+        "initializing": "Initializing...",
+        "loadingCity": "Loading city...",
+        "fetchingRevenue": "Fetching revenue...",
+        "loadingPreferences": "Loading preferences...",
+        "ready": "Ready!"
+      },
+      "map": {
+        "comingSoon": "Map feature coming soon!",
+        "satellite": "Satellite",
+        "standard": "Standard",
+        "pointOfInterest": "Point of Interest",
+        "eventLocation": "Event Location",
+        "pathShown": "Route path shown",
+        "pathHidden": "Route path hidden"
+      },
+      "music": {
+        "title": "Music",
+        "volume": "Music Volume",
+        "nowPlaying": "Playing Now",
+        "duration": "Duration",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Home",
+        "profile": "Profile",
+        "settings": "Settings",
+        "about": "About",
+        "map": "Map",
+        "mapList": "Points of Interest",
+        "tickets": "Tickets",
+        "events": "Events",
+        "program": "Program",
+        "music": "Music",
+        "volunteer": "Volunteer",
+        "changeCity": "Change City",
+        "topTabs": "Top Tabs"
+      },
+      "run": {
+        "startRun": "Start Run",
+        "stopRun": "Stop Run",
+        "pauseRun": "Pause Run",
+        "resumeRun": "Resume Run",
+        "distance": "Distance",
+        "duration": "Duration",
+        "pace": "Pace",
+        "calories": "Calories",
+        "steps": "Steps"
+      },
+      "settings": {
+        "language": "Language",
+        "city": "City",
+        "cityDescription": "Current:",
+        "changeCity": "Change City",
+        "musicVolume": "Music Volume",
+        "version": "Version",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Tab Position",
+          "top": "Top",
+          "bottom": "Bottom"
+        },
+        "saveAndExit": "Save and Exit"
+      },
+      "tickets": {
+        "tickets": "Tickets",
+        "comingSoon": "Tickets feature coming soon!"
+      },
+      "volunteer": {
+        "comingSoon": "Coming Soon"
+      }
+    },
+    "ar": {
+      "app": {
+        "name": "سباق زايد الخيري"
+      },
+      "auth": {
+        "login": "تسجيل الدخول",
+        "logout": "تسجيل الخروج",
+        "register": "إنشاء حساب",
+        "forgotPassword": "نسيت كلمة المرور؟",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "username": "اسم المستخدم"
+      },
+      "charity": {
+        "donate": "تبرع",
+        "totalRaised": "إجمالي المبلغ المجموع",
+        "goal": "الهدف",
+        "supporters": "الداعمون",
+        "impact": "التأثير",
+        "revenue": "الإيرادات حتى الآن ...",
+        "ticketsPurchased": "التذاكر المشتراة",
+        "totalIncome": "إجمالي الدخل"
+      },
+      "cities": {
+        "miami": {
+          "name": "ميامي",
+          "tagline": "نجري للعون",
+          "description": "سباق زايد الخيري، المعروف في الولايات المتحدة باسم سباق الكلى الصحية لدولة الإمارات العربية المتحدة، توسع أولاً إلى نيويورك في عام 2005، حيث ظل منذ ذلك الحين أحد أكثر السباقات الخيرية شعبية في المدينة. منظم بالشراكة مع المؤسسة الوطنية للكلى وسفارة الإمارات العربية المتحدة في واشنطن العاصمة، ويتم تخصيص جميع عائدات الحدث لدعم أبحاث الكلى. الآن، \"أكرم سباق في العالم\" يعود إلى الولايات المتحدة، ويقام في ميامي، فلوريدا، في 31 يناير 2026. يستمر هذا الحدث الخيري المعنوي في عكس الصداقة الدائمة بين الإمارات العربية المتحدة والولايات المتحدة الأمريكية، بالإضافة إلى التزام الإمارات العربية المتحدة الثابت بالقضايا الإنسانية والصحية في جميع أنحاء العالم."
+        },
+        "budapest": {
+          "name": "بودابست",
+          "tagline": "نجري للعون",
+          "description": "يصل سباق زايد الخيري إلى بودابست من 16 إلى 17 مايو 2026، موحدًا بين الرجال والعائلات في احتفال باللياقة البدنية والمجتمع والعمل الخيري. يتميز بسباقات تنافسية تشمل مسارًا حضريًا خلابًا لـ10 كم عبر قلب المدينة التاريخي، و5 كم و3 كم عبر حديقة فوروشليغيت الجميلة، وسباقًا خاصًا للأطفال، كما يقدم تجارب فريدة مثل رحلات البالون الجوي الساخن التي توفر إطلالات خلابة على بودابست. جميع عائدات بيع التذاكر تدعم الجمعيات الخيرية في جميع أنحاء المجر، مما يجسد التزام السباق بالكرم وإحداث تأثير إيجابي في المجتمعات حول العالم."
+        },
+        "abudhabi": {
+          "name": "أبوظبي",
+          "tagline": "نجري للعون",
+          "description": "انضم إلينا يوم السبت، 29 نوفمبر 2025، في وهة الكرامة للنسخة الجديدة من سباق زايد الخيري، حدث يحتفل باللياقة البدنية والكرم وجوهر القيم الإنسانية. سواء كنت عداءًا عاديًا أو رياضيًا محترفًا، يمكنك الاختيار من مسافات 3 كم، 5 كم، أو 10 كم. يبدأ السباق في الساعة 7:00 صباحًا من وهة الكرامة وينتهي في إيرث أبوظبي. هذا العام، ستدعم عائدات السباق ثلاث برامج بحثية رائدة في مركز أبوظبي للخلايا الجذعية (ADSCC): تقدم العلاج الشخصي للسرطان من خلال الخلايا الليمفاوية المتسللة للورم (TILs)، تطوير منصة البايوإنفورماتيكس والذكاء الاصطناعي لدفع الطب الدقيق للحالات مثل التصلب المتعدد وداء السكري من النوع 1، ومشروع ما قبل الولادة، الذي يحول الأنسجة المشيمية المتبرع بها إلى علاجات مبتكرة للعناية بالجلد والشفاء من الجروح، مع التركيز على مهمة السباق في تعزيز الصحة والابتكار والتأثير المجتمعي."
+        },
+        "cairo": {
+          "name": "القاهرة",
+          "tagline": "نجري للعون",
+          "description": "يعود سباق زايد الخيري إلى مصر يوم الجمعة، 26 ديسمبر 2025، مستمرًا في رحلته الإنسانية التي تحتفل بالرابطة الدائمة بين دولة الإمارات العربية المتحدة ومصر. منظم بالتعاون مع سفارة الإمارات العربية المتحدة في مصر ووزارة الشباب والرياضة المصرية، ستجمع نسخة هذا العام مرة أخرى آلاف المشاركين للجري من أجل قضية نبيلة. ستذهب جميع عائدات الحدث نحو دعم العلاجات المنقذة للحياة والبحوث الطبية للمرضى الشباب. يستمر سباق زايد الخيري في تجسيد قيم الكرم والوحدة والأمل، مستوحى من الإرث الخالد لمؤسس دولة الإمارات العربية المتحدة، الشيخ زايد بن سلطان آل نهيان الراحل."
+        },
+        "beijing": {
+          "name": "بكين",
+          "tagline": "نجري للعون",
+          "description": "توحيد الإمارات العربية المتحدة والصين في احتفال تاريخي بالرياضة والثقافة والإنسانية، يجمع هذا المبادرة التاريخية بين دولتين من خلال مزيج فريد من الرياضة والتبادل الثقافي. سيقام الحدث من 20 إلى 22 سبتمبر 2025، عبر ثلاثة أماكن أيقونية في بكين: حديقة العلوم هويرو جينيو شينغفا، منطقة هويرو، وسور الصين العظيم – قسم موتيانيو. ستذهب التبرعات إلى اتحاد نساء منطقة هويرو، اتحاد المعاقين في منطقة هويرو، جمعية الصليب الأحمر في بكين هويرو، ومعهد رعاية الأطفال في هويرو. يعكس هذا القيم الأصيلة للسباق ويجسد التزامه المستمر بإحداث فرق ملموس في حياة أولئك الأكثر احتياجًا."
+        },
+        "riodejaneiro": {
+          "name": "ريو دي جانيرو",
+          "tagline": "نجري للعون",
+          "description": "في 5 أكتوبر 2025، سيصل سباق زايد الخيري إلى أمريكا اللاتينية لأول مرة، مستضافًا على شاطئ كوباكابانا الأيقوني في ريو دي جانيرو. أطلق في أبوظبي لتكريم إرث الشيخ زايد بن سلطان آل نهيان الراحل، نمى السباق إلى حركة عالمية توحد الرياضة والمجتمع والعمل الخيري، مع نسخ لا تُنسى في مدن مثل القاهرة ونيويورك وميامي. الآن، يستمر هذا الإرث في البرازيل، مع نسخته الأولى المستضافة في ريو دي جانيرو. ستدعم عائدات نسخة ريو ريو سوليداريو، منظمة غير ربحية محترمة تتعاون مع الحكومة والمنظمات المجتمعية لتعزيز الاندماج الاجتماعي وتقديم دعم حيوي للمجموعات الضعيفة، بما في ذلك الأطفال والنساء والعائلات المحتاجة."
+        },
+        "ethiopia": {
+          "name": "إثيوبيا",
+          "tagline": "نجري للعون",
+          "description": "يصل سباق زايد الخيري إلى إثيوبيا، موحدًا المجتمعات في احتفال بالصحة والوحدة والعمل الخيري. يتميز هذا الحدث الأول بمسار خلاب لـ10 كم عبر معالم أديس أبابا التاريخية، ومسار 5 كم مناسب للعائلات، وسباق 3 كم ممتع للأطفال. جميع العائدات تدعم الجمعيات الخيرية المحلية والمبادرات التي تعزز التعليم والرعاية الصحية في إثيوبيا، مما يجسد مهمة السباق العالمية في اللطف والتغيير الإيجابي."
+        }
+      },
+      "common": {
+        "appName": "سباق زايد الخيري",
+        "welcome": "مرحباً",
+        "selectCity": "اختر المدينة",
+        "chooseRaceVersion": "اختر مدينة السباق ",
+        "select": "اختر",
+        "loading": "جارٍ التحميل...",
+        "error": "خطأ",
+        "retry": "إعادة المحاولة",
+        "cancel": "إلغاء",
+        "confirm": "تأكيد",
+        "save": "حفظ",
+        "english": "الإنجليزية",
+        "arabic": "العربية",
+        "hungarian": "المجرية",
+        "spanish": "الإسبانية",
+        "german": "الألمانية",
+        "french": "الفرنسية",
+        "delete": "حذف",
+        "edit": "تعديل",
+        "back": "رجوع",
+        "next": "التالي",
+        "previous": "السابق",
+        "close": "إغلاق",
+        "search": "بحث",
+        "filter": "تصفية",
+        "countdownToStart": "كن مستعدا ...  ",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني",
+        "comingSoon": "قريباً"
+      },
+      "events": {
+        "comingSoon": "هذه الخاصية غير متوفرة حاليا!",
+        "buyTickets": "شراء التذاكر",
+        "saveToCalendar": "حفظ في التقويم",
+        "viewOnMap": "عرض على الخريطة",
+        "bookNow": "احجز الآن",
+        "10KRace": "سباق 10 كم",
+        "5KRace": "سباق 5 كم",
+        "3KRace": "سباق 3 كم",
+        "ChildrenRace": "سباق الأطفال",
+        "DogsRace": "سباق الكلاب",
+        "FamilyRace": "سباق العائلة",
+        "FameForKindness": "الشهرة من أجل اللطف",
+        "10KRaceAbout": "سباق زايد الخيري 10 كم هو الحدث الرئيسي في 17 مايو. يبدأ هذا المسار من ساحة الأبطال، ويمتد على طول شارع أندراسي الأنيق، مرورًا بجسر مارجريت على يمين مبنى البرلمان المجري الخلاب،  وعبورا من ساحة آدم كلارك إلى جسر السلسلة التاريخي، ومن هناك يعود المسار إلى شارع أندراشي وينتهي في ساحة الأبطال.",
+        "5KRaceAbout": "يتيح سباق زايد الخيري 5 كم مسافة تنافسية مثالية في 17 مايو. حيث يقام السباق بكامله داخل حديقة المدينة (Varosliget) الجميلة، وهذا المسار السريع والخلاب مثالي للعدائين من جميع المستويات الذين يبحثون عن سباق صعب ولكنه ممتع.",
+        "3KRaceAbout": "سباق زايد الخيري 3 كم هو سباق تنافسي رائع للمبتدئين في 17 مايو. يقام بالكامل في المحيط الأخضر لحديقة المدينة (Varosliget)، وهذه المسافة القصيرة تناسب المبتدئين والشباب وأي شخص يريد سباقًا ممتعًا وسريعًا.",
+        "ChildrenRaceAbout": "سباق الأطفال المبهج في 16 مايو في حديقة فوروشليغيت – مسار ممتع بطول 1 كم مصمم للأطفال حتى 8 سنوات. توقع عقبات مرحة، ضحكًا، وتشجيعًا! هذا الحدث الخاص يتيح للصغار التألق مع دعم القضايا النبيلة. جميع عائدات التذاكر تذهب إلى الجمعيات الخيرية في جميع أنحاء المجر.",
+        "DogsRaceAbout": "انضم إلى حدث سباق الكلاب المثير في فوروشليغيت، بودابست. شاهد الكلاب الرائعة تتنافس في سباق مليء بالمرح في 16 مايو الساعة 9:00 صباحًا. نشاط مثالي للعائلة خلال سباق زايد الخيري.",
+        "FamilyRaceAbout": "سباق العائلة في 16 مايو في حديقة فوروشليغيت يدور حول التلاحم! تكفي تذكرة واحدة لمجموعة عائلية (حد أدنى شخصين): على الأقل بالغ واحد + طفل/حفيد (ابن، ابنة، حفيد، أو حفيدة). لا حدود عمرية. يجب على المجموعة بأكملها عبور خط النهاية معًا للفوز. طريقة رائعة لإنشاء ذكريات عائلية مع المساعدة في الجمعيات الخيرية في جميع أنحاء المجر من خلال اشتراكك.",
+        "FameForKindnessAbout": "انضم إلى المشاهير والمؤثرين والشخصيات العامة في فعالية الشهرة للعون! يجمع هذا التجمع الحصري شخصيات معروفة لدعم العمل الإنساني وإلهام التغيير الإيجابي. استمتع بفرص التواصل مع النجوم مع دعم المبادرات ذات المعنى في جميع أنحاء المجر."
+      },
+      "loading": {
+        "initializing": "جاري التهيئة...",
+        "loadingCity": "تحميل المدينة...",
+        "fetchingRevenue": "جاري جلب الإيرادات...",
+        "loadingPreferences": "تحميل التفضيلات...",
+        "ready": "جاهز!"
+      },
+      "map": {
+        "comingSoon": "هذه الخاصية غير متوفرة حاليا!",
+        "eventLocation": "موقع الحدث",
+        "pointOfInterest": "نقطة اهتمام",
+        "satellite": "صور القمر الصناعي",
+        "standard": "عادي",
+        "pathShown": "تم عرض مسار الطريق",
+        "pathHidden": "تم إخفاء مسار الطريق"
+      },
+      "music": {
+        "title": "الموسيقى",
+        "volume": "مستوى الصوت",
+        "nowPlaying": "قيد التشغيل الآن",
+        "duration": "المدة",
+        "original": "الأغنية الأصلية من أداء"
+      },
+      "navigation": {
+        "home": "الرئيسية",
+        "main": "الرئيسية",
+        "profile": "الملف الشخصي",
+        "settings": "الإعدادات",
+        "about": "الحدث",
+        "map": "الخريطة",
+        "mapList": "نقاط الاهتمام",
+        "tickets": "التذاكر",
+        "events": "الفعاليات",
+        "program": "البرنامج",
+        "music": "الموسيقى",
+        "volunteer": "التطوع",
+        "changeCity": "تغيير المدينة",
+        "topTabs": "التبويبات العلوية"
+      },
+      "run": {
+        "startRun": "بدء الجري",
+        "stopRun": "إيقاف الجري",
+        "pauseRun": "إيقاف مؤقت",
+        "resumeRun": "استئناف الجري",
+        "distance": "المسافة",
+        "duration": "المدة الزمنية",
+        "pace": "السرعة",
+        "calories": "السعرات الحرارية",
+        "steps": "الخطوات"
+      },
+      "settings": {
+        "language": "اللغة",
+        "city": "المدينة",
+        "cityDescription": "المدينة الحالية:",
+        "changeCity": "تغيير المدينة",
+        "musicVolume": "مستوى الصوت",
+        "version": "الإصدار",
+        "versionNumber": "0.2",
+        "tabPosition": {
+          "label": "موقع علامات التبويب",
+          "top": "أعلى",
+          "bottom": "أسفل"
+        },
+        "saveAndExit": "حفظ والخروج"
+      },
+      "tickets": {
+        "tickets": "التذاكر",
+        "comingSoon": "ميزة التذاكر قريباً!"
+      },
+      "volunteer": {
+        "comingSoon": "قريباً"
+      }
+    },
+    "de": {
+      "app": {
+        "name": "Zayed Wohltätigkeitslauf"
+      },
+      "auth": {
+        "login": "Anmelden",
+        "logout": "Abmelden",
+        "register": "Registrieren",
+        "forgotPassword": "Passwort vergessen?",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "confirmPassword": "Passwort bestätigen",
+        "username": "Benutzername"
+      },
+      "charity": {
+        "donate": "Spenden",
+        "totalRaised": "Gesamteinnahmen",
+        "goal": "Ziel",
+        "supporters": "Unterstützer",
+        "impact": "Auswirkung",
+        "revenue": "Bisherige Einnahmen ...",
+        "ticketsPurchased": "Gekaufte Tickets",
+        "totalIncome": "Gesamteinnahmen"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run, in den Vereinigten Staaten als UAE Healthy Kidney Run bekannt, kam 2005 erstmals nach New York und wurde dort schnell zu einem der beliebtesten Wohltätigkeitsläufe der Stadt. Organisiert in Partnerschaft mit der National Kidney Foundation und der UAE-Botschaft in Washington, D.C., wurden alle Einnahmen der Unterstützung der Nierenforschung gewidmet. Nach mehreren erfolgreichen Ausgaben kehrte der Lauf 2026 in die USA zurück, diesmal mit einem neuen Austragungsort: Miami, Florida, wo die Veranstaltung am 31. Januar stattfand. Diese bedeutende Wohltätigkeitsveranstaltung spiegelte die dauerhafte Freundschaft zwischen den UAE und den USA sowie das Engagement der UAE für humanitäre und Gesundheitsprojekte weltweit wider."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run findet am 16. und 17. Mai 2026 erstmals in Budapest statt und markiert damit einen besonderen Meilenstein: Der seit über 25 Jahren bestehende Wohltätigkeitslauf wird zum ersten Mal in seiner Geschichte in Europa ausgetragen. Im Zeichen von Gemeinschaft und Philanthropie bietet die Veranstaltung den Läuferinnen und Läufern sowie ihren Familien ein unvergessliches Erlebnis. Im Városliget erwartet die Teilnehmenden und Besucher ein abwechslungsreiches Programm.Am 16. Mai stehen ein Familienlauf, ein Kinderlauf für die jüngsten Teilnehmer auf der Verkehrserziehungsstrecke im Stadtpark sowie ein besonderer Lauf mit Hunden auf dem Programm. Am 17. Mai folgen die Zeitläufe über 3 und 5 Kilometer im Városliget, während das Highlight des Wochenendes, der 10-Kilometer-Lauf, durch die schönsten Teile Budapests führt. Darüber hinaus bietet der Városliget zahlreiche kulturelle und kulinarische Erlebnisse. Emiratische Spezialitäten und Traditionen treffen auf die Vielfalt der ungarischen Küche und Kultur, während ungarische Sportpersönlichkeiten und Influencer für Atmosphäre und Inspiration sorgen. Ein besonderes Highlight sind die spektakulären Heißluftballonfahrten, die einen einzigartigen Blick auf die Stadt ermöglichen. Die gesamten Einnahmen aus den Startgebühren kommen ungarischen Wohltätigkeitsorganisationen zugute und tragen dazu bei, die positive Wirkung des Laufs auf Gemeinschaften in Ungarn und weltweit nachhaltig zu stärken."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run wurde am Samstag, den 29. November 2025, in Wahat Al Karama ausgetragen, einer Veranstaltung, die Fitness, Großzügigkeit und menschliche Werte feiert. Die Teilnehmer konnten zwischen 3 km, 5 km oder 10 km Distanzen wählen. Der Lauf begann um 7:00 Uhr in Wahat Al Karama und endete in Erth Abu Dhabi. Die Einnahmen unterstützten drei bahnbrechende Forschungsprogramme am Abu Dhabi Stem Cell Center (ADSCC): die Förderung personalisierter Krebsbehandlungen durch Tumor-infiltrierende Lymphozyten (TIL), die Entwicklung einer Bioinformatik- und KI-Plattform für Präzisionsmedizin bei Erkrankungen wie Multipler Sklerose und Typ-1-Diabetes sowie das Perinatal-Projekt, das gespendetes Plazentagewebe in innovative Behandlungen für Hautpflege und Wundheilung umwandelt. Damit unterstrich der Lauf seine Mission, Gesundheit, Innovation und gesellschaftliche Wirkung zu fördern."
+        },
+        "cairo": {
+          "name": "Kairo",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run fand am Freitag, den 26. Dezember 2025, in Ägypten statt und setzte seine humanitäre Reise fort, die die enge Verbindung zwischen den UAE und Ägypten feierte. Organisiert mit der UAE-Botschaft in Ägypten und dem ägyptischen Ministerium für Jugend und Sport brachte die Veranstaltung Tausende von Teilnehmern zusammen, um für einen guten Zweck zu laufen. Alle Einnahmen unterstützten lebensrettende Behandlungen und medizinische Forschung für junge Patienten. Der Lauf verkörperte die Werte von Großzügigkeit, Einheit und Hoffnung und wurde vom Erbe des verstorbenen Sheikh Zayed bin Sultan Al Nahyan inspiriert."
+        },
+        "beijing": {
+          "name": "Beijing",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run fand vom 20. bis 22. September 2025 in China statt, an drei ikonischen Orten in Peking: Huairou Jinyu Xingfa Science Park, Huairou District und die Große Mauer – Mutianyu-Sektion. Die Spenden gingen an die Frauenvereinigung des Huairou-Bezirks, die Vereinigung behinderter Personen des Bezirks, die Rotkreuzgesellschaft in Beijing Huairou und das Kinderwohlfahrtsinstitut in Huairou. Die Veranstaltung spiegelte die Werte des Laufs wider und zeigte das kontinuierliche Engagement, einen positiven Unterschied im Leben Bedürftiger zu machen."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run kam am 5. Oktober 2025 erstmals nach Lateinamerika und wurde am ikonischen Copacabana-Strand in Rio de Janeiro ausgerichtet. Gestartet in Abu Dhabi zur Ehrung des Erbes des verstorbenen Sheikh Zayed bin Sultan Al Nahyan, hatte sich der Lauf zu einer globalen Bewegung entwickelt, die Sport, Gemeinschaft und Philanthropie vereinte. Die Einnahmen unterstützten Rio Solidário, eine angesehene Non-Profit-Organisation, die mit lokalen Regierungs- und Gemeinschaftsorganisationen zusammenarbeitet, um soziale Inklusion zu fördern und vulnerable Gruppen wie Kinder, Frauen und bedürftige Familien zu unterstützen."
+        },
+        "ethiopia": {
+          "name": "Äthiopien",
+          "tagline": "Lauf für Freundlichkeit",
+          "description": "Der Zayed Charity Run wird nach Äthiopien kommen und dort Gemeinschaften in einer Feier von Gesundheit, Einheit und Philanthropie zusammenbringen. Die Erstveranstaltung bietet einen malerischen 10K-Kurs durch die historischen Sehenswürdigkeiten von Addis Abeba, eine familienfreundliche 5K-Route und einen 3K-Spaßlauf für Kinder. Alle Einnahmen werden lokale Wohltätigkeitsorganisationen und Initiativen zur Förderung von Bildung und Gesundheitsversorgung unterstützen und die globale Mission des Laufs für Güte und positive Veränderung verkörpern."
+        }
+      },
+      "common": {
+        "appName": "Zayed Charity Run",
+        "welcome": "Willkommen",
+        "selectCity": "Stadt auswählen",
+        "chooseRaceVersion": "Ihr Rennen wählen",
+        "select": "Auswählen",
+        "loading": "Laden...",
+        "error": "Fehler",
+        "retry": "Wiederholen",
+        "cancel": "Abbrechen",
+        "confirm": "Bestätigen",
+        "save": "Speichern",
+        "english": "Englisch",
+        "arabic": "Arabisch",
+        "hungarian": "Ungarisch",
+        "spanish": "Spanisch",
+        "german": "Deutsch",
+        "french": "Französisch",
+        "delete": "Löschen",
+        "edit": "Bearbeiten",
+        "back": "Zurück",
+        "next": "Weiter",
+        "previous": "Vorherige",
+        "close": "Schließen",
+        "search": "Suchen",
+        "filter": "Filtern",
+        "countdownToStart": "Countdown bis zum Start...",
+        "days": "Tage",
+        "hours": "Stunden",
+        "minutes": "Minuten",
+        "seconds": "Sekunden",
+        "comingSoon": "Bald verfügbar"
+      },
+      "events": {
+        "comingSoon": "Event-Funktion bald verfügbar!",
+        "buyTickets": "Tickets kaufen",
+        "saveToCalendar": "Im Kalender speichern",
+        "viewOnMap": "Auf der Karte anzeigen",
+        "bookNow": "Jetzt buchen",
+        "10KRace": "10K Lauf",
+        "5KRace": "5K Lauf",
+        "3KRace": "3K Lauf",
+        "ChildrenRace": "Kinderlauf",
+        "DogsRace": "Hundelauf",
+        "FamilyRace": "Familienlauf",
+        "FameForKindness": "Ruhm für Güte",
+        "10KRaceAbout": "Der Zayed Charity Run 10K ist das sportliche Highlight am 17. Mai. Die malerische Strecke durch die Stadt beginnt am Hősök tere (Heldenplatz) und führt entlang der eleganten Andrássy út ins Stadtzentrum bis zum Deák Ferenc tér. Von dort geht es über die József Attila utca und den Széchenyi István tér weiter über die historische Széchenyi Lánchíd (Kettenbrücke) bis zum Clark Ádám tér, wo der erste Wendepunkt liegt. Anschließend überqueren die Läuferinnen und Läufer erneut die Széchenyi Lánchíd (Széchenyi-Kettenbrücke), passieren den Széchenyi István tér und folgen der Uferstraße entlang der Donau, direkt am imposanten Parlament vorbei, bis zur nächsten Wende nahe an der Margit híd (Margaretenbrücke). Danach verläuft die Strecke zurück entlang der Donau bis zum Széchenyi István tér, weiter durch den Deák Ferenc tér, bevor sie auf die finale Strecke entlang der Andrássy út führt und stimmungsvoll am Hősök tere ins Ziel gelangt. Ideal für alle, die eine abwechslungsreiche und zugleich anspruchsvolle Strecke im Herzen von Budapest suchen. Gleichzeitig dient die Veranstaltung einem guten Zweck: Sämtliche Ticketeinnahmen kommen wohltätigen Organisationen in ganz Ungarn zugute.",
+        "5KRaceAbout": "Der Zayed Charity 5K Lauf bietet am 17. Mai eine ideale Wettkampfdistanz. Das gesamte Rennen findet im wunderschönen Stadtpark (Városliget) statt, und diese naturnahe und einzigartige Strecke ist perfekt für Läuferinnen und Läufer aller Leistungsstufen, die ein herausforderndes, mittellanges Rennen suchen. Gleichzeitig dient die Veranstaltung einem guten Zweck: Sämtliche Ticketeinnahmen kommen wohltätigen Organisationen in ganz Ungarn zugute.",
+        "3KRaceAbout": "Der Zayed Charity Run 3K ist am 17. Mai eine ideale Möglichkeit für Einsteiger. Das gesamte Rennen findet im grünen Városliget-Park statt und diese kürzere Strecke eignet sich perfekt für Anfänger, Jugendliche, Senioren sowie alle, die einen spaßigen und schnellen Lauf auf kürzerer Distanz suchen. Gleichzeitig dient die Veranstaltung einem guten Zweck: Sämtliche Ticketeinnahmen kommen wohltätigen Organisationen in ganz Ungarn zugute.",
+        "ChildrenRaceAbout": "Bald verfügbar",
+        "DogsRaceAbout": "Bald verfügbar",
+        "FamilyRaceAbout": "Bald verfügbar",
+        "FameForKindnessAbout": "Bald verfügbar"
+      },
+      "loading": {
+        "initializing": "Initialisierung...",
+        "loadingCity": "Stadt laden...",
+        "fetchingRevenue": "Einnahmen abrufen...",
+        "loadingPreferences": "Einstellungen laden...",
+        "ready": "Bereit!"
+      },
+      "map": {
+        "comingSoon": "Kartenfunktion bald verfügbar!",
+        "satellite": "Satellit",
+        "standard": "Standard",
+        "pointOfInterest": "Orte von Interesse",
+        "eventLocation": "Veranstaltungsort",
+        "pathShown": "Route angezeigt",
+        "pathHidden": "Route ausgeblendet"
+      },
+      "music": {
+        "title": "Musik",
+        "volume": "Lautstärke",
+        "nowPlaying": "Läuft gerade",
+        "duration": "Dauer",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Startseite",
+        "profile": "Profil",
+        "settings": "Einstellungen",
+        "about": "Über uns",
+        "map": "Karte",
+        "mapList": "Standorte",
+        "tickets": "Tickets",
+        "events": "Events",
+        "program": "Programm",
+        "music": "Musik",
+        "volunteer": "Freiwilliger",
+        "changeCity": "Stadt ändern",
+        "topTabs": "Obere Tabs"
+      },
+      "run": {
+        "startRun": "Lauf starten",
+        "stopRun": "Lauf stoppen",
+        "pauseRun": "Lauf pausieren",
+        "resumeRun": "Lauf fortsetzen",
+        "distance": "Distanz",
+        "duration": "Dauer",
+        "pace": "Tempo",
+        "calories": "Kalorien",
+        "steps": "Schritte"
+      },
+      "settings": {
+        "language": "Sprache",
+        "city": "Stadt",
+        "cityDescription": "Aktuell:",
+        "changeCity": "Stadt ändern",
+        "musicVolume": "Musiklautstärke",
+        "version": "Version",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Tab-Position",
+          "top": "Oben",
+          "bottom": "Unten"
+        },
+        "saveAndExit": "Speichern und beenden"
+      },
+      "tickets": {
+        "tickets": "Tickets",
+        "comingSoon": "Tickets-Funktion bald verfügbar!"
+      },
+      "volunteer": {
+        "comingSoon": "Demnächst"
+      }
+    },
+    "es": {
+      "app": {
+        "name": "Carrera de Caridad Zayed"
+      },
+      "auth": {
+        "login": "Iniciar Sesión",
+        "logout": "Cerrar Sesión",
+        "register": "Registrar",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "email": "Correo Electrónico",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar Contraseña",
+        "username": "Nombre de Usuario"
+      },
+      "charity": {
+        "donate": "Donar",
+        "totalRaised": "Donación Total",
+        "goal": "Meta de donación",
+        "supporters": "Colaboradores",
+        "impact": "Impacto",
+        "revenue": "Ingresos Hasta Ahora ...",
+        "ticketsPurchased": "Entradas Comprados",
+        "totalIncome": "Ingresos Totales"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed, conocida en Estados Unidos como la Carrera por la Salud Renal de los Emiratos Árabes Unidos, se celebró por primera vez en Nueva York en 2005, donde desde entonces se ha consolidado como una de las carreras benéficas más populares de la ciudad. Organizada en colaboración con la Fundación Nacional del Riñón y la Embajada de los Emiratos Árabes Unidos en Washington, D. C., todos los ingresos del evento se destinan a apoyar la investigación renal. Ahora, la 'carrera más amable del mundo' regresa a Estados Unidos y tendrá lugar en Miami, Florida, el 31 de enero de 2026. Este importante evento benéfico continúa reflejando la duradera amistad entre los Emiratos Árabes Unidos y Estados Unidos, así como el firme compromiso del país con las causas humanitarias y de salud en todo el mundo."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed llega a Budapest del 16 al 17 de mayo de 2026, reuniendo a corredores y familias en una celebración de deporte, comunidad y solidaridad. El evento incluye carreras competitivas como un recorrido urbano panorámico de 10K por el centro histórico, así como pruebas de 5K y 3K en el hermoso Parque Városliget, además de una carrera especial para niños. También ofrece experiencias únicas, como paseos en globo aerostático con vistas impresionantes de la ciudad. Todos los ingresos de las entradas se destinan a apoyar organizaciones benéficas en Hungría, reflejando el compromiso del evento con la generosidad y el impacto positivo en las comunidades en todo el mundo."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Corre por la Bondad",
+          "description": "Únete a nosotros el sábado 29 de noviembre de 2025 en Wahat Al Karama para una nueva edición de la Carrera de Caridad Zayed, un evento que celebra el deporte, la generosidad y los valores humanos. Los participantes pueden elegir entre distancias de 3 km, 5 km o 10 km. La carrera comienza a las 7:00 desde Wahat Al Karama y finaliza en Erth Abu Dhabi. Este año, los fondos recaudados apoyarán tres programas de investigación pioneros en el Centro de Células Madre de Abu Dhabi (ADSCC): el avance de terapias personalizadas contra el cáncer mediante Linfocitos Infiltrantes de Tumor (TIL), el desarrollo de una plataforma de Bioinformática e Inteligencia Artificial para impulsar la medicina de precisión en enfermedades como la esclerosis múltiple y la diabetes tipo 1, y el Proyecto Perinatal, que transforma tejidos placentarios donados en tratamientos innovadores para el cuidado de la piel y la cicatrización de heridas, destacando la misión de la carrera de promover la salud, la innovación y el impacto comunitario."
+        },
+        "cairo": {
+          "name": "El Cairo",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed regresa a Egipto el viernes 26 de diciembre de 2025, continuando su labor humanitaria que celebra el vínculo duradero entre los Emiratos Árabes Unidos y Egipto. Organizada en colaboración con la Embajada de los Emiratos Árabes Unidos en Egipto y el Ministerio de Juventud y Deportes de Egipto, la edición de este año volverá a reunir a miles de participantes para correr por una causa noble. Todos los fondos recaudados del evento se destinarán a apoyar tratamientos médicos que salvan vidas y la investigación médica para pacientes jóvenes. La Carrera de Caridad Zayed continúa encarnando los valores de generosidad, unidad y esperanza, inspirada en el legado atemporal del Padre Fundador de los Emiratos Árabes Unidos, el difunto Sheikh Zayed bin Sultan Al Nahyan."
+        },
+        "beijing": {
+          "name": "Beijing",
+          "tagline": "Corre por la Bondad",
+          "description": "Uniendo a los Emiratos Árabes Unidos y China en una celebración histórica del deporte, la cultura y la solidaridad, esta iniciativa emblemática reúne a ambas naciones a través de una combinación única de atletismo e intercambio cultural. El evento se llevará a cabo del 20 al 22 de septiembre de 2025 en tres lugares emblemáticos de Pekín: el Parque Científico Huairou Jinyu Xingfa, el distrito de Huairou y la Gran Muralla (sección Mutianyu). Las donaciones se destinarán a la Federación de Mujeres del distrito de Huairou, la Federación de Personas con Discapacidad del distrito de Huairou, la Sociedad de la Cruz Roja de Pekín en Huairou y el Instituto de Bienestar Infantil de Huairou. Esto refleja los valores fundamentales de la carrera y encarna su compromiso continuo de generar un impacto tangible en la vida de quienes más lo necesitan."
+        },
+        "riodejaneiro": {
+          "name": "Río de Janeiro",
+          "tagline": "Corre por la Bondad",
+          "description": "El 5 de octubre de 2025, la Carrera de Caridad Zayed llegará a América Latina por primera vez, celebrándose en la icónica playa de Copacabana, Río de Janeiro. Lanzada en Abu Dabi para honrar el legado del difunto Sheikh Zayed bin Sultan Al Nahyan, la carrera ha crecido hasta convertirse en un movimiento global que une el deporte, la comunidad y la filantropía, con ediciones memorables en ciudades como El Cairo, Nueva York y Miami. Ahora, este legado continúa en Brasil con su primera edición en Río de Janeiro. Los fondos recaudados en esta edición se destinarán a Rio Solidário, una reconocida organización sin fines de lucro que colabora con entidades gubernamentales y comunitarias para promover la inclusión social y brindar apoyo esencial a grupos vulnerables, incluidos niños, mujeres y familias en situación de necesidad."
+        },
+        "ethiopia": {
+          "name": "Etiopía",
+          "tagline": "Corre por la Bondad",
+          "description": "La Carrera de Caridad Zayed llega a Etiopía, uniendo a las comunidades en una celebración de la salud, la unidad y la filantropía. Este evento inaugural presenta un recorrido escénico de 10K a través de los lugares históricos de Adís Abeba, así como una ruta familiar de 5K y una carrera recreativa de 3K para niños. Todos los fondos recaudados apoyan a organizaciones benéficas locales e iniciativas que promueven la educación y la atención médica en Etiopía, encarnando la misión global de la carrera de fomentar la bondad y el cambio positivo."
+        }
+      },
+      "common": {
+        "appName": "Carrera de Caridad Zayed",
+        "welcome": "Bienvenido",
+        "selectCity": "Selecciona tu ciudad",
+        "chooseRaceVersion": "Elige tu modalidad de carrera",
+        "select": "Seleccionar",
+        "loading": "Cargando...",
+        "error": "Error",
+        "retry": "Reintentar",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "save": "Guardar",
+        "english": "Inglés",
+        "arabic": "Árabe",
+        "hungarian": "Húngaro",
+        "spanish": "Español",
+        "german": "Alemán",
+        "french": "Francés",
+        "delete": "Eliminar",
+        "edit": "Editar",
+        "back": "Atrás",
+        "next": "Siguiente",
+        "previous": "Anterior",
+        "close": "Cerrar",
+        "search": "Buscar",
+        "filter": "Filtrar",
+        "countdownToStart": "Cuenta atrás",
+        "days": "Días",
+        "hours": "Horas",
+        "minutes": "Minutos",
+        "seconds": "Segundos",
+        "comingSoon": "Próximamente"
+      },
+      "events": {
+        "comingSoon": "¡Próximamente!",
+        "buyTickets": "Comprar entradas",
+        "saveToCalendar": "Guardar en el calendario",
+        "viewOnMap": "Ver en el mapa",
+        "bookNow": "Reservar ahora",
+        "10KRace": "Carrera 10K",
+        "5KRace": "Carrera 5K",
+        "3KRace": "Carrera 3K",
+        "ChildrenRace": "Carrera infantil",
+        "DogsRace": "Carrera de perros",
+        "FamilyRace": "Carrera familiar",
+        "FameForKindness": "Fama por bondad",
+        "10KRaceAbout": "La Carrera de Caridad Zayed 10K es el punto culminante competitivo principal el 17 de mayo. Este pintoresco recorrido urbano comienza y termina en la Plaza de los Héroes, conduciendo a lo largo de la elegante Avenida Andrássy, pasando por la Plaza Nyugati, alrededor del bulevar Szent István körút, sobre el icónico Puente Margarita, a lo largo d'Árpád fejedelem útja y Bem rakpart, hasta la Plaza Adam Clark, cruzando el histórico Puente de las Cadenas, a través de Széchenyi István tér y József Attila utca, luego de vuelta por Andrássy hasta la triunfante meta en la Plaza de los Héroes. Ideal para corredores que buscan un itinerario hermoso y estimulante a través del corazón de Budapest. Todos los ingresos de las entradas van a organizaciones benéficas en toda Hungría.",
+        "5KRaceAbout": "La Carrera de Caridad Zayed 5K ofrece una distancia competitiva perfecta el 17 de mayo. Celebrada completamente dentro del hermoso Parque Városliget, esta ruta rápida y pintoresca es ideal para corredores de todos los niveles que buscan una carrera estimulante pero agradable. Únete a cientos de participantes apoyando grandes causas: todos los ingresos de las ventas de entradas van directamente a organizaciones benéficas en toda Hungría.",
+        "3KRaceAbout": "La Carrera de Caridad Zayed 3K es una gran carrera competitiva de nivel básico el 17 de mayo. Realizándose completamente en los alrededores verdes del Parque Városliget, esta distancia más corta es adecuada para principiantes, juniors y cualquiera que quiera una carrera divertida y rápida. Cada entrada ayuda: todos los ingresos de las entradas apoyan organizaciones benéficas significativas en toda Hungría.",
+        "ChildrenRaceAbout": "La alegre Carrera Infantil es el 16 de mayo en el Parque Városliget – un divertido recorrido de 1 km diseñado para niños hasta 8 años. ¡Espera obstáculos juguetones, risas y animación! Este evento especial permite que los más pequeños brillen mientras apoyan buenas causas. Todos los ingresos de las entradas van a organizaciones benéficas en toda Hungría.",
+        "DogsRaceAbout": "Únete al emocionante evento de Carrera de Perros en Városliget, Budapest. Mira a adorables perros competir en una carrera llena de diversión el 16 de mayo a las 9:00 AM. Una actividad perfecta para familias durante la Carrera de Caridad Zayed.",
+        "FamilyRaceAbout": "¡La Carrera Familiar el 16 de mayo en el Parque Városliget se trata de unión! Un boleto cubre un grupo familiar (mínimo 2 personas): al menos un adulto + niño/nieto (hijo, hija, nieto o nieta). Sin límites de edad. Todo el grupo debe cruzar la línea de meta juntos para ganar. Una maravillosa manera de crear recuerdos familiares mientras ayudas a organizaciones benéficas en toda Hungría a través de tu entrada.",
+        "FameForKindnessAbout": "¡Únete a celebridades, influencers y figuras públicas en el evento Fame for Kindness! Esta reunión exclusiva reúne a personalidades conocidas para defender causas benéficas e inspirar cambios positivos. Experimenta oportunidades de networking con estrellas mientras apoyas iniciativas significativas en toda Hungría."
+      },
+      "loading": {
+        "initializing": "Inicializando...",
+        "loadingCity": "Cargando ciudad...",
+        "fetchingRevenue": "Obteniendo ingresos...",
+        "loadingPreferences": "Cargando preferencias...",
+        "ready": "¡Listo!"
+      },
+      "map": {
+        "comingSoon": "¡Próximamente!",
+        "satellite": "Satélite",
+        "standard": "Estándar",
+        "pointOfInterest": "Punto de interés",
+        "eventLocation": "Ubicación del evento",
+        "pathShown": "Ruta visible",
+        "pathHidden": "Ruta oculta"
+      },
+      "music": {
+        "title": "Música",
+        "volume": "Volumen",
+        "nowPlaying": "Reproduciendo ahora",
+        "duration": "Duración",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Inicio",
+        "profile": "Perfil",
+        "settings": "Configuración",
+        "about": "Información",
+        "map": "Mapa",
+        "mapList": "Puntos de interés",
+        "tickets": "Entradas",
+        "events": "Eventos",
+        "program": "Programa",
+        "music": "Música",
+        "volunteer": "Voluntario",
+        "changeCity": "Cambiar ciudad",
+        "topTabs": "Pestañas superiores"
+      },
+      "run": {
+        "startRun": "Iniciar carrera",
+        "stopRun": "Detener carrera",
+        "pauseRun": "Pausar carrera",
+        "resumeRun": "Reanudar carrera",
+        "distance": "Distancia",
+        "duration": "Duración",
+        "pace": "Ritmo",
+        "calories": "Calorías",
+        "steps": "Pasos"
+      },
+      "settings": {
+        "language": "Idioma",
+        "city": "Ciudad",
+        "cityDescription": "Información de la ciudad:",
+        "changeCity": "Cambiar ciudad",
+        "musicVolume": "Volumen de música",
+        "version": "Versión",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Pestañas superiores",
+          "top": "Arriba",
+          "bottom": "Abajo"
+        },
+        "saveAndExit": "Guardar y salir"
+      },
+      "tickets": {
+        "tickets": "Entradas",
+        "comingSoon": "¡Próximamente!"
+      },
+      "volunteer": {
+        "comingSoon": "Próximamente"
+      }
+    },
+    "fr": {
+      "app": {
+        "name": "Course de Charité Zayed"
+      },
+      "auth": {
+        "login": "Connexion",
+        "logout": "Déconnexion",
+        "register": "S'inscrire",
+        "forgotPassword": "Mot de passe oublié ?",
+        "email": "Email",
+        "password": "Mot de passe",
+        "confirmPassword": "Confirmer le mot de passe",
+        "username": "Nom d'utilisateur"
+      },
+      "charity": {
+        "donate": "Faire un don",
+        "totalRaised": "Total collecté",
+        "goal": "Objectif",
+        "supporters": "Supporters",
+        "impact": "Impact",
+        "revenue": "Revenus jusqu'à présent...",
+        "ticketsPurchased": "Billets achetés",
+        "totalIncome": "Revenus totaux"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run, connu aux États-Unis sous le nom de UAE Healthy Kidney Run, s'est d'abord étendu à New York en 2005, où il reste l'un des runs caritatifs les plus populaires de la ville. Organisé en partenariat avec la National Kidney Foundation et l'Ambassade des Émirats Arabes Unis à Washington, D.C., tous les bénéfices de l'événement sont dédiés au soutien de la recherche sur les reins. Maintenant, le \"run le plus gentil du monde\" revient aux États-Unis, se déroulant à Miami, en Floride, le 31 janvier 2026. Cet événement caritatif significatif continue de refléter l'amitié durable entre les Émirats Arabes Unis et les États-Unis, ainsi que l'engagement inébranlable des Émirats Arabes Unis envers les causes humanitaires et de santé dans le monde entier."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run arrive à Budapest du 16 au 17 mai 2026, unissant coureurs et familles dans une célébration du fitness, de la communauté et de la philanthropie. Présentant des courses compétitives incluant un parcours urbain pittoresque de 10K à travers le cœur historique de la ville, un 5K et 3K à travers le beau parc Városliget, et une course spéciale pour enfants, l'événement offre également des expériences uniques comme des montgolfières offrant des vues à couper le souffle de Budapest. Tous les bénéfices des ventes de billets soutiennent des œuvres caritatives à travers la Hongrie, incarnant l'engagement du run envers la générosité et l'impact positif dans les communautés du monde entier."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Rejoignez-nous le samedi 29 novembre 2025 à Wahat Al Karama pour la nouvelle édition du Zayed Charity Run, un événement qui célèbre le fitness, la générosité et l'essence des valeurs humaines. Que vous soyez un coureur occasionnel ou un athlète professionnel, vous pouvez choisir parmi 3 km, 5 km ou 10 km. Le run commence à 7h00 depuis Wahat Al Karama et se termine à Erth Abu Dhabi. Cette année, les bénéfices du run soutiendront trois programmes de recherche pionniers au Abu Dhabi Stem Cell Center (ADSCC) : l'avancement de la thérapie personnalisée du cancer grâce aux lymphocytes infiltrant la tumeur (TIL), le développement d'une plateforme bioinformatique et IA pour promouvoir la médecine de précision pour des conditions telles que la sclérose en plaques et le diabète de type 1, et le Projet périnatal, qui transforme le tissu placentaire donné en traitements innovants pour les soins de la peau et la cicatrisation des plaies, soulignant la mission du run de promouvoir la santé, l'innovation et l'impact communautaire."
+        },
+        "cairo": {
+          "name": "Le Caire",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run revient en Égypte le vendredi 26 décembre 2025, continuant son voyage humanitaire qui célèbre le lien durable entre les Émirats Arabes Unis et l'Égypte. Organisé en collaboration avec l'Ambassade des Émirats Arabes Unis en Égypte et le Ministère égyptien de la Jeunesse et des Sports, cette édition rassemblera une fois de plus des milliers de participants pour courir pour une noble cause. Tous les bénéfices de l'événement iront au soutien des traitements salvateurs et de la recherche médicale pour les jeunes patients. Le Zayed Charity Run continue d'incarner les valeurs de générosité, d'unité et d'espoir, inspiré par l'héritage intemporel du Père fondateur des Émirats Arabes Unis, feu Cheikh Zayed bin Sultan Al Nahyan."
+        },
+        "beijing": {
+          "name": "Pékin",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Unissant les Émirats Arabes Unis et la Chine dans une célébration historique du sport, de la culture et de l'humanité, cette initiative historique rassemble deux nations à travers un mélange unique d'athlétisme et d'échange culturel. L'événement se tiendra du 20 au 22 septembre 2025, dans trois lieux emblématiques de Pékin : Huairou Jinyu Xingfa Science Park, district de Huairou, et la Grande Muraille - section Mutianyu. Les dons iront à la Fédération des femmes du district de Huairou, la Fédération des personnes handicapées du district de Huairou, la Société de la Croix-Rouge de Beijing Huairou, et l'Institut du bien-être des enfants de Huairou. Cela reflète les valeurs authentiques du run et incarne son engagement continu à faire une différence tangible dans la vie de ceux qui en ont le plus besoin."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le 5 octobre 2025, le Zayed Charity Run arrivera en Amérique latine pour la toute première fois, accueilli sur la plage emblématique de Copacabana à Rio de Janeiro. Lancé à Abu Dhabi pour honorer l'héritage de feu Cheikh Zayed bin Sultan Al Nahyan, le Run est devenu un mouvement mondial unissant sport, communauté et philanthropie, avec des éditions mémorables dans des villes comme Le Caire, New York et Miami. Maintenant, cet héritage se poursuit au Brésil, avec sa première édition accueillie à Rio de Janeiro. Les bénéfices de l'édition de Rio soutiendront Rio Solidário, une organisation à but non lucratif respectée qui s'associe au gouvernement et aux organisations communautaires pour promouvoir l'inclusion sociale et fournir un soutien vital aux groupes vulnérables, y compris les enfants, les femmes et les familles dans le besoin."
+        },
+        "ethiopia": {
+          "name": "Éthiopie",
+          "tagline": "Courir pour la gentillesse",
+          "description": "Le Zayed Charity Run arrive en Éthiopie, unissant les communautés dans une célébration de la santé, de l'unité et de la philanthropie. Cet événement inaugural présente un parcours pittoresque de 10K à travers les monuments historiques d'Addis-Abeba, un parcours familial de 5K et un run amusant de 3K pour les enfants. Tous les bénéfices soutiennent les œuvres caritatives locales et les initiatives promouvant l'éducation et les soins de santé en Éthiopie, incarnant la mission mondiale du run de gentillesse et de changement positif."
+        }
+      },
+      "common": {
+        "appName": "Zayed Charity Run",
+        "welcome": "Bienvenue",
+        "selectCity": "Sélectionnez votre ville",
+        "chooseRaceVersion": "Choisissez votre version de course",
+        "select": "Sélectionner",
+        "loading": "Chargement...",
+        "error": "Erreur",
+        "retry": "Réessayer",
+        "cancel": "Annuler",
+        "confirm": "Confirmer",
+        "save": "Sauvegarder",
+        "english": "Anglais",
+        "arabic": "Arabe",
+        "hungarian": "Hongrois",
+        "spanish": "Espagnol",
+        "german": "Allemand",
+        "french": "Français",
+        "delete": "Supprimer",
+        "edit": "Modifier",
+        "back": "Retour",
+        "next": "Suivant",
+        "previous": "Précédent",
+        "close": "Fermer",
+        "search": "Rechercher",
+        "filter": "Filtrer",
+        "countdownToStart": "Préparez-vous...",
+        "days": "Jours",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes",
+        "comingSoon": "Bientôt disponible"
+      },
+      "events": {
+        "comingSoon": "Fonction événements bientôt disponible !",
+        "buyTickets": "Acheter des billets",
+        "saveToCalendar": "Sauvegarder dans le calendrier",
+        "viewOnMap": "Voir sur la carte",
+        "bookNow": "Réserver maintenant",
+        "10KRace": "Course 10K",
+        "5KRace": "Course 5K",
+        "3KRace": "Course 3K",
+        "ChildrenRace": "Course enfants",
+        "DogsRace": "Course chiens",
+        "FamilyRace": "Course familiale",
+        "FameForKindness": "Célébrité pour la gentillesse",
+        "10KRaceAbout": "La Course de Charité Zayed 10K est le point culminant compétitif principal le 17 mai. Ce parcours urbain pittoresque commence et se termine place des Héros, menant le long de l'élégante avenue Andrássy, passant place Nyugati, autour du boulevard Szent István körút, sur le pont Marguerite emblématique, le long d'Árpád fejedelem útja et Bem rakpart, jusqu'à la place Adam Clark, traversant le pont des Chaînes historique, à travers Széchenyi István tér et József Attila utca, puis de retour le long d'Andrássy vers l'arrivée triomphale place des Héros. Idéal pour les coureurs cherchant un itinéraire beau et stimulant à travers le cœur de Budapest. Tous les revenus des billets soutiennent les organisations caritatives dans toute la Hongrie.",
+        "5KRaceAbout": "La Course de Charité Zayed 5K offre une distance compétitive parfaite le 17 mai. Organisée entièrement dans le magnifique Parc Városliget, cet itinéraire rapide et pittoresque est idéal pour les coureurs de tous niveaux cherchant une course stimulante mais agréable. Rejoignez des centaines de participants soutenant de grandes causes – tous les revenus des ventes de billets vont directement aux organisations caritatives dans toute la Hongrie.",
+        "3KRaceAbout": "La Course de Charité Zayed 3K est une excellente course compétitive de niveau débutant le 17 mai. Se déroulant entièrement dans les environs verdoyants du Parc Városliget, cette distance plus courte convient aux débutants, juniors et à quiconque souhaitant une course amusante et rapide. Chaque inscription aide – tous les revenus des billets soutiennent des organisations caritatives significatives dans toute la Hongrie.",
+        "ChildrenRaceAbout": "La joyeuse Course des Enfants a lieu le 16 mai au Parc Városliget – un parcours amusant de 1 km conçu pour les enfants jusqu'à 8 ans. Attendez-vous à des obstacles ludiques, des rires et des encouragements ! Cet événement spécial permet aux petits de briller tout en soutenant de bonnes causes. Tous les revenus des billets vont aux organisations caritatives dans toute la Hongrie.",
+        "DogsRaceAbout": "Rejoignez l'émouvant événement Course de Chiens à Városliget, Budapest. Regardez des chiens adorables concourir dans une course remplie de plaisir le 16 mai à 9h00. Une activité parfaite pour les familles pendant la Course de Charité Zayed.",
+        "FamilyRaceAbout": "La Course Familiale le 16 mai au Parc Városliget est tout au sujet de l'union ! Un billet couvre un groupe familial (minimum 2 personnes) : au moins un adulte + enfant/petit-enfant (fils, fille, petit-fils ou petite-fille). Pas de limites d'âge. Tout le groupe doit franchir la ligne d'arrivée ensemble pour gagner. Une merveilleuse façon de créer des souvenirs familiaux tout en aidant les organisations caritatives dans toute la Hongrie grâce à votre inscription.",
+        "FameForKindnessAbout": "Rejoignez les célébrités, influenceurs et personnalités publiques à l'événement Fame for Kindness ! Ce rassemblement exclusif réunit des personnalités connues pour défendre les causes caritatives et inspirer le changement positif. Vivez des opportunités de réseautage avec les stars tout en soutenant des initiatives significatives dans toute la Hongrie."
+      },
+      "loading": {
+        "initializing": "Initialisation...",
+        "loadingCity": "Chargement de la ville...",
+        "fetchingRevenue": "Récupération des revenus...",
+        "loadingPreferences": "Chargement des préférences...",
+        "ready": "Prêt !"
+      },
+      "map": {
+        "comingSoon": "Fonction carte bientôt disponible !",
+        "satellite": "Satellite",
+        "standard": "Standard",
+        "pointOfInterest": "Point d'intérêt",
+        "eventLocation": "Lieu de l'événement",
+        "pathShown": "Chemin affiché",
+        "pathHidden": "Chemin masqué"
+      },
+      "music": {
+        "title": "Musique",
+        "volume": "Volume",
+        "nowPlaying": "En cours de lecture",
+        "duration": "Durée",
+        "original": "Original"
+      },
+      "navigation": {
+        "home": "Accueil",
+        "profile": "Profil",
+        "settings": "Paramètres",
+        "about": "À propos",
+        "map": "Carte",
+        "mapList": "Points d'intérêt",
+        "tickets": "Billets",
+        "events": "Événements",
+        "program": "Programme",
+        "music": "Musique",
+        "volunteer": "Bénévole",
+        "changeCity": "Changer de ville",
+        "topTabs": "Onglets supérieurs"
+      },
+      "run": {
+        "startRun": "Commencer la course",
+        "stopRun": "Arrêter la course",
+        "pauseRun": "Pause",
+        "resumeRun": "Reprendre",
+        "distance": "Distance",
+        "duration": "Durée",
+        "pace": "Rythme",
+        "calories": "Calories",
+        "steps": "Pas"
+      },
+      "settings": {
+        "language": "Langue",
+        "city": "Ville",
+        "cityDescription": "Actuelle :",
+        "changeCity": "Changer de ville",
+        "musicVolume": "Volume de la musique",
+        "version": "Version",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Position des onglets",
+          "top": "Haut",
+          "bottom": "Bas"
+        },
+        "saveAndExit": "Sauvegarder et quitter"
+      },
+      "tickets": {
+        "tickets": "Billets",
+        "comingSoon": "Fonction billets bientôt disponible !"
+      },
+      "volunteer": {
+        "comingSoon": "Bientôt disponible"
+      }
+    },
+    "hu": {
+      "app": {
+        "name": "Zayed Jótékonysági Futás"
+      },
+      "auth": {
+        "login": "Bejelentkezés",
+        "logout": "Kijelentkezés",
+        "register": "Regisztráció",
+        "forgotPassword": "Elfelejtett jelszó?",
+        "email": "E-mail",
+        "password": "Jelszó",
+        "confirmPassword": "Jelszó megerősítése",
+        "username": "Felhasználónév"
+      },
+      "charity": {
+        "donate": "Adakozás",
+        "totalRaised": "Összesen befolyt adomány",
+        "goal": "Célösszeg",
+        "supporters": "Támogatók",
+        "impact": "Elért hatás",
+        "revenue": "Értékesítési bevétel ...",
+        "ticketsPurchased": "Vásárolt jegyek száma",
+        "totalIncome": "Összes bevétel"
+      },
+      "cities": {
+        "miami": {
+          "name": "Miami",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás, amely az Egyesült Államokban UAE Healthy Kidney Run néven ismert, 2005-ben érkezett először New Yorkba, ahol azóta is a város egyik legnépszerűbb jótékonysági futóeseménye maradt. A Nemzeti Vesealapítvánnyal és az Egyesült Arab Emírségek washingtoni nagykövetségével együttműködésben szervezett rendezvény teljes bevételét a vesekutatás támogatására fordították. A „világ legkedvesebb futásaként\" is emlegetett esemény 2026. január 31-én Miamiban, Floridában került megrendezésre. Ez a jelentős kezdeményezés tovább erősítette az Egyesült Arab Emírségek és az Egyesült Államok közötti tartós kapcsolatot, valamint az Emirátusok globális humanitárius és egészségügyi elkötelezettségét."
+        },
+        "budapest": {
+          "name": "Budapest",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás 2026. május 16–17-én Budapestre érkezik, és ezzel egy különleges mérföldkőhöz ér: a több mint 25 éves múltra visszatekintő jótékonysági futóversenyt története során most először rendezik meg Európában. A közösségi összetartás és a jótékonyság szellemében a rendezvény felejthetetlen élményt ígér a futóknak és az őket kísérő családtagoknak. A Városligetben sokszínű program várja a futókat és a látogatókat egyaránt. Május 16-án a Városliget ad otthont a családi futásnak, a legfiatalabb résztvevők számára pedig gyermekfutamot rendeznek a városligeti KRESZ-pályán, emellett egy különleges kutyás futásra is sor kerül. Május 17-én kerülnek megrendezésre az időmérő futamok 3 és 5 km-es távokon a Városligetben, míg a főesemény, a 10 km-es futam Budapest legszebb pontjain vezeti végig a versenyzőket. A Városligetben számos kulturális és gasztronómiai élmény várja a versenyzőket és a látogatókat. Az emírségi ízek és hagyományok izgalmasan keverednek a magyar konyha és kultúra legjobb elemeivel, miközben magyar sporthírességek és influenszerek gondoskodnak a hangulatról és az inspirációról. A programok között látványos hőlégballonos élmények is szerepelnek, ahonnan egészen új szemszögből csodálható meg a város. A nevezési díjak teljes összegét magyar jótékonysági szervezetek támogatására fordítják, így a rendezvény nemcsak élményt nyújt, hanem valódi értéket is teremt, erősítve a közösségek pozitív fejlődését Magyarországon és világszerte egyaránt."
+        },
+        "abudhabi": {
+          "name": "Abu Dhabi",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás 2025. november 29-én, szombaton került megrendezésre az abu-dzabi Wahat Al Karama emlékhelynél, ahol a sport, a nagylelkűség és az emberi értékek álltak a középpontban. A résztvevők 3 km-es, 5 km-es vagy 10 km-es távok közül választhattak, a rajt 7:00-kor indult, a cél pedig az Erth Abu Dhabinál volt. Az esemény bevétele három kiemelkedő kutatási programot támogatott az Abu Dhabi Stem Cell Centerben (ADSCC), többek között a személyre szabott rákterápiát, a precíziós orvoslást segítő bioinformatikai és mesterséges intelligencia alapú fejlesztéseket, valamint innovatív perinatális gyógyászati projekteket. Mindez jól tükrözte a kezdeményezés elkötelezettségét az egészségügyi innováció és a társadalmi hatás iránt."
+        },
+        "cairo": {
+          "name": "Kairó",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás 2025. december 26-án tért vissza Egyiptomba, folytatva azt a humanitárius küldetést, amely az Egyesült Arab Emírségek és Egyiptom közötti szoros kapcsolatot is jelképezte. Az eseményt az Emirátusok egyiptomi nagykövetségével és az Egyiptomi Ifjúsági és Sportminisztériummal együttműködésben szervezték, és résztvevők ezreit vonzotta egy közös, nemes cél érdekében. A bevételeket életmentő kezelésekre és fiatal betegek orvosi kutatására fordították, miközben a futás továbbra is a nagylelkűség, az egység és a remény értékeit képviselte."
+        },
+        "beijing": {
+          "name": "Peking",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás Kínában is megrendezésre került, ahol a sport, a kultúra és a közösség értékei álltak a középpontban. Az esemény 2025. szeptember 20–22. között zajlott Peking három ikonikus helyszínén, köztük a Huairou Jinyu Xingfa Tudományos Parkban, a Huairou kerületben, valamint a Nagy Fal mutianyui szakaszán. A befolyt adományok a Huairou kerületi Nők Szövetségéhez, a Fogyatékkal Élők Szövetségéhez, a Peking Huairou Vöröskereszthez és a Gyermekjóléti Intézethez kerültek, erősítve a futás autentikus értékeit és a nemzetközi közösség iránti elkötelezettségét."
+        },
+        "riodejaneiro": {
+          "name": "Rio de Janeiro",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás 2025. október 5-én érkezett Latin-Amerikába, ahol a Rio de Janeiró-i Copacabana strandon rendezték meg az eseményt. A kezdeményezés addigra globális mozgalommá vált, amely a sportot, a közösséget és a filantrópiát egyesítette. A bevételből a Rio Solidário nonprofit szervezet munkáját támogatták, amely együttműködve a helyi kormányzattal és közösségi szervezetekkel elősegítette a társadalmi befogadást és létfontosságú támogatást nyújtott a rászoruló gyermekeknek, nőknek és családoknak."
+        },
+        "ethiopia": {
+          "name": "Etiópia",
+          "tagline": "Futás a Kedvességért",
+          "description": "A Zayed Jótékonysági Futás Etiópiába is elérkezik, ahol a közösséget, az egészséget és a filantrópiát ünnepli majd. A program része lesz egy 10 km-es útvonal Addis Abeba történelmi látnivalóin keresztül, egy 5 km-es családi futás és egy 3 km-es gyermekverseny. A bevétel a helyi jótékonysági szervezeteket, valamint az oktatás és egészségügy előmozdítását támogatja majd, megtestesítve a futás globális küldetését a kedvesség és a pozitív változás előmozdításában."
+        }
+      },
+      "common": {
+        "appName": "Zayed Jótékonysági Futás",
+        "welcome": "Üdvözöljük",
+        "selectCity": "Válassza ki a futóverseny városát",
+        "chooseRaceVersion": "Válassza ki a verseny verzióját",
+        "select": "Kiválasztás",
+        "loading": "Betöltés...",
+        "error": "Hiba",
+        "retry": "Újra",
+        "cancel": "Mégse",
+        "confirm": "Megerősítés",
+        "save": "Mentés",
+        "english": "Angol",
+        "arabic": "Arab",
+        "hungarian": "Magyar",
+        "spanish": "Spanyol",
+        "german": "Német",
+        "french": "Francia",
+        "delete": "Törlés",
+        "edit": "Szerkesztés",
+        "back": "Vissza",
+        "next": "Következő",
+        "previous": "Előző",
+        "close": "Bezárás",
+        "search": "Keresés",
+        "filter": "Szűrő",
+        "countdownToStart": "Visszaszámlálás a rajtig...",
+        "days": "Nap",
+        "hours": "Óra",
+        "minutes": "Perc",
+        "seconds": "Másodperc",
+        "comingSoon": "Hamarosan"
+      },
+      "events": {
+        "comingSoon": "Hamarosan elérhető!",
+        "buyTickets": "Jegyek vásárlása",
+        "saveToCalendar": "Naptárba mentés",
+        "viewOnMap": "Megtekintés térképen",
+        "bookNow": "Foglalj jegyeket most",
+        "10KRace": "10K futás",
+        "5KRace": "5K futás",
+        "3KRace": "3K futás",
+        "ChildrenRace": "Gyermekfutás",
+        "DogsRace": "Kutyás futás",
+        "FamilyRace": "Családi futás",
+        "FameForKindness": "Hírnév a kedvességért",
+        "10KRaceAbout": "Május 17-én a Zayed Jótékonysági Futás 10K időmérő versenyszáma a fő sportesemény. Az útvonal a Hősök teréről indul, és az Andrássy úton vezet a belváros felé, egészen a Deák Ferenc térig. Innen a futók a József Attila utcán és a Széchenyi István téren haladnak tovább, majd átfutnak a történelmi Széchenyi Lánchídon egészen a Clark Ádám térig, ahol az első fordítóponthoz érnek. Ezután a résztvevők ismét átkelnek a Széchenyi Lánchídon, érintik a Széchenyi István teret, és az Id. Antall József rakparton haladnak tovább, közvetlenül az Országház előtt, majd a Margit híd közelében van a következő forduló. Az útvonal visszavezet a Dunapart mentén a Széchenyi István térhez, áthalad a Deák Ferenc téren, majd az Andrássy úton érkezik a végső, ünnepélyes célhoz a Hősök terén. Ez az útvonal egyaránt kínál kiegyensúlyozott kihívást, és bemutatja a város legszebb pontjait. A részvétellel nemcsak sportélményben lehet része, hanem egyben nemes célt is támogat: a jegybevétel teljes egészében magyarországi jótékonysági szervezeteket segíti.",
+        "5KRaceAbout": "Május 17-én a Zayed Jótékonysági 5K versenyszáma ideális versenyútvonalat kínál a Városligetben. A természetközeli útvonal minden szintű futó számára tökéletes, aki egy közepes távon keres kihívást.A részvétellel nemcsak sportélményben lehet része, hanem egyben nemes célt is támogat: a jegybevétel teljes egészében magyarországi jótékonysági szervezeteket segíti.",
+        "3KRaceAbout": "Május 17-én a Zayed Jótékonysági 3K versenyszáma kiváló lehetőséget kínál a Városligetben kezdőknek, fiataloknak, időseknek, valamint mindazoknak, akik egy rövidebb távon vidám és gyors futásra szeretnének benevezni. A részvétellel nemcsak sportélményben lehet része, hanem egyben nemes célt is támogat: a jegybevétel teljes egészében magyarországi jótékonysági szervezeteket segíti.",
+        "ChildrenRaceAbout": "Részletek hamarosan",
+        "DogsRaceAbout": "Részletek hamarosan",
+        "FamilyRaceAbout": "Részletek hamarosan",
+        "FameForKindnessAbout": "Részletek hamarosan"
+      },
+      "loading": {
+        "initializing": "Inicializálás...",
+        "loadingCity": "Város betöltése...",
+        "fetchingRevenue": "Bevételek lekérése...",
+        "loadingPreferences": "Beállítások betöltése...",
+        "ready": "Kész!"
+      },
+      "map": {
+        "comingSoon": "Hamarosan térkép funkcióval!",
+        "satellite": "Műhold",
+        "standard": "Normál",
+        "pointOfInterest": "Fontos helyszínek",
+        "eventLocation": "Esemény helyszíne",
+        "pathShown": "Útvonal megjelenítve",
+        "pathHidden": "Útvonal elrejtve"
+      },
+      "music": {
+        "title": "Zene",
+        "volume": "Hangerő",
+        "nowPlaying": "Most játszott",
+        "duration": "Időtartam",
+        "original": "Eredeti"
+      },
+      "navigation": {
+        "home": "Kezdőlap",
+        "profile": "Profil",
+        "settings": "Beállítások",
+        "about": "Rólunk",
+        "map": "Térkép",
+        "mapList": "Látnivalók",
+        "tickets": "Jegyek",
+        "events": "Események",
+        "program": "Program",
+        "music": "Zene",
+        "volunteer": "Önkéntes",
+        "changeCity": "Város váltása",
+        "topTabs": "Menüpontok"
+      },
+      "run": {
+        "startRun": "Futás indítása",
+        "stopRun": "Futás leállítása",
+        "pauseRun": "Futás szüneteltetése",
+        "resumeRun": "Futás folytatása",
+        "distance": "Távolság",
+        "duration": "Időtartam",
+        "pace": "Tempó",
+        "calories": "Kalória",
+        "steps": "Lépések"
+      },
+      "settings": {
+        "language": "Nyelv",
+        "city": "Város",
+        "cityDescription": "Jelenlegi:",
+        "changeCity": "Város váltása",
+        "musicVolume": "Zene hangerő",
+        "version": "Verzió",
+        "versionNumber": "0.0.1",
+        "tabPosition": {
+          "label": "Menüfül",
+          "top": "Fent",
+          "bottom": "Lent"
+        },
+        "saveAndExit": "Mentés és kilépés"
+      },
+      "tickets": {
+        "tickets": "Jegyek",
+        "comingSoon": "Jegyek hamarosan!"
+      },
+      "volunteer": {
+        "comingSoon": "Hamarosan"
+      }
+    }
+  },
+  "version": 10
+}
